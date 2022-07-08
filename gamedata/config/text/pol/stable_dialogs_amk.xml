@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!-- AMK Dialogs-->
+<string_table>
+	<!--Диалог с Кулинаром-->
+	 <string id="artem_kulinar_0">
+		<text>Здорово, чего ищешь?</text>
+	</string>
+	<string id="artem_kulinar_1">
+		<text>Здорово. Чего ищу - ещё не нашёл. </text>
+	</string>
+	<string id="artem_kulinar_2">
+		<text>А ты борзый, не боишься, пацанам свистну, они тебя в дуршлаг превратят.</text>
+	</string>
+	<string id="artem_kulinar_3">
+		<text>Ой хватит меня пугать..свистну..в дуршлаг. Я прямо трясусь весь.</text>
+	</string>
+	<string id="artem_kulinar_4">
+		<text>А ты мне нравишься, смелый пацан. Как звать то тебя? Меня Ровным все кличут. 
+		Так чего ты хотел...я уже серьёзно. Или так, мимо проходил?</text>
+	</string>
+	<string id="artem_kulinar_5">
+		<text>Да можно сказать и мимо проходил - Потап мне нужен. Меня Меченым зови.</text>
+	</string>
+	<string id="artem_kulinar_6">
+		<text>Слыхал я про тебя...в основном хорошее. Потапа в конце ангара ищи.</text>
+	</string>
+	<string id="artem_kulinar_7">
+		<text>А ты вроде не похож на бывшего бандюка? Чего к обычным сталкерам не пошёл?</text>
+	</string>
+	<string id="artem_kulinar_8">
+		<text>А мне и здесь неплохо. Братва уважает, я им товаров различных подкидываю, они мне арты таскают. Бизнес нормально идет. </text>
+	</string>
+	<string id="artem_kulinar_9">
+		<text>А что продаёшь?</text>
+	</string>
+	<string id="artem_kulinar_10">
+		<text>Всего по-чуток, и патроны, и аптечки, и еду. Что интересует?</text>
+	</string>
+	<string id="artem_kulinar_11">
+		<text>Да пока ничего, но буду знать, что у тебя можно прикупить припасов.</text>
+	</string>
+	<!--Диалог с Витьком Вороном-->
+	<string id="vitek_voron_0">
+		<text>Что надо?</text>
+	</string>
+	<string id="vitek_voron_1">
+		<text>И тебе привет. Да ничего не надо, просто поговорить хотел.</text>
+	</string>
+	<string id="vitek_voron_2">
+		<text>Ну слушаю тебя.</text>
+	</string>
+	<string id="vitek_voron_3">
+		<text>Меня Меченым звать, а ты кто?</text>
+	</string>
+	<string id="vitek_voron_4">
+		<text>Силуяном меня зови. Ещё что?</text>
+	</string>
+	<string id="vitek_voron_5">
+		<text>Да что-то Силуян выглядишь ты херово. Может я помочь смогу?</text>
+	</string>
+	<string id="vitek_voron_6">
+		<text>Херово не то слово...совсем не то. Помочь говоришь хочешь? А что, может и сможешь. Правда это будет нелегко.</text>
+	</string>
+	<string id="vitek_voron_7">
+		<text>Ты раскажи что к чему, а там поглядим.</text>
+	</string>
+</string_table>

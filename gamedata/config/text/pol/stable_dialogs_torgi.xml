@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+  <string id="sidor_new_tade_art_0">
+		<text>Здорово. Артефакты нужны?</text>
+     </string>
+     <string id="sidor_new_tade_art_1">
+		<text>Нужны, могу обменять. За две "Кровь камня" - дроби дам, или дротиков.\n За пару "Медуз" - для калаша.\n Ну а за два "Выверта" - "эфку" подкину.</text>
+     </string>
+     <string id="sidor_new_tade_art_2">
+		<text> Сегодня есть "кровь камня".</text>
+     </string>
+     <string id="sidor_new_tade_art_3">
+		<text>А вот и "медузка"...свеженькая.</text>
+     </string>
+     <string id="sidor_new_tade_art_4">
+		<text>Вот "выверт", а то грены нужны позарез.</text>
+     </string>
+     <string id="sidor_new_tade_art_5">
+		<text>Заходи ещё...если арты лишние будут.</text>
+     </string>
+     <string id="sidor_new_tade_art_6">
+		<text>Приноси еще "медуз", а я патронов отсыплю.</text>
+     </string>
+     <string id="sidor_new_tade_art_7">
+		<text>"Выверт" принес? Хорошо, держи "эфку", да смотри не взорвись. Ха-ха.</text>
+     </string>
+     <string id="sidor_new_tade_art_8">
+		<text>В этот раз пустой. Мимо шел, дай думаю, загляну.</text>
+		</string>
+		
+	 <!--Ckryaga-->
+	 <string id="skraga_tade_art_0">
+		<text> Здорово Харитон, говорят ты арты меняешь?</text>
+     </string>
+     <string id="skraga_tade_art_1">
+		<text>Здравствуй Меченый. Меняю, и не только арты, вот смотри:\nЗа пять бутылок водки, даю две гранаты ргд5.\n За два "Каменных цветка" - три пачки патрон 5.56x45_ap.\nЗа три "Выверта" - две  грены М209 для подствола .</text>
+     </string>
+     <string id="skraga_tade_art_2">
+		<text>Вот пять "энергетиков".</text>
+     </string>
+     <string id="skraga_tade_art_3">
+		<text>А вот и два "каменных цветка".</text>
+     </string>
+     <string id="skraga_tade_art_4">
+		<text>Вот держи "выверты".</text>
+     </string>
+     <string id="skraga_tade_art_5">
+		<text>На забирай, будут ещё заходи.</text>
+     </string>
+     <string id="skraga_tade_art_6">
+		<text>Хорошо, заходи ещё..</text>
+     </string>
+     <string id="skraga_tade_art_7">
+		<text>Тоже неплохо.</text>
+     </string>
+     <string id="skraga_tade_art_8">
+		<text>В этот раз пустой, артов что-то не нашёл, да и водка кончилась.</text>
+     </string> 
+	 
+	 <!--SVIST-->
+	 <string id="dejavu_art_0">
+		<text>Здорово. Есть несколько артов, обменяешь?</text>
+     </string>
+     <string id="dejavu_art_1">
+		<text>Здорово. Да без проблем...\nЗа пару "Золотых рыбок", три пачки 5.56x45_ap.\n За две "Вспышки", для "Грозы" три пачки 9x39_ap.\nЗа две "Слюды" пару пачек 7.62x51_ap дам.</text>
+     </string>
+     <string id="dejavu_art_2">
+		<text>Вот две "рыбки".</text>
+     </string>
+     <string id="dejavu_art_3">
+		<text>А вот и две "Вспышки".</text>
+     </string>
+     <string id="dejavu_art_4">
+		<text>Вот тебе две  "Слюды".</text>
+     </string>
+     <string id="dejavu_art_5">
+		<text>Держи свои патроны. Будут арты лишние...заходи.</text>
+     </string>
+     <string id="dejavu_art_6">
+		<text>Чудесно, заходи ещё.</text>
+     </string>
+     <string id="dejavu_art_7">
+		<text>Тоже неплохо.</text>
+     </string>
+     <string id="dejavu_art_8">
+		<text>Сори, ошибочка вышла...</text>
+     </string> 
+	 
+	 <!--Saxarov-->
+	 <string id="sahar_tade_art_0">
+		<text>Нина, вы арты на патроны меняете?</text>
+     </string>
+     <string id="sahar_tade_art_1">
+		<text>Здравствуй Меченый, меняю. Вот артефакты, которые я могу обменять на патроны.\nЗа пару "Огненных шаров", три пачки дроби.\n За две "Кристальные колючки", "картечь" две пачки.\nЗа два "Грави" пару пачек 5.45x39-ap дам.</text>
+     </string>
+     <string id="sahar_tade_art_2">
+		<text>Вот два "шара".</text>
+     </string>
+     <string id="sahar_tade_art_3">
+		<text>А вот и две "кристальных ключки".</text>
+     </string>
+     <string id="sahar_tade_art_4">
+		<text>Вот держите "грави".</text>
+     </string>
+     <string id="sahar_tade_art_5">
+		<text>Вот держите, будут ещё заходи.</text>
+     </string>
+     <string id="sahar_tade_art_6">
+		<text>Хорошо, заходи ещё..</text>
+     </string>
+     <string id="sahar_tade_art_7">
+		<text>Тоже неплохо.</text>
+     </string>
+     <string id="sahar_tade_art_8">
+		<text>В этот раз пустой, артов что-то не нашёл.</text>
+     </string> 
+	 
+	 
+	 <!--Tixonya-->
+	 <string id="tixonya_torg_0">
+		<text>Привет. Продукты лишние имеются.</text>
+     </string>
+     <string id="tixonya_torg_1">
+		<text>Могу обменять на патроны.\nЗа пять бутылок водки, дам две пачки 5.56x45_ap.\n За пять банок консерв - две пачки дроби.\nЗа пять батонов колбасы - две ргд5.</text>
+     </string>
+     <string id="tixonya_torg_2">
+		<text>Вот водка.</text>
+     </string>
+     <string id="tixonya_torg_3">
+		<text>Пяток банок консерв достал, меняю...</text>
+     </string>
+     <string id="tixonya_torg_4">
+		<text>Колбаса имеется.</text>
+     </string>
+     <string id="tixonya_torg_5">
+		<text>Держи свои патроны. Будут продукты лишние...неси, обменяю.</text>
+     </string>
+     <string id="tixonya_torg_6">
+		<text>Хорошо, заходи ещё.</text>
+     </string>
+     <string id="tixonya_torg_7">
+		<text>Тоже неплохо.</text>
+     </string>
+     <string id="tixonya_torg_8">
+		<text>Извини, я ошибся.</text>
+     </string> 
+	 
+	 <!--СИДОР-->
+	  <string id="prinesi_hvost_0">
+<text>Здорово Сидорович. Ты случайно части мутантов не обмениваешь на патроны, или ещё на что-нибудь?</text>
+</string>
+ <string id="prinesi_hvost_1">
+<text>Здорово коль не шутишь. 
+Случайно обмениваю: я беру копыта кабана - %c[255,249,090,097]по 4 штуки.\n%c[default] 
+За копыта даю артефакт.\n
+Ещё хвосты слепышей меняю - %c[255,255,000,127]беру по пять штук.%c[default]
+За них даю пачку патрон.\n</text>
+</string>
+        <string id="prinesi_hvost_2">
+<text>Принес я копыта, принимай.</text>
+</string>
+        <string id="prinesi_hvost_3">
+<text>Вот принес хвосты, принимай.</text>
+</string>
+        <string id="prinesi_hvost_4">
+<text>Копыта принес? Получи расчет.</text>
+</string>
+        <string id="prinesi_hvost_5">
+<text>Хвосты принес? Давай, вот, получи.</text>
+</string>
+        <string id="prinesi_hvost_6">
+<text>Сегодня пустой, так поболтать заскочил.</text>
+</string>
+	
+<string id="vova_tade_art_0">
+		<text>Привет Вован. Можешь мне несколько артов обменять на патроны?</text>
+     </string>
+     <string id="vova_tade_art_1">
+		<text>Здорово Меченый. Да без проблем. Что там у тебя имеется?.\n За пару "Ломтей мяса", гренки для подствола.\n За три "Кровь камня", патроны для калаша, бронебойные.\nЗа три "Медузы" гренки для натовского подствола, берёшь чего? </text>
+     </string>
+     <string id="vova_tade_art_2">
+		<text>Вот тебе два "ломтя".</text>
+     </string>
+     <string id="vova_tade_art_3">
+		<text>А вот тебе и три "крови".</text>
+     </string>
+     <string id="vova_tade_art_4">
+		<text>Вот держи "медузы", гони гренки.</text>
+     </string>
+     <string id="vova_tade_art_5">
+		<text>Вот держи, тащи ещё.</text>
+     </string>
+     <string id="vova_tade_art_6">
+		<text>Хорошо, это то что нужно.</text>
+     </string>
+     <string id="vova_tade_art_7">
+		<text>Тоже неплохо.</text>
+     </string>
+     <string id="vova_tade_art_8">
+		<text>В этот раз пустой, мимо шел, дай думаю, загляну.</text>
+     </string>
+	 
+	<string id="bar_tade_art_0">
+		<text>Здорово Бармен, как на счет арты обменять?</text>
+     </string>
+     <string id="bar_tade_art_1">
+		<text>Здорово, можем и обменять, вот смотри что я могу предложить.\nЗа пару "Бенгальских огней", патроны для МП5, бронебойные.\n За две "Слизи", "жеканов" сыпану.\nЗа две "Капли" пару пачек 5.56x45_ss190 дам, ну, что берём?</text>
+     </string>
+     <string id="bar_tade_art_2">
+		<text>Вот тебе два "бенгала"</text>
+     </string>
+     <string id="bar_tade_art_3">
+		<text>А вот тебе и две "Слизи"</text>
+     </string>
+     <string id="bar_tade_art_4">
+		<text>Вот держи "капли".</text>
+     </string>
+     <string id="bar_tade_art_5">
+		<text>Вот держи, будут ещё заходи.</text>
+     </string>
+     <string id="bar_tade_art_6">
+		<text>Хорошо, заходи ещё..</text>
+     </string>
+     <string id="bar_tade_art_7">
+		<text>Тоже неплохо.</text>
+     </string>
+     <string id="bar_tade_art_8">
+		<text>В этот раз пустой, артов что-то не нашёл.</text>
+     </string> 
+	 
+	 
+	 
+</string_table>
