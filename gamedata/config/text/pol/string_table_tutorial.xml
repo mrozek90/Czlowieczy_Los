@@ -1,87 +1,87 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="binoc_tutorial">
-		<text>Для того чтобы использовать бинокль, выберите его ($$ACTION_wpn_5$$) и нажмите "огонь" для приближения.</text>
+		<text>Aby uїyж lornetki, wybierz j№ ($$ACTION_wpn_5$$) i naciњnij "strzaі", aby powiкkszyж.</text>
 	</string>
 	<string id="binocular">
-		<text>Бинокль</text>
+		<text>Lornetka</text>
 	</string>
 	<string id="crouch">
-		<text>Приседания</text>
+		<text>Przysiad</text>
 	</string>
 	<string id="crouch_down_tutorial">
-		<text>Для того чтобы пригнуться низко, нажмите ($$ACTION_crouch$$) + (Shift)</text>
+		<text>Aby przykucn№ж nisko, naciњnij ($$ACTION_crouch$$) + (Shift)</text>
 	</string>
 	<string id="crouch_tutorial">
-		<text>Для того чтобы присесть, нажмите ($$ACTION_crouch$$). Чтобы присесть низко, нажмите ($$ACTION_crouch$$) + ($$ACTION_accel$$).</text>
+		<text>Aby przykucn№ж, naciњnij ($$ACTION_crouch$$). Aby przykucn№ж nisko, naciњnij ($$ACTION_crouch$$) + ($$ACTION_accel$$).</text>
 	</string>
 	<string id="hide_weapon">
-		<text>Выбор оружия</text>
+		<text>Wybуr broni</text>
 	</string>
 	<string id="hide_weapon_tutorial">
-		<text>Некоторые сталкеры не захотят говорить, если Вы будете тыкать им оружием в лицо. Чтобы спрятать оружие, достаточно выбрать болт ($$ACTION_wpn_6$$).</text>
+		<text>Niektуrzy stalkerzy nie bкd№ chcieli rozmawiaж, jeњli szturchniesz ich broni№ w twarz. Aby ukryж broс, wystarczy wybraж њrubк ($$ACTION_wpn_6$$).</text>
 	</string>
 	<string id="jump">
-		<text>Прыжки</text>
+		<text>Skok</text>
 	</string>
 	<string id="jump_tutorial">
-		<text>Прыжки помогут Вам забираться на невысокие препятствия. Для того чтобы прыгнуть, нажмите ($$ACTION_jump$$).</text>
+		<text>Skakanie pomoїe Ci wspinaж siк po niskich przeszkodach. Aby skoczyж, naciњnij ($$ACTION_jump$$).</text>
 	</string>
 	<string id="move_tutorial">
-		<text>Способы передвижения</text>
+		<text>Sposoby poruszania siк</text>
 	</string>
 	<string id="overload">
-		<text>Перегрузка</text>
+		<text>Przeci№їenie</text>
 	</string>
 	<string id="overload_tutorial">
-		<text>Вы не похожи на грузовик и нести на себе несколько тонн не сможете. Чем больше Вы несёте, тем быстрее теряете силы. В конце концов, если Вы наберёте слишком много, то не сможете сдвинуться с места.</text>
+		<text>Nie wygl№dasz jak ciкїarуwka i nie moїesz przewoziж kilku ton. Im wiкcej nosisz, tym szybciej tracisz siіy. Gdy bкdziasz miaі na sobie zbyt duї№ wagк przedmiotуw, nie bкdziesz mуgі siк ruszyж.</text>
 	</string>
 	<string id="radiation">
-		<text>Радиация</text>
+		<text>Promieniowanie</text>
 	</string>
 	<string id="radiation_tutorial">
-		<text>Когда персонаж находится в зоне с высоким радиационным фоном или носит на поясе радиоактивный артефакт, у него появляются признаки радиоактивного поражения. При этом у персонажа начинает уменьшаться здоровье. Для снятия эффекта радиационного поражения можно воспользоваться антирадом или водкой.</text>
+		<text>Gdy postaж znajduje siк w strefie o wysokim promieniowaniu lub nosi na pasku radioaktywny artefakt, bкdzie wykazywaж oznaki radioaktywnych obraїeс. Jednoczeњnie zdrowie postaci zaczyna siк zmniejszaж. Aby usun№ж efekt uszkodzenia popromiennego, moїesz uїyж antyradu lub wуdki.</text>
 	</string>
 	<string id="relation">
-		<text>Отношения</text>
+		<text>Relacje</text>
 	</string>
 	<string id="relation_tutorial">
-		<text>Когда игрок кому-то помогает, то улучшается отношение сталкера к нему и репутация персонажа в целом. Если у Вас хорошая репутация, то торговцы будут продавать Вам товары со скидкой. Если у Вас плохая репутация, то готовьтесь к высоким ценам.</text>
+		<text>Kiedy gracz komuњ pomaga, poprawia siк nastawienie stalkera do niego i reputacja postaci jako caіoњci. Jeњli masz dobr№ reputacjк, kupcy sprzedaj№ Ci towary z rabatem. Jeњli masz zі№ reputacjк, przygotuj siк na wysokie ceny.</text>
 	</string>
 	<string id="sleep_tutorial">
-		<text>Это специальное место для сна. Здесь можно выспаться, переждать ночь или просто дождаться назначенного часа. Для того чтобы спать, надо открыть инвентарь, установить время на циферблате, в течение которого Вы хотите спать, и нажать на кнопку "Отдохнуть". Через указанное время персонаж проснётся. Иногда он может видеть сны.</text>
+		<text>To wyj№tkowe miejsce do spania. Tutaj moїesz spaж, przeczekaж noc lub po prostu czekaж na wyznaczon№ godzinк. Aby spaж, musisz otworzyж swуj ekwipunek, ustawiж na tarczy czas, w ktуrym chcesz spaж, i klikn№ж przycisk "Odpoczynek". Po okreњlonym czasie postaж siк obudzi. Czasami moїe њniж.</text>
 	</string>
 	<string id="sprint">
-		<text>Ускорение</text>
+		<text>Sprint</text>
 	</string>
 	<string id="sprint_tutorial">
-		<text>В некоторых случаях ускорение может спасти Вам жизнь. Нажмите при ходьбе клавишу ($$ACTION_sprint_toggle$$). Во время ускорения персонаж быстрее бежит и дальше прыгает, но при этом быстрее устаёт и не может стрелять из оружия.</text>
+		<text>W niektуrych przypadkach sprint moїe uratowaж Ci їycie. Naciњnij klawisz podczas chodzenia ($$ACTION_sprint_toggle$$). Podczas sprintu postaж biega szybciej i dalej skacze, ale jednoczeњnie szybciej siк mкczy i nie moїe strzelaж z broni.</text>
 	</string>
 	<string id="starvation_tutorial">
-		<text>Когда персонаж долго не ест, у него появляется чувство голода. Когда голод становится сильным, то начинает медленно уменьшаться здоровье персонажа. Для того чтобы здоровье персонажа перестало уменьшаться, надо поесть. Утолить голод можно, съев батон хлеба, консерву или кусок колбасы.</text>
+		<text>Gdy postaж nie je przez dіuїszy czas, odczuwa gіуd. Gdy gіуd staje siк silny, zdrowie postaci zaczyna powoli spadaж. Aby zdrowie postaci przestaіo siк zmniejszaж, musisz jeњж. Moїesz zaspokoiж gіуd, jedz№c bochenek chleba, konserwк lub kawaіek kieіbasy.</text>
 	</string>
 	<string id="tutorial">
-		<text>Обучение</text>
+		<text>Przewodnik</text>
 	</string>
 	<string id="weakness">
-		<text>Усталость</text>
+		<text>Zmкczenie</text>
 	</string>
 	<string id="weakness_tutorial">
-		<text>Если Вы бежите либо несёте много тяжёлых вещей, Вы начинаете уставать. Если Вы устали слишком сильно, то Вы не сможете ни бегать, ни ходить некоторое время. К счастью, силы быстро восстанавливаются, стоит только постоять некоторое время.</text>
+		<text>Jeњli biegasz lub nosisz duїo ciкїkich rzeczy, zaczynasz siк mкczyж. Jeњli jesteњ zbyt zmкczony, przez chwilк nie bкdziesz w stanie biegaж ani chodziж. Na szczкњcie siіy szybko siк regeneruj№, wystarczy chwilк staж.</text>
 	</string>
 	<string id="weapon">
-		<text>Состояние оружия</text>
+		<text>Stan broni</text>
 	</string>
 	<string id="weapon_tutorial">
-		<text>У любого оружия есть параметр прочности. Чем ниже прочность оружия, тем чаще его заклинивает. Для того чтобы опять из него стрелять, надо его перезарядить (кнопка $$ACTION_wpn_reload$$). От использования прочность оружия постепенно уменьшается, а несколько попавших в него пуль или взрывная волна могут привести его в полную негодность.</text>
+		<text>Kaїda broс posiada parametr wytrzymaіoњci. Im mniejsza wytrzymaіoњж broni, tym czкњciej siк zacina. Aby ponownie z niej strzelaж, musisz j№ przeіadowaж (przycisk $$ACTION_wpn_reload$$). Po uїyciu wytrzymaіoњж broni stopniowo siк zmniejsza, a kilka wystrzelonych pociskуw lub fala wybuchu mog№ sprawiж, їe stanie siк ona caіkowicie bezuїyteczna.</text>
 	</string>
 	<string id="wound">
-		<text>Открытые раны</text>
+		<text>Krwawienie</text>
 	</string>
 	<string id="wound_tutorial">
-		<text>При попадании по персонажу есть вероятность, что у него начнётся кровотечение. Кровотечение - постоянная потеря здоровья. Чем более серьёзное кровотечение (зелёная иконка - слабое кровотечение, красная - сильное), тем больше здоровья персонаж будет терять в единицу времени. Со временем кровотечения проходят сами собой, но с помощью бинтов их можно остановить моментально.</text>
+		<text>Po trafieniu istnieje szansa, їe zaczniesz krwawiж. Krwawienie to trwaіa utrata zdrowia. Im powaїniejsze krwawienie (zielona ikona - sіabe krwawienie, czerwona - silne), tym wiкcej zdrowia postaж traci na jednostkк czasu. Z biegiem czasu krwawienie samo znika, ale za pomoc№ bandaїy moїna je natychmiast zatrzymaж.</text>
 	</string>
 	<string id="pda_diary_tutorial">
-		<text>В КПК погибшего сталкера Вы нашли его наблюдения за аномалиями в тоннеле. Оказывается, он обнаружил закономерность в их появлении. Вы можете прочитать эту информацию в своём КПК в разделе "Дневник".</text>
+		<text>W PDA zmarіego stalkera znalazіeњ jego obserwacje anomalii w tunelu. Okazuje siк, їe odkryі pewien wzуr w ich wygl№dzie. Moїesz przeczytaж te informacje na swoim PDA w sekcji "Dziennik".</text>
 	</string>
 </string_table>

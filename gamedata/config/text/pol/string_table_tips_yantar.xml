@@ -1,24 +1,24 @@
 	<string id="general_ecolog_tip_1">
-		<text>Что случилось?! Он погиб?! Немедленно возвращайтесь!</text>
+		<text>Co siк staіo?! Zgin№і?! Wrуж natychmiast!</text>
 	</string>
 	<string id="general_ecolog_tip_2">
-		<text>Что случилось?! Он погиб?! Возьмите замеры и немедленно возвращайтесь!</text>
+		<text>Co siк staіo?! Zgin№і?! Zrуb pomiary i natychmiast zwrуж!</text>
 	</string>
 	<string id="storyline_ghost_tip">
-		<text>Звуковая запись Призрака</text>
+		<text>Nagranie dџwiкkowe Ducha</text>
 	</string>
 	<string id="storyline_vasilyev_tip">
-		<text>Звуковая запись Васильева</text>
+		<text>Nagranie dџwiкkowe Wasiliewa</text>
 	</string>
 	<string id="tips_labx16switcher_press">
-		<text>Отключить установку ($$ACTION_USE$$)</text>
+		<text>Wyі№cz instalacjк ($$ACTION_USE$$)</text>
 	</string>
 	<string id="yan_saharov_message">
-		<text>Молодец, Сталкер, Вы добрались до лаборатории. Для нас крайне важно изучить установку, которая там находится. Попробуйте её отключить, чтобы мы смогли её исследовать.</text>
+		<text>Dobra robota, Stalker, dotarіeњ do laboratorium. Niezwykle waїne jest dla nas zbadanie znajduj№cej siк tam instalacji. Sprуbuj j№ wyі№czyж, abyњmy mogli to zbadaж.</text>
 	</string>
 	<string id="yan_saharov_message_2">
-		<text>Послушайте, прототип не сможет долго защищать от сильного излучения. Я предусмотрел такой случай, поэтому когда Вы попадёте под сильное воздействие, у Вас включится таймер. Когда время истечёт, прототип перестанет Вас защищать. Будьте осторожней и не забывайте про таймер.</text>
+		<text>Sіuchaj, prototyp nie bкdzie w stanie dіugo chroniж przed silnym promieniowaniem. Przewidziaіem taki przypadek, wiкc gdy wpadniesz pod silny wpіyw, wі№czy siк stoper. Kiedy skoсczy siк czas, prototyp przestanie Ciк chroniж. B№dџ ostroїny i nie zapomnij o zegarze.</text>
 	</string>
 	<string id="yan_saharov_message_3">
-		<text>Отлично, Сталкер! Излучение отключено, Вы живы. Мы вызвали пару военных вертолётов, чтобы они зачистили территорию от зомби, поэтому Вы туда пока не ходите, чтоб не попасть под обстрел. Да, кстати, будете поблизости – загляните к нам в бункер.</text>
+		<text>Њwietnie, Stalkerze! Promieniowanie jest wyі№czone, їyjesz. Wezwaliњmy kilka helikopterуw wojskowych, їeby oczyњciж teren z zombie. Nie idџ tam jeszcze їeby nie trafiж pod ostrzaі. Przy okazji, jeњli jesteњ w pobliїu, wpadnij do naszego bunkra.</text>
 	</string>

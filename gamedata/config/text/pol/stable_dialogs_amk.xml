@@ -1,68 +1,68 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 
-<!-- AMK Dialogs-->
+<!-- Dialogi AMK-->
 <string_table>
-	<!--Диалог с Кулинаром-->
+	<!--Dialog z Kulinarn№-->
 	 <string id="artem_kulinar_0">
-		<text>Здорово, чего ищешь?</text>
+		<text>Witaj, czego szukasz?</text>
 	</string>
 	<string id="artem_kulinar_1">
-		<text>Здорово. Чего ищу - ещё не нашёл. </text>
+		<text>Czeњж. Czegoњ, jeszcze tego nie znalazіem.</text>
 	</string>
 	<string id="artem_kulinar_2">
-		<text>А ты борзый, не боишься, пацанам свистну, они тебя в дуршлаг превратят.</text>
+		<text>Ale Ty jesteњ chartem, nie boisz siк, zagwiїdїк do chіopcуw, zamieni№ Ciк w durszlak.</text>
 	</string>
 	<string id="artem_kulinar_3">
-		<text>Ой хватит меня пугать..свистну..в дуршлаг. Я прямо трясусь весь.</text>
+		<text>Och, przestaс mnie straszyж...gwizdnij...w durszlak. Caіy siк trzкsк!</text>
 	</string>
 	<string id="artem_kulinar_4">
-		<text>А ты мне нравишься, смелый пацан. Как звать то тебя? Меня Ровным все кличут. 
-		Так чего ты хотел...я уже серьёзно. Или так, мимо проходил?</text>
+		<text>I juї Ciк lubiк, dzielny chіopcze. Jak masz na imiк? Wszyscy mуwi№ na mnie Rуwny.
+Wiкc czego chciaіeњ... Mуwiк powaїnie. Czy po prostu tak przechadzasz siк?</text>
 	</string>
 	<string id="artem_kulinar_5">
-		<text>Да можно сказать и мимо проходил - Потап мне нужен. Меня Меченым зови.</text>
+		<text>Tak, moїesz powiedzieж їe przechadzam siк - potrzebujк Potapa. Zw№ mnie Naznaczony.</text>
 	</string>
 	<string id="artem_kulinar_6">
-		<text>Слыхал я про тебя...в основном хорошее. Потапа в конце ангара ищи.</text>
+		<text>Sіyszaіem o Tobie... gіуwnie dobre rzeczy. Znajdziesz Potopa na koсcu hangaru.</text>
 	</string>
 	<string id="artem_kulinar_7">
-		<text>А ты вроде не похож на бывшего бандюка? Чего к обычным сталкерам не пошёл?</text>
+		<text>Nie wygl№dasz na byіego bandytк, prawda? Dlaczego nie poszedіeњ do zwykіych stalkerуw?</text>
 	</string>
 	<string id="artem_kulinar_8">
-		<text>А мне и здесь неплохо. Братва уважает, я им товаров различных подкидываю, они мне арты таскают. Бизнес нормально идет. </text>
+		<text>Tutaj teї jest mi dobrze. Chіopaki mnie szanuj№, dajк im rуїne towary a oni nosz№ mi arty. Biznes idzie dobrze.</text>
 	</string>
 	<string id="artem_kulinar_9">
-		<text>А что продаёшь?</text>
+		<text>Czym handlujesz?</text>
 	</string>
 	<string id="artem_kulinar_10">
-		<text>Всего по-чуток, и патроны, и аптечки, и еду. Что интересует?</text>
+		<text>Wszystkim po trochu: nabojami, apteczekami i jedzeniem. Czego potrzebujesz?</text>
 	</string>
 	<string id="artem_kulinar_11">
-		<text>Да пока ничего, но буду знать, что у тебя можно прикупить припасов.</text>
+		<text>Na razie nic, ale bкdк wiedziaі gdzie kupiж zapasy.</text>
 	</string>
-	<!--Диалог с Витьком Вороном-->
+	<!--Dialog z Vitkiem Woronem-->
 	<string id="vitek_voron_0">
-		<text>Что надо?</text>
+		<text>Co trzeba?</text>
 	</string>
 	<string id="vitek_voron_1">
-		<text>И тебе привет. Да ничего не надо, просто поговорить хотел.</text>
+		<text>Czeњж. Niczego nie potrzebujк, chciaіem tylko porozmawiaж.</text>
 	</string>
 	<string id="vitek_voron_2">
-		<text>Ну слушаю тебя.</text>
+		<text>W takim razie sіucham Ciк.</text>
 	</string>
 	<string id="vitek_voron_3">
-		<text>Меня Меченым звать, а ты кто?</text>
+		<text>Nazywaj№ mnie Naznaczony a Ty kim jesteњ?</text>
 	</string>
 	<string id="vitek_voron_4">
-		<text>Силуяном меня зови. Ещё что?</text>
+		<text>Mуw mi Silujan. Coњ jeszcze?</text>
 	</string>
 	<string id="vitek_voron_5">
-		<text>Да что-то Силуян выглядишь ты херово. Может я помочь смогу?</text>
+		<text>Tak, coњ gуwnianie wygl№dasz, Silujan. Moїe mogк jakoњ pomуc?</text>
 	</string>
 	<string id="vitek_voron_6">
-		<text>Херово не то слово...совсем не то. Помочь говоришь хочешь? А что, может и сможешь. Правда это будет нелегко.</text>
+		<text>Gуwnianie to nie jest wіaњciwe sіowo... wcale. Chcesz pomуc? No jeњli chcesz i moїesz... W prawdzie nie bкdzie іatwo.</text>
 	</string>
 	<string id="vitek_voron_7">
-		<text>Ты раскажи что к чему, а там поглядим.</text>
+		<text>Powiedz mi co, a potem zobaczymy.</text>
 	</string>
 </string_table>

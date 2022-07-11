@@ -1,81 +1,81 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="Army">
-		<text>Армия</text>
+		<text>Wojsko</text>
 	</string>
 	<string id="Bandits">
-		<text>Бандиты</text>
+		<text>Bandyci</text>
 	</string>
 	<string id="Duty">
-		<text>Группировка "Долг"</text>
+		<text>Powinnoњж</text>
 	</string>
 	<string id="enc_social_military_army">
-		<text>Солдаты регулярных армейских частей. Охраняют подходы к закрытой территории Зоны, патрулируя периметр, расстреливая мутантов и отлавливая мародёров. \nАрмейский спецназ - элитные подразделения. Как правило, высаживаются в Зоне для проведения спасательных и специальных операций.</text>
+		<text>Їoіnierze wojsk regularnych. Pilnuj№ podejњж do zamkniкtego terytorium Strefy, patroluj№c obwуd, strzelaj№c do mutantуw i іapi№c maruderуw. \n Wojska specjalne to jednostki elitarne. Z reguіy l№duj№ w Strefie do akcji ratowniczych i specjalnych.</text>
 	</string>
 	<string id="enc_social_military_milstalkers">
-		<text>Солдаты, прошедшие после опыта службы в Зоне специальную подготовку, или сталкеры, подписавшие контракт с армией. Обычно снабжаются большим количеством вспомогательной аппаратуры и хорошо вооружены. В основном используются для изучения причин и последствий катастрофы, а также занимаются картографированием Зоны. Могут ходить как поодиночке, так и группами до пяти человек. Обычных сталкеров к себе не подпускают - сразу же открывают огонь.</text>
+		<text>Їoіnierze, ktуrzy po odbyciu sіuїby w Strefie przeszli specjalne przeszkolenie, ewentualnie stalkerzy ktуrzy podpisali kontrakt z armi№. Zwykle zaopatrzeni w duї№ iloњж sprzкtu pomocniczego i dobrze uzbrojeni. Sіuї№ gіуwnie do badania przyczyn i skutkуw katastrofy, a takїe zajmuj№ siк mapowaniem Strefy. Mog№ chodziж samodzielnie lub w grupach do piкciu osуb. Zwykіym stalkerom nie wolno do nich podchodziж - natychmiast otwieraj№ ogieс.</text>
 	</string>
 	<string id="enc_social_scientists_mobile-groups">
-		<text>Удалено</text>
+		<text>Usuniкte</text>
 	</string>
 	<string id="enc_social_scientists_mobile-labs">
-		<text>Мобильная лаборатория выглядит как небольшой металлический бункер с маленькими тонированными окошками. Способна выдержать почти все известные человеку повреждения любого характера. Может быть переведена в полностью автономный режим на несколько месяцев, для чего снабжена надёжными системами жизнеобеспечения. В Зону доставляется грузовым вертолётом. Персонал лаборатории никогда не пускает посторонних далее внешней шлюзовой камеры, поэтому внутрь лаборатории не проникал ни один из сталкеров.</text>
+		<text>Mobilne laboratorium wygl№da jak maіy metalowy bunkier z maіymi przyciemnianymi szybami. Jest w stanie wytrzymaж prawie wszystkie znane czіowiekowi szkody o dowolnej naturze. Moїe zostaж przeniesiony do trybu w peіni autonomicznego na kilka miesiкcy, na ktуry jest wyposaїony w niezawodne systemy podtrzymywania їycia. Do Strefy dostarczany jest њmigіowcem towarowym. Personel laboratorium nigdy nie wypuszczaі obcych poza zewnкtrzn№ њluzк, wiкc їaden z przeњladowcуw nie przedostaі siк do wnкtrza laboratorium.</text>
 	</string>
 	<string id="enc_social_stalker-clans_bandits">
-		<text>Представители криминального мира, пришедшие в Зону по разным причинам: заработать на продаже артефактов, скрыться от закона, купить или продать оружие. В Зоне много подобного элемента уровнем от шпаны до серьёзных уголовников. В большинстве своём объединены в банды. Хотя единой бандитской организации в Зоне до сих пор нет, сильно докучают рядовым сталкерам.</text>
+		<text>Przedstawiciele њwiata przestкpczego, ktуrzy przybyli do Strefy z rуїnych powodуw: aby zarabiaж na sprzedaїy artefaktуw, ukrywaж siк przed prawem, kupowaж lub sprzedawaж broс. W Strefie jest duїo takiego elementu na poziomie od pіotek do powaїnych przestкpcуw. Wiкkszoњж z nich jest w gangach. Chociaї w Strefie wci№ї nie ma jednej organizacji bandytуw, zwykli stalkerzy s№ bardzo zirytowani.</text>
 	</string>
 	<string id="enc_social_stalker-clans_duty">
-		<text>Явно военизированная группировка, отличающаяся строгой дисциплиной: её члены живут фактически по уставу. Только представители "Долга" не торгуют уникальными порождениями Зоны с внешним миром: по слухам, все найденные этими людьми артефакты сдаются учёным. Каждый долговец считает своей главной целью защиту мира от воздействия Зоны. Большинство операций группировки связаны с истреблением монстров, поэтому рейды "Долга" нередко избавляют рядовых сталкеров от многих насущных проблем. Давно и яростно враждует с группировкой "Свобода".</text>
+		<text>Wyraџnie grupa paramilitarna, wyrуїniaj№ca siк њcisі№ dyscyplin№: jej czіonkowie faktycznie їyj№ zgodnie z statutem. Tylko przedstawiciele "Dіugu" nie handluj№ unikalnymi tworami Strefy ze њwiatem zewnкtrznym: wedіug plotek wszystkie artefakty znalezione przez tych ludzi s№ przekazywane naukowcom. Kaїdy dіuїnik za swуj gіуwny cel uwaїa ochronк њwiata przed skutkami Strefy. Wiкkszoњж operacji ugrupowania zwi№zana jest z eksterminacj№ potworуw, wiкc rajdy typu „Dіug” czкsto ratuj№ zwykіych stalkerуw przed wieloma pal№cymi problemami. Od dawna i zaciekle kіуci siк z grup№ „Wolnoњж”.</text>
 	</string>
 	<string id="enc_social_stalker-clans_freedom">
-		<text>Анархисты и сорвиголовы, объявившие себя борцами за свободу на территории Зоны, и поэтому постоянно конфликтующие с армейскими подразделениями, военными сталкерами и группировкой "Долг". Свободовцы считают, что информацию о происходящем в Зоне нельзя скрывать от человечества, таким образом оспаривая монополию правительственных организаций на владение здешними тайнами и чудесами.</text>
+		<text>Anarchiњci i њmiaіkowie, ktуrzy ogіosili siк bojownikami o wolnoњж na terenie Strefy i dlatego s№ w ci№gіym konflikcie z jednostkami wojskowymi, wojskowymi stalkerami i grup№ Duty. Swobodowie uwaїaj№, їe informacji o tym, co dzieje siк w Strefie, nie da siк ukryж przed ludzkoњci№, kwestionuj№c tym samym monopol organizacji rz№dowych na posiadanie lokalnych tajemnic i cudуw.</text>
 	</string>
 	<string id="enc_social_stalker-clans_killers">
-		<text>Самая загадочная и скрытная группировка в Зоне, в существование которой многие даже не верят. Кое-кто постоянно пользуется услугами наёмников: профессионалы в своей области, они быстро расправятся с любым сталкером и даже могут полностью ликвидировать небольшую группировку. За свои услуги, судя по всему, берут немалые суммы в деньгах или артефактах. Расположение базы данной группировки до сих пор остаётся загадкой; очевидно, она находится где-то в глубине Зоны.</text>
+		<text>Najbardziej tajemnicza i tajemnicza grupa w Strefie, w istnienie ktуrej wielu nawet nie wierzy. Niektуrzy ludzie stale korzystaj№ z usіug najemnikуw: profesjonaliњci w swojej dziedzinie, szybko poradz№ sobie z kaїdym przeњladowc№ i potrafi№ nawet caіkowicie wyeliminowaж niewielk№ grupк. Za swoje usіugi najwyraџniej bior№ znaczne kwoty w pieni№dzach lub artefaktach. Lokalizacja bazy tej grupy wci№ї pozostaje tajemnic№; oczywiњcie znajduje siк gdzieњ w gікbi Strefy.</text>
 	</string>
 	<string id="enc_social_stalker-clans_loners">
-		<text>Сталкеры, исследующие Зону в одиночку. Таких большинство, поскольку членство в группировке отбирает драгоценное время, тем самым уменьшая заработок; кроме того, некоторые просто по натуре своей склонны к одиночеству и независимости.</text>
+		<text>Stalkerzy eksploruj№cy Strefк w pojedynkк. Stanowi№ wiкkszoњж, poniewaї czіonkostwo w grupie zabiera cenny czas, zmniejszaj№c tym samym zarobki; ponadto niektуre s№ po prostu z natury skіonne do samotnoњci i niezaleїnoњci.</text>
 	</string>
 	<string id="enc_social_stalker-clans_monolith">
-		<text>Группировка, скорее напоминающая религиозную секту. Её члены верят, что в центре Зоны покоится эволюционный кристалл - Монолит - неземного происхождения. Большинство сталкеров презирают адептов Монолита, считая их помешанными. Со времени своего образования группа препятствует продвижению сталкеров к центру Зоны, мотивируя это недобрыми намерениями последних в отношении Монолита. По слухам, у монолитовцев есть крупная база где-то ближе к центру Зоны, но точного её расположения не знает никто, кроме самих членов группировки.</text>
+		<text>Grupowanie, raczej przypominaj№ce sektк religijn№. Jej czіonkowie uwaїaj№, їe w centrum Strefy znajduje siк krysztaі ewolucyjny – Monolit – nieziemskiego pochodzenia. Wiкkszoњж stalkerуw gardzi zwolennikami Monolitu, uwaїaj№c ich za wariatуw. Od momentu powstania grupa powstrzymywaіa stalkerуw przed przemieszczaniem siк do centrum Strefy, motywuj№c to zіymi intencjami tych ostatnich w stosunku do Monolitu. Wedіug plotek Monolity maj№ duї№ bazк gdzieњ bliїej centrum Strefy, ale nikt nie zna jej dokіadnej lokalizacji, z wyj№tkiem samych czіonkуw grupy.</text>
 	</string>
 	<string id="enc_social_stalker-clans_zomstalkers">
-		<text>Те, кто подвергся длительному воздействию излучателей на Янтаре или некоторых других секторах. Неосторожные сталкеры быстро сходят с ума, превращаясь в бродячие полутрупы. Их много бродит по Зоне, некоторые добираются даже до периметра. Так или иначе, помочь им уже невозможно: процесс разрушения личности необратим. Хотя зомбированные сталкеры ещё могут воспользоваться своим оружием, они довольно глупы. При встрече можно услышать, как они бубнят себе под нос обрывки фраз, которые, впрочем, начисто лишены смысла. Со временем зомбированные сталкеры окончательно утрачивают все прежние навыки и превращаются в зомби. Как правило, они очень агрессивны и при значительном скоплении представляют серьёзную угрозу.</text>
+		<text>Ci, ktуrzy byli naraїeni na dіugotrwaіe dziaіanie emiterуw na Yantar lub w innych sektorach. Nieostroїni przeњladowcy szybko wariuj№, zamieniaj№c siк w wкdrowne pуіtrupy. Wiele z nich wкdruje po Strefie, niektуrzy nawet docieraj№ do obwodu. Tak czy inaczej, juї nie moїna im pomуc: proces niszczenia osobowoњci jest nieodwracalny. Chociaї przeњladowcy zombie nadal mog№ uїywaж swojej broni, s№ raczej gіupi. Na spotkaniu moїna usіyszeж, jak mamrocz№ pod nosem urywki fraz, ktуre jednak s№ zupeіnie bez znaczenia. Z czasem zombifikowani przeњladowcy w koсcu trac№ wszystkie swoje dotychczasowe umiejкtnoњci i zamieniaj№ siк w zombie. Z reguіy s№ bardzo agresywne iw duїej liczbie stanowi№ powaїne zagroїenie.</text>
 	</string>
 	<string id="Freedom">
-		<text>Группировка "Свобода"</text>
+		<text>Wolnoњж</text>
 	</string>
 	<string id="Killers">
-		<text>Наёмники</text>
+		<text>Najemnicy</text>
 	</string>
 	<string id="Loners">
-		<text>Сталкеры одиночки</text>
+		<text>Samotnicy</text>
 	</string>
 	<string id="Military">
-		<text>Военизированные части</text>
+		<text>Wojsko</text>
 	</string>
 	<string id="Milstalkers">
-		<text>Военные сталкеры</text>
+		<text>Stalkerzy wojskowi</text>
 	</string>
 	<string id="Mobile-groups">
-		<text>Исследовательские группы</text>
+		<text>Grupy badawcze</text>
 	</string>
 	<string id="Mobile-labs">
-		<text>Мобильный лагерь учёных</text>
+		<text>Mobilny obуz naukowcуw</text>
 	</string>
 	<string id="Monolith">
-		<text>Группировка "Монолит"</text>
+		<text>Monolitowcy</text>
 	</string>
 	<string id="Scientists">
-		<text>Учёные</text>
+		<text>Naukowcy</text>
 	</string>
 	<string id="Social">
-		<text>Общества</text>
+		<text>Spoіecznoњж</text>
 	</string>
 	<string id="Stalker-clans">
-		<text>Кланы сталкеров</text>
+		<text>Grupy stalkerуw</text>
 	</string>
 	<string id="Zomstalkers">
-		<text>Зомбированные сталкеры</text>
+		<text>Zombifikowani</text>
 	</string>
 </string_table>

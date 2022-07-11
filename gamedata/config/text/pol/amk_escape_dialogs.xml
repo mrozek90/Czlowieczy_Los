@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="windows-1251" ?>
-<string_table>	
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
 
 <string id="amk_sidr_guard_0">
-		<text>Приветствую, счастливчик. Надо же… Говорят, с Грузовика Смерти тебя притащили, а выглядишь не так уж плохо.</text>
+		<text>Witaj, szczкњciarzu. Fiu-fiu... Mуwi№, їe wyci№gnкli Ciк z ciкїarуwki њmierci, ale nie wygl№dasz tak џle.</text>
 	</string>
 <string id="amk_sidr_guard_1">
-		<text>Свистни в ЦЕНЗУРА !</text>
+		<text>Gwizd na CENZURК!</text>
 	</string>
 
 
