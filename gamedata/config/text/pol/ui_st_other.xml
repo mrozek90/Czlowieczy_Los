@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="id_mp_money">
-		<text>Деньги</text>
+		<text>Pieni№dze</text>
 	</string>
 	<string id="mm_mp_pda_hunt">
-		<text>Бонус за КПК</text>
+		<text>Premia za PDA</text>
 	</string>
-	
+
 	<string id="ui_mm_fov">
-		<text>Угол обзора</text>
+		<text>K№t widzenia</text>
 	</string>
 	<string id="ui_mm_fov55">
 		<text>55</text>
@@ -24,273 +24,254 @@
 	</string>
 	<string id="ui_mm_fov90">
 		<text>90</text>
-	</string>	
-	
+	</string>
+
 	<string id="st_drink">
-		<text>выпить</text>
+		<text>Pij</text>
 	</string>
 	<string id="st_mp_direct_ip">
-		<text>Прямой IP</text>
+		<text>Bezpoњrednie IP</text>
 	</string>
 	<string id="ui_mm_default">
-		<text>По умолчанию</text>
+		<text>Domyњlne</text>
 	</string>
-<!-- 	<string id="ui_mm_detail_density">
-		<text>Плотность травы</text>
-	</string>
-	<string id="ui_mm_r2_sun">
-		<text>Тень от солнца</text>
-	</string>
-	<string id="ui_mm_r2_sun_details">
-		<text>Тень травы</text>
-	</string> -->
+
 	<string id="ui_mm_render_2">
-		<text>Тип освещения-2</text>
+		<text>Oњwietlenie dynamiczne</text>
 	</string>
 	<string id="ui_pda_details">
-		<text># /детали</text>
+		<text># /szczegуіy</text>
 	</string>
 	<string id="ui_st_btn_cancel">
-		<text>Отмена</text>
+		<text>Anuluj</text>
 	</string>
 	<string id="ui_st_btn_no">
-		<text>Нет</text>
+		<text>Nie</text>
 	</string>
 	<string id="ui_st_btn_ok">
-		<text>ОК</text>
+		<text>OK</text>
 	</string>
 	<string id="ui_st_btn_yes">
-		<text>Да</text>
+		<text>Tak</text>
 	</string>
 	<string id="ui_st_cant_run_r2">
-		<text>Вы не можете запустить второй тип освещения на Вашем компьютере</text>
+		<text>Nie moїesz uruchomiж dynamicznego oњwietlenia na swoim komputerze</text>
 	</string>
 	<string id="ui_st_conn_invalid_host">
-		<text>Ошибка соединения: неверный хост</text>
+		<text>Bі№d poі№czenia: nieprawidіowy host</text>
 	</string>
 	<string id="ui_st_conn_invalid_pass">
-		<text>Ошибка соединения: неверный пароль</text>
+		<text>Bі№d poі№czenia: nieprawidіowe hasіo</text>
 	</string>
 	<string id="ui_st_conn_rejected_server">
-		<text>Ошибка соединения: соединение прервано сервером</text>
+		<text>Bі№d poі№czenia: poі№czenie przerwane przez serwer</text>
 	</string>
 	<string id="ui_st_conn_sess_full">
-		<text>Ошибка соединения: сервер заполнен</text>
+		<text>Bі№d poі№czenia: serwer jest peіny</text>
 	</string>
 	<string id="ui_st_days">
-		<text>дн.</text>
+		<text>dn.</text>
 	</string>
 	<string id="ui_st_error">
-		<text>Ошибка</text>
+		<text>Bі№d</text>
 	</string>
 	<string id="ui_st_file_exist_owerwrite_q">
-		<text>Файл с таким именем уже существует. Перезаписать?</text>
+		<text>Plik o tej nazwie juї istnieje. Nadpisaж?</text>
 	</string>
 	<string id="ui_st_file_name_is_empty">
-		<text>Имя файла пустое</text>
+		<text>Nazwa pliku jest pusta</text>
 	</string>
 	<string id="ui_st_hours">
-		<text>час.</text>
+		<text>h.</text>
 	</string>
 	<string id="ui_st_leave">
-		<text>Уйти</text>
+		<text>Wyjdџ</text>
 	</string>
 	<string id="ui_st_mins">
-		<text>мин.</text>
+		<text>min.</text>
 	</string>
 	<string id="ui_st_months">
-		<text>мес.</text>
+		<text>mies.</text>
 	</string>
 	<string id="ui_st_params">
-		<text>Параметры</text>
+		<text>Opcje</text>
 	</string>
 	<string id="ui_st_secs">
-		<text>сек.</text>
+		<text>sek.</text>
 	</string>
 	<string id="ui_st_select_one_map">
-		<text>Пожалуйста, выберите хотя бы одну карту</text>
+		<text>Wybierz co najmniej jedn№ mapк</text>
 	</string>
 	<string id="ui_st_take_all">
-		<text>Забрать всё</text>
+		<text>Weџ wszystko</text>
 	</string>
 	<string id="ui_st_time_remains">
-		<text>Осталось</text>
+		<text>Zostaіo</text>
 	</string>
 	<string id="ui_st_trade">
-		<text>Торговать</text>
+		<text>Handluj</text>
 	</string>
 	<string id="ui_st_voting_disabled">
-		<text>Голосование отключено</text>
+		<text>Gіosowanie wyі№czone</text>
 	</string>
 	<string id="ui_st_want_to_leave_game_q">
-		<text>Вы хотите покинуть зону отчуждения?</text>
+		<text>Chcesz opuњciж Zonк?</text>
 	</string>
 	<string id="ui_st_your_items">
-		<text>Ваши вещи</text>
+		<text>Twoje przedmioty</text>
 	</string>
 	<string id="st_game_over_press_jump">
-		<text>Нажмите ($$ACTION_JUMP$$) для выхода в главное меню</text>
+		<text>Naciњnij ($$ACTION_JUMP$$) by wyjњж do Menu Gіуwnego</text>
 	</string>
 	<string id="st_level">
-		<text>Локация</text>
+		<text>Lokalizacja</text>
 	</string>
 	<string id="st_opening_stream">
-		<text>Открытие потока</text>
+		<text>Otwarcie strumienia</text>
 	</string>
 	<string id="st_loading_cform">
-		<text>Пора выходить</text>
+		<text>Pora wyjњж</text>
 	</string>
 	<string id="st_prefetching_objects">
-		<text>Собираюсь в дорогу</text>
+		<text>Idк w drogк</text>
 	</string>
 	<string id="st_creating_new_game">
-		<text>Выбираю свой путь</text>
+		<text>Tworzк now№ przygodк</text>
 	</string>
 	<string id="st_loading_alife_simulator">
-		<text>Зона наполняется жизнью</text>
+		<text>Okolica tкtni їyciem</text>
 	</string>
 	<string id="st_server_connecting">
-		<text>Контакт</text>
+		<text>Kontakt</text>
 	</string>
 	<string id="st_loading_saved_game">
-		<text>Готов выйти из </text>
+		<text>Gotowy do wyjњcia z </text>
 	</string>
 	<string id="st_validating_cdkey">
-		<text>Проверка ключа</text>
+		<text>Weryfikacja klucza</text>
 	</string>
 	<string id="st_loading_ai_objects">
-		<text>Готовлюсь к походу</text>
+		<text>Przygotowanie do wкdrуwki</text>
 	</string>
 	<string id="st_client_connecting_to">
-		<text>Клиент: Соединение с</text>
+		<text>Klient: Ј№czenie z</text>
 	</string>
 	<string id="st_client_spawning">
-		<text>Я готов...</text>
+		<text>Jestem gotowy...</text>
 	</string>
 	<string id="st_loading_textures">
-		<text>Закурю и в путь...</text>
+		<text>Zapalк i idк...</text>
 	</string>
 	<string id="st_client_synchronising">
-		<text>Входим в зону отчуждения</text>
+		<text>Wejњcie do Strefy Wykluczenia</text>
 	</string>
 	<string id="st_server_starting">
-		<text>НАЧАЛО</text>
+		<text>ZACZYNAMY</text>
 	</string>
 	<string id="st_loading_shaders">
-		<text>Проверяю снарягу</text>
+		<text>Sprawdzanie sprzкtu</text>
 	</string>
 	<string id="st_loading_geometry">
-		<text>Проверяю оружие</text>
+		<text>Sprawdzanie broni</text>
 	</string>
 	<string id="st_loading_spatial_db">
-		<text>Собираю вещи</text>
+		<text>Zabieram graty</text>
 	</string>
 	<string id="st_loading_details">
-		<text> Присяду на дорожку</text>
+		<text>Jeszcze tylko kilka rzeczy</text>
 	</string>
 	<string id="st_loading_sectors_portals">
-		<text>Загрузка секторов и порталов</text>
+		<text>Јadowanie sektorуw i portali</text>
 	</string>
 	<string id="ui_st_conn_version_differs">
-		<text>Ошибка соединения: Отличаются версии</text>
+		<text>Bі№d poі№czenia: Wersje rуїni№ siк</text>
 	</string>
 	<string id="ui_st_conn_cdkey_invalid">
-		<text>Ошибка соединения: Неверный CD-Key</text>
+		<text>Bі№d poі№czenia: zіy klucz CD</text>
 	</string>
 	<string id="ui_st_conn_cdkey_in_use">
-		<text>Ошибка соединения: Такой CD-Key уже используется</text>
+		<text>Bі№d poі№czenia: ten klucz CD jest juї uїywany</text>
 	</string>
 	<string id="ui_st_conn_cdkey_disabled">
-		<text>Ошибка соединения: Ваш CD-Key заблокирован; свяжитесь со службой поддержки</text>
+		<text>Bі№d poі№czenia: Twуj klucz CD jest zablokowany. Skontaktuj siк z pomoc№ techniczn№</text>
 	</string>
 	<string id="ui_st_conn_new_patch">
-		<text>Доступен новый патч. \nВерсия: %s\n %s\nХотите загрузить его сейчас?</text>
+		<text>Dostкpna jest nowy patch. \nWersja: %s\n %s\nCzy chcesz go teraz pobraж?</text>
 	</string>
 	<string id="ui_st_conn_no_new_patch">
-		<text>Нет новых патчей</text>
+		<text>Brak nowych patchy</text>
 	</string>
 	<string id="ui_mm_delete_existing_file_q">
-		<text>Вы хотите это удалить?</text>
+		<text>Czy chcesz usun№ж?</text>
 	</string>
 	<string id="st_game_paused">
-		<text>Пауза</text>
+		<text>PAUZA</text>
 	</string>
 	<string id="st_bolt">
-		<text>Болт</text>
+		<text>Њruba</text>
 	</string>
 	<string id="st_items">
-		<text>Предметы</text>
+		<text>Przedmioty</text>
 	</string>
 	<string id="st_video">
-		<text>Видео</text>
+		<text>Obraz</text>
 	</string>
 	<string id="st_audio">
-		<text>Звук</text>
+		<text>Dџwiкk</text>
 	</string>
 	<string id="st_game">
-		<text>Игра</text>
+		<text>Gra</text>
 	</string>
 	<string id="st_controll">
-		<text>Управление</text>
+		<text>Sterowanie</text>
 	</string>
 	<string id="ui_st_connecting_to_masterserver">
-		<text>Присоединение к мастер-серверу</text>
+		<text>Doі№czanie do serwera gіуwnego</text>
 	</string>
 	<string id="mp_only_one_voting">
-		<text>Разрешено только одно активное голосование</text>
+		<text>Dozwolony tylko jeden aktywny gіos</text>
 	</string>
 	<string id="ui_st_patch_download_success">
-		<text>Патч успешно скачан. Установить?</text>
+		<text>Јatka zostaіa pomyњlnie pobrana. Zainstalowaж?</text>
 	</string>
 	<string id="ui_st_patch_download_error">
-		<text>Невозможно скачать патч.</text>
+		<text>Nie moїna pobraж poprawki.</text>
 	</string>
 	<string id="ui_st_load_game_confirm">
-		<text>Загрузка игры приведёт к потере несохранённых данных. Желаете продолжить?</text>
+		<text>Wczytanie gry spowoduje utratк niezapisanych danych. Czy chciaіbyњ kontynuowaж?</text>
 	</string>
 	<string id="ui_st_invalid_saved_game">
-		<text>Не совпадает версия сохранённой игры, или сохранённая игра испорчена.</text>
+		<text>Wersja zapisanej gry nie pasuje lub zapisana gra jest uszkodzona.</text>
 	</string>
-	
-<!-- 	<string id="ui_mm_r2_tonemap_middlegray">
-	    <text>Интенсивность HDR</text>
-    </string>
-	<string id="ui_mm_r2_tonemap">
-	    <text>Эф. Tone Mapping для HDR</text>
-    </string> -->
+
+
 	<string id="ui_mm_r2_tonemap_lowlum">
-	    <text>Т Mapping на тём. локациях</text>
+	    <text>T-Mapping lokalizacji</text>
     </string>
 	<string id="ui_mm_r2_tonemap_adaptation">
-	    <text>Привыкание глаз к темноте</text>
+	    <text>Oczy przyzwyczajaj№ siк do ciemnoњci</text>
     </string>
 	<string id="ui_mm_r2_tonemap_amount">
-	    <text>Интен-ть Тone Mapping</text>
+	    <text>Intensywnoњж T-Mapping</text>
     </string>
-	
-<!--     <string id="ui_mm_r2_sun_lumscale">
-	    <text>Яркость света солнца</text>
-    </string> -->
-<!--     <string id="ui_mm_r2_sun_lumscale_amb">
-	    <text>Фоновая освещенность</text>
-    </string> -->
+
 	<string id="switch_off">
-	    <text>Выключить</text>
+	    <text>Wyі№czone</text>
     </string>
     <string id="switch_on">
-	    <text>Включить</text>
+	    <text>Wі№czone</text>
     </string>
 
 	<string id="st_press_any_key">
-		<text>Нажмите любую клавишу для перехода к игре</text>
+		<text>Naciњnij dowolny klawisz, aby przejњж do gry</text>
 	</string>
 	<string id="game_object_drag">
-		<text>Тащить</text>
+		<text>Weџ</text>
 	</string>
 	<string id="st_move_to_slot_1">
-		<text>переместить в слот 1</text>
+		<text>Przenieњ do 1 slotu</text>
 	</string>
 	<string id="st_move_to_slot_2">
-		<text>переместить в слот 2</text>
+		<text>Przenieњ do 2 slotu</text>
 	</string>
 </string_table>

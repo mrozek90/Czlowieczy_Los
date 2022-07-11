@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="svoboda_outfit_name_m1">
-		<text>Комбез Свободы М2</text>
+		<text>Kombinezon Wolnoњж M2</text>
 	</string>
 	<string id="team_1_desc">
-		<text>Анархисты Зоны. Исповедует идею, что Зона - это заповедник свободы. Считают, что все законы, правила и условности внешнего мира здесь теряют силу. Их девиз: "Делай, что хочешь, но не мешай другим". Борются против правительственных попыток взять Зону под контроль и наёмников. "Свобода" экипирована, в основном, стрелковым оружием бывшего СССР и России.</text>
+		<text>Anarchiњci Strefy. Wyznaj№ ideк, їe Strefa jest rezerwatem wolnoњci. Uwaїa siк, їe wszystkie prawa, zasady i konwencje њwiata zewnкtrznego trac№ tutaj swoj№ moc. Ich motto brzmi: „Rуb, co chcesz, ale nie przeszkadzaj innym”. Walcz№ z rz№dowymi prуbami przejкcia kontroli nad Stref№ i najemnikami. „Wolnoњж” jest wyposaїony gіуwnie w broс strzeleck№ byіego ZSRR i Rosji.</text>
 	</string>
 	<string id="team_1_name">
-		<text>Группировка "Свобода" (Свободные сталкеры)</text>
+		<text>Wolnoњж</text>
 	</string>
 	<string id="team_2_desc">
-		<text>Искатели приключений и головорезы со всего мира, не гнушающиеся никакой, даже самой грязной работы. Их девиз: "Деньги не пахнут". Здесь артефакты, а значит - пахнет большими деньгами... Наёмники экипированы в основном западным стрелковым вооружением.</text>
+		<text>Poszukiwacze przygуd i bandyci z caіego њwiata, ktуrzy nie stroni№ od їadnej, nawet najbrudniejszej pracy. Ich motto brzmi: „Pieni№dze nie њmierdz№”. S№ tu artefakty, co oznacza, їe pachnie duїymi pieniкdzmi... Najemnicy s№ wyposaїeni gіуwnie w zachodni№ broс strzeleck№.</text>
 	</string>
 	<string id="team_2_name">
-		<text>Наёмники (Головорезы, мерки)</text>
+		<text>Najemnicy</text>
 	</string>
 </string_table>
