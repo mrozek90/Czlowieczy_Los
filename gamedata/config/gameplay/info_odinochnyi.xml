@@ -1,0 +1,857 @@
+<?xml version='1.0' encoding="windows-1251"?>
+
+
+
+
+<game_information_portions>
+
+<info_portion id="pripjt_heli_hit2"></info_portion>
+<info_portion id="dimedrol_infa_pro"></info_portion>
+<info_portion id="info_dimedrol_ataka"></info_portion>
+ <info_portion id="info_ara_ataka"></info_portion>
+  <info_portion id="agr_und_info"></info_portion>
+  <info_portion id="bar_dolg_video_start"></info_portion>
+<info_portion id="bar_dolg_video_posle"><action>smski.dolg_kino</action></info_portion>
+ <info_portion id="sueta_bar_start"></info_portion>
+  <info_portion id="naymity_start"></info_portion>
+  <info_portion id="zlaya_suka"><action>soundtrack_new.suka_sdox</action></info_portion>
+ 
+<!-- Porschni <action>esc_new_hemul.spawn_turel</action> -->
+<info_portion id="kontr_dead_1"></info_portion>
+<info_portion id="kontr_dead"></info_portion>
+<info_portion id="kalancha_zadanie"></info_portion>
+ 
+ <info_portion id="monahi_prischli"></info_portion>
+<info_portion id="pan_pogovoril"></info_portion>
+<info_portion id="petre_pogovoril"></info_portion>
+<info_portion id="ded_ki_infa"></info_portion>
+<info_portion id="meri_infa_fin"></info_portion>
+<info_portion id="senya_infa_fin"></info_portion>
+ 
+<info_portion id="agro_btr_killed"></info_portion>
+<info_portion id="mitya_infa_svo"></info_portion>
+<info_portion id="shurup_infa_svo"></info_portion>
+ <info_portion id="info_soldat_ataka"></info_portion>
+  <info_portion id="info_voin_ataka"></info_portion>
+   <info_portion id="info_psih_ataka"></info_portion>
+<info_portion id="agr_krot_thanks_2"></info_portion>
+<info_portion id="info_agro_btr_stop"></info_portion>	
+<info_portion id="reba_pogovoril"></info_portion>
+<info_portion id="mita_mil_tut"></info_portion> 
+<info_portion id="ku_pogovoril"></info_portion>
+ <info_portion id="info_ara_new_ataka"></info_portion>
+<info_portion id="deza_dialog_infa">
+<action>new_hem.taina_halava</action></info_portion>
+<info_portion id="barmen_pro broma"></info_portion>
+ <info_portion id="krovin_infa"></info_portion>
+ <info_portion id="saharov_infa"></info_portion>
+ <info_portion id="brom_2_dialog_infa"><task>general_pogovor</task> </info_portion>
+ <info_portion id="death_vovan"></info_portion>
+ <info_portion id="death_nikita"></info_portion>
+<info_portion id="freeplay_activated1"></info_portion>
+	<info_portion id="freeplay_activated2"></info_portion>
+	<info_portion id="exit_chaes2pripyat_created"></info_portion> 
+ <info_portion id="meri_infa_prip"></info_portion>
+  <info_portion id="death_kulak"></info_portion>
+   <info_portion id="death_fedia"></info_portion>
+ <info_portion id="krovin_ostrov_start"></info_portion>
+  <info_portion id="skriaga_brom_skaz_priznal"></info_portion>
+  <info_portion id="hmur_bar_dialog_infa"></info_portion>
+  <info_portion id="dimon_spasibo"><action>new_hem.borov_vernuli</action>
+ <action>smski.borov_taina</action></info_portion> 
+   <info_portion id="death_shersh"></info_portion>
+  <info_portion id="serega_kul_pogovoril"></info_portion>
+   <info_portion id="nikita_uhod_pogovoril"></info_portion>
+   <info_portion id="nina_2_dialog_infa"></info_portion>
+   <info_portion id="nina_2_1_dialog_infa"></info_portion>
+   <info_portion id="miha_dialog_infa"></info_portion>
+   <info_portion id="miha_dva_dialog_infa"></info_portion>
+   <info_portion id="dikoi_pro_dialog_infa"></info_portion>
+     <info_portion id="dikoi_pro2_dialog_infa"></info_portion>
+   <info_portion id="ara_infa_pro"> <action>soundtrack.ara_pavlik</action></info_portion>
+    
+	<info_portion id="travnik_2_dialog_infa"></info_portion>
+	<info_portion id="arnik_dialog_infa"></info_portion>
+	<info_portion id="skraga_ukol_infa"></info_portion>
+	<info_portion id="gera_ukol_infa"></info_portion>
+	<info_portion id="skraga_ukol_skaz2_infa"></info_portion>
+	<info_portion id="barmen_max_sos_infa"> <task>max_pogovor</task></info_portion>
+	 
+	 <info_portion id="skrigamona_dialog_infa"><task>max_pos_skr_pogovor</task></info_portion>
+	  <info_portion id="maxgera_dialog_infa"></info_portion>
+	 <info_portion id="info_monahsam_ataka"></info_portion>
+	  <info_portion id="info_monahsam_ataka1"></info_portion>
+	 <info_portion id="motor_dialog_infa"></info_portion>
+	 <info_portion id="monah_naher_dialog_infa"></info_portion>
+	  <info_portion id="lukasch_provodnik_dialog_infa"></info_portion>
+	 <info_portion id="sahar_2_1_dialog_infa"></info_portion>
+	  <info_portion id="shar_mon1_dialog_infa"></info_portion>
+	  <info_portion id="barmen_rabotu_infa"><action>new_hem.spawn_haliavi_bar</action></info_portion>
+	  <info_portion id="info_monahsam_sar_ataka"></info_portion>
+	   <info_portion id="sar_monah_dialog"></info_portion>
+	    <info_portion id="sahar_2_2_dialog_infa"></info_portion>
+	  <info_portion id="kill_cherep_start"></info_portion>
+	    <info_portion id="dolg_zasada_mill_start"></info_portion>
+	     <info_portion id="dolg_zasada_mill_hana_start"></info_portion>
+		  <info_portion id="sueta_uznali_start"></info_portion>
+		   <info_portion id="ugrum_mill_start"></info_portion>
+		    <info_portion id="ugrum_mill_posle_start"></info_portion>
+			
+			<info_portion id="igrok1_nachali_start"></info_portion>
+		 <info_portion id="igrok_nachali_start"></info_portion>
+		  <info_portion id="igrok2_nachali_start"></info_portion>
+		  <info_portion id="igrok3_nachali_start"></info_portion>
+		 <info_portion id="max_pogovoril"></info_portion>
+		  <info_portion id="jeka_start"></info_portion>
+		 
+		  <info_portion id="igruschki_start"></info_portion>
+		  <info_portion id="pda_pogovoril"></info_portion> 
+		 <info_portion id="max_pos_skr_pogovoril"></info_portion>
+		  <info_portion id="prof_sah_pogovoril"></info_portion>
+		 
+		 <info_portion id="skrag_pogovor_saharov"><task>prof_pogovor</task></info_portion>
+		 <info_portion id="voron_brom_pogovoril"></info_portion>
+		  <info_portion id="kupil_tainik"></info_portion>
+		  <info_portion id="kulak_zona_start"><action>hem_spawn_monstrs.spawnim_sobak_boloto</action>
+		 <action>hem_spawn_monstrs.spawn_vodyanyh</action></info_portion>
+		 
+		 <info_portion id="scy_leader_hit"></info_portion>
+<info_portion id="ohr_leader_hit"></info_portion>
+<info_portion id="chasovoi1_hit"></info_portion>
+<info_portion id="chasovoi2_hit"></info_portion>
+<info_portion id="chasovoi3_hit"></info_portion>
+
+<!-- SKY-->
+	<info_portion id="razgovor_start"></info_portion>	 
+	<info_portion id="vetrov_govor_start"><action>hem_spawn_monstrs.spawnim_snorki_march</action></info_portion>	 	 
+	<info_portion id="pogovorili_chebot"></info_portion>	 
+	<info_portion id="chebot_govor_start"></info_portion>	 
+	<info_portion id="killer_go"></info_portion>
+	
+	<!--Поговорили-->
+	<info_portion id="chebot_govorit2_start"><task>pogovor_demon</task></info_portion>	 
+		<info_portion id="pogovorili_demon"></info_portion>
+		<info_portion id="pogovorili_kalancha"></info_portion>
+		<info_portion id="pogovorili_mongol"></info_portion>
+		 <info_portion id="chebot_govorit3_start"></info_portion>	 
+		   	<info_portion id="npc_govor_start"></info_portion>	 
+		  	<info_portion id="npc1_govor_start"></info_portion>	 
+		 	<info_portion id="mangust_pora"><action>hem_spawn_monstrs.spawnim_zom_liman</action></info_portion>	 
+		<info_portion id="npc2_govor_start"></info_portion>
+		<info_portion id="pogovorili_otschel"></info_portion>
+		<info_portion id="pogovorili_pro_vino"></info_portion>
+		<info_portion id="pogovorili_pro_vino_2"></info_portion>
+		<info_portion id="pogovorili_leschyi"></info_portion>
+		<info_portion id="pogovorili_s_monaxom"></info_portion>
+		<info_portion id="pogovorili_shustr"></info_portion>
+		<info_portion id="pogovorili_tolik"></info_portion>
+		<info_portion id="pogovorili_bes"></info_portion>
+		
+		
+	<!---->	
+<info_portion id="mongol_davai"></info_portion>	 
+<info_portion id="mongol_davai2"></info_portion>
+<info_portion id="mongol_davai2_1"></info_portion>
+<info_portion id="mongol_govor_start"></info_portion>
+<info_portion id="schilo_govor_start"></info_portion>
+<info_portion id="kvest_mongol"></info_portion>
+<info_portion id="kvest_mongol2"></info_portion>
+
+<info_portion id="mar_par_poshel"></info_portion>	 
+<info_portion id="borman_hit"></info_portion>
+<info_portion id="borman_sniper_start">
+<task>borman_sniper</task>
+</info_portion>
+<info_portion id="borman_sniper_have"></info_portion>
+<info_portion id="borman_sniper_done"></info_portion>
+<info_portion id="lim_spawn_restr1"></info_portion>
+<info_portion id="lim_spawn_restr2"></info_portion>
+<info_portion id="lim_spawn_restr3"></info_portion>
+<info_portion id="timoha_govor_start"></info_portion>
+<info_portion id="timoha2_govor_start"></info_portion>
+
+<info_portion id="bloodsucker_na_krushe_spawn"></info_portion>
+<info_portion id="zemko_govor_start"></info_portion>
+
+<!-- ПЕРОХОДЫ-->
+ <info_portion id="gener_perehod"></info_portion> 
+<info_portion id="liman_perehod"></info_portion> 
+<info_portion id="selo_perehod"></info_portion> 
+<info_portion id="selo_bar_perehod"></info_portion> 
+<info_portion id="les_mil_perehod"></info_portion> 
+<info_portion id="mil_aver_perehod"></info_portion>
+<info_portion id="dark_aver_perehod"></info_portion>
+<info_portion id="sklad_atp_perehod"></info_portion>
+<info_portion id="svalka_aver_perehod"></info_portion>
+
+<info_portion id="snork_zdec"><action>hem_spawn_monstrs.spawnim_snorki_warlabu</action>
+<action>smski.sms_teleport</action></info_portion> 
+
+<info_portion id="voda_jiv"><action>hem_spawn_monstrs.spawn_vodyanyh_raz</action></info_portion> 
+<info_portion id="voda_jiv_dva"><action>hem_spawn_monstrs.spawn_vodyanyh_dva</action></info_portion> 
+<info_portion id="tushkan_jiv"><action>hem_spawn_monstrs.skiletiki_bino_new</action></info_portion> 
+<info_portion id="karlik_jiv"><action>hem_spawn_monstrs.ostanovka_tuschkano_nwe</action></info_portion> 
+
+
+<info_portion id="udar">
+<action>new_hem.poluchil_hit</action>
+<action>new_hem.udar_sos</action></info_portion> 
+
+ 
+
+<!-- Arlekin<task>barmen_arlekin_imfa_pom</task>-->
+<info_portion id="vetrov_arlekin_govor_start"></info_portion> 
+<info_portion id="mangust_arlekin_govor_start"><task>pogovor_mongol</task></info_portion> 
+<info_portion id="vetrov_puzyr_govor_start"></info_portion> 
+<info_portion id="sidor_arlekin_govor_start"></info_portion> 
+<info_portion id="barmen_arlekin_govor_start"></info_portion>  
+<info_portion id="luka_lampa_govor_start"><action>new_hem.spawnim_lampy</action></info_portion> 
+
+
+<!--! НПС ЗВУК-->
+<info_portion id="timoha_sound"></info_portion>
+<info_portion id="buhoy_sound"></info_portion>
+ <info_portion id="vetrov_sound"></info_portion>
+<info_portion id="matvey_sound"></info_portion>
+<info_portion id="mangust_sound"></info_portion>
+<info_portion id="arlekino_sound"></info_portion>
+<info_portion id="arlekino2_sound"></info_portion>
+<info_portion id="mongol_sound"></info_portion>
+<info_portion id="dok_final_sound"></info_portion>
+<info_portion id="jorik_sound"></info_portion>
+<info_portion id="yaschka_sound"></info_portion>
+<info_portion id="leschyi_sound"></info_portion>
+<info_portion id="mednyi_sound"></info_portion>
+<info_portion id="gerka_sound"></info_portion>
+<info_portion id="kulak_sound"></info_portion>
+<info_portion id="pauk_sound"></info_portion>
+<info_portion id="ded_kirill_sound"></info_portion>
+<info_portion id="hmuryi_sound"></info_portion>
+<info_portion id="hmuryi_bar_sound"></info_portion>
+ <info_portion id="otec_leonid_sound"></info_portion>
+  <info_portion id="nina_sound"></info_portion>
+   <info_portion id="marina_sound"></info_portion> 
+    <info_portion id="natali_sound"></info_portion> 
+  <info_portion id="solnce_sound"></info_portion> 
+ <info_portion id="dimedrol_sound"></info_portion>
+ <info_portion id="vorchun_sound"></info_portion>
+ <info_portion id="schtyk_sound"></info_portion>
+  <info_portion id="borov_sound"></info_portion>
+ <info_portion id="boris_sound"></info_portion>
+ <info_portion id="tolik_sound"></info_portion>
+ <info_portion id="shustryi_sound"></info_portion>
+ <info_portion id="krot_sound"></info_portion>
+ <info_portion id="kruglov_sound"></info_portion>
+  <info_portion id="peps_sound"></info_portion>
+  <info_portion id="rezanyi_sound"></info_portion>
+   <info_portion id="chibis_sound"></info_portion>
+  <info_portion id="soldat_sound"></info_portion>
+    <info_portion id="keglia_sound"></info_portion>
+   <info_portion id="miha_sound"></info_portion>
+  <info_portion id="sueta_bar_sound"></info_portion>
+   <info_portion id="tixonya_sound"></info_portion>
+   <info_portion id="kapernik_sound"></info_portion>
+   <info_portion id="petlia_padla_sound"></info_portion>
+   
+
+   
+<!-- LES-->
+<info_portion id="kalancha_tut"></info_portion>
+
+<info_portion id="vstretit_leshyi"> <task>pogovor_leschyi</task> </info_portion> 
+<info_portion id="leschyi_aver_govor_start"></info_portion>
+<info_portion id="monax_sos"> <task>pogovor_otec_leon</task></info_portion> 
+<info_portion id="inok_aver_govor_start"></info_portion>
+<info_portion id="dimedrol_zdes"><action>new_hem.spawnim_dimedrolov</action></info_portion>
+
+<info_portion id="info_dimedrolovcy_ataka"><action>smski.dimedrol_podmoga</action></info_portion>
+<info_portion id="info_dimedrolovcy2_ataka"><action>new_hem.spawnim_podmogu_didedrolu</action></info_portion>
+<info_portion id="smeh"></info_portion>
+<info_portion id="lukas_vorchun_govor_start"><action>new_hem.spawnim_vorchuna</action></info_portion>
+<info_portion id="pozval_luk"></info_portion>
+
+<info_portion id="neznayka_govor_start"></info_portion>
+<info_portion id="xirurg_govor_start"></info_portion>
+<info_portion id="konditer_atp_govor_start"><action>new_hem.spawnim_schtyka</action></info_portion>
+<info_portion id="schtyk_rasskaz_govor_start"></info_portion>
+<info_portion id="vovan_pro_aver_govor_start"><action>y_level.start_perexod_svalka_aver</action></info_portion>
+
+<info_portion id="stoyat"></info_portion>
+
+
+  
+
+<info_portion id="idi_ksidoru_privet">
+ </info_portion>	
+
+<info_portion id="skuns_mudak"></info_portion>
+<info_portion id="flexa_startuem"></info_portion>
+<info_portion id="skuns_sdox"><action>new_hem.shust_fleh</action></info_portion>
+<info_portion id="gar_dolg_blokpost_new_start"></info_portion>
+<info_portion id="tolik_flexa_start"> <task>pogovor_shustr</task></info_portion>
+<info_portion id="schustryi_fleha_start"><action>new_hem.spawnim_skunsa</action></info_portion>
+
+<info_portion id="pesnya"></info_portion>
+<info_portion id="na_yantar"></info_portion>
+<info_portion id="rezan_privet"></info_portion>
+<info_portion id="barmen_pro_borova_start"></info_portion>
+<info_portion id="yantar_pervyi_zaxod_start"></info_portion>
+<info_portion id="doktor_na_agro_start"><action>proba_muz.doktor_uschel</action></info_portion>
+<info_portion id="gar_free_passa"></info_portion>
+<info_portion id="vodka_start"></info_portion>
+<info_portion id="luka_pervaya_start"></info_portion>
+<info_portion id="max_trep_start"></info_portion>
+ <info_portion id="yantar_close_door"></info_portion> 
+ 
+<info_portion id="gera_volk"><action>smski.gera_volk_hana</action></info_portion> 
+<info_portion id="trader_mill_start"></info_portion> 
+
+<info_portion id="snork_podlosti"><action>hem_spawn_monstrs.spawn_oxotniki_podlo</action>
+<action>soundtrack_new.boy_hunter</action></info_portion> 
+
+<info_portion id="himera_suka"><action>new_hem.spawn_mono_himera</action>
+<action>soundtrack_new.vizg_himer</action></info_portion>
+<info_portion id="pogovorili_sah_himera"></info_portion> 
+<info_portion id="pogovorili_mracipan_himera"></info_portion>
+<info_portion id="pogovorili_prapor_himera"></info_portion>
+<info_portion id="pogovorili_rezan_himera"></info_portion>
+<info_portion id="pogovorili_shurup_himera"></info_portion>
+<info_portion id="pogovorili_dok_dej"></info_portion>
+
+<info_portion id="sdoxni_suka"><action>soundtrack_new.sdoxni_suka</action>
+<action>soundtrack.puxa_eshe</action></info_portion>
+<info_portion id="pogovorili_pro_mozg"></info_portion>
+<info_portion id="otdadym_mogc_big_done"></info_portion>
+<info_portion id="info_soldat_salut"></info_portion>
+<info_portion id="info_soldat_salut_go_1"></info_portion>
+<info_portion id="info_soldat_salut_go_2"></info_portion>
+<info_portion id="info_soldat_salut_go_post"></info_portion>
+
+<info_portion id="snork_urodec"> <task>mozgan_kvest</task></info_portion>
+<info_portion id="gar_dolg_blokpost_pered_start"></info_portion> 
+ <info_portion id="timoxa_tabletka_start"></info_portion> 
+ <info_portion id="solnce_spasibo_start"></info_portion> 
+ <info_portion id="fracture_davay"><action>noviy_put.spawn_teleport_cs</action>
+ <action>smski2.cs_sms</action>
+ <action>soundtrack_new.v_podzemke</action></info_portion>
+<info_portion id="zat_b14_door_1_unlock">
+</info_portion>
+
+                     <!--НОВЫЕ ПОРШНИ-->
+
+ <info_portion id="bomj_sound"></info_portion>
+<info_portion id="kaydan_sound"></info_portion>
+<info_portion id="bratva_spokoina"></info_portion>
+<info_portion id="fart_sound"></info_portion>
+<info_portion id="amk_mini_bar_kulinar_sound"></info_portion>
+<info_portion id="amk_mini_bar_voron_sound"></info_portion>
+<info_portion id="potap_sound"></info_portion>
+<info_portion id="perebor_sound"></info_portion>
+<info_portion id="bar_dolg_svoboda_start"></info_portion>
+<info_portion id="pascha_sound"></info_portion>
+<info_portion id="xirurg_sound"></info_portion>
+<info_portion id="mer_pedbannik_sound"></info_portion>
+<info_portion id="voin_sound"></info_portion>
+<info_portion id="mayor_sound"></info_portion>
+<info_portion id="soldat_stoit_stol_sound"></info_portion>
+<info_portion id="soldier_remont_sound"></info_portion>
+<info_portion id="stas_sound"></info_portion>
+<info_portion id="polkovnik_sound"></info_portion>
+<info_portion id="pisatel_sound"></info_portion>
+<info_portion id="evsey_sound"></info_portion>
+<info_portion id="spas_sound"></info_portion>
+<info_portion id="princ_sound"></info_portion>
+<info_portion id="tatu_sound"></info_portion>
+<info_portion id="masterskie_sound"></info_portion>
+<info_portion id="katia_sound"></info_portion>
+<info_portion id="sedoy_sound"></info_portion>
+<info_portion id="demin_sound"></info_portion>
+<info_portion id="skoblev_sound"></info_portion>
+<info_portion id="gudvin_sound"></info_portion>
+<info_portion id="ignat_sound"></info_portion>
+<info_portion id="vorota_ekza_sound"></info_portion>
+<info_portion id="zaton_kordan_sound"></info_portion>
+<info_portion id="chirok_sound"></info_portion>
+<info_portion id="travnik_sound"></info_portion>
+<info_portion id="otec_leonid_cerkov_sound"></info_portion>
+<info_portion id="sergiy_sound"></info_portion>
+<info_portion id="kloun_sound"></info_portion>
+<info_portion id="zevs_sound"></info_portion>
+<info_portion id="mitka_sound"></info_portion>
+<info_portion id="grobovschik_sound"></info_portion>
+<info_portion id="pastux_sound"></info_portion>
+<info_portion id="lukasch_sound"></info_portion>
+<info_portion id="xariton_sound"></info_portion>
+<info_portion id="xariton2_sound"></info_portion>
+<info_portion id="varan_sound"></info_portion>
+<info_portion id="varan2_sound"></info_portion>
+<info_portion id="varan3_sound"></info_portion>
+<info_portion id="lada_oxran_sound"></info_portion>
+<info_portion id="katerina_sound"></info_portion>
+<info_portion id="katerina2_sound"></info_portion>
+<info_portion id="prizrak_sound"></info_portion>
+<info_portion id="starik_sound"></info_portion>
+<info_portion id="diak_sound"></info_portion>
+<info_portion id="fima_sound"></info_portion>
+<info_portion id="jgut_sound"></info_portion>
+<info_portion id="krivoy_sound"></info_portion>
+<info_portion id="nyuton_sound"></info_portion>
+<info_portion id="anna_sound"></info_portion>
+<info_portion id="schinkar_sound"></info_portion>
+<info_portion id="dobrynya_sound"></info_portion>
+<info_portion id="kapitan_sound"></info_portion>
+<info_portion id="demon_sound"></info_portion>
+<info_portion id="kruk_padla_sound"></info_portion>
+<info_portion id="marh_provod_sound"></info_portion>
+<info_portion id="figura_sound"></info_portion>
+<info_portion id="mamuka_sound"></info_portion>
+<info_portion id="apostol_sound"></info_portion>
+<info_portion id="muzikant_sound"></info_portion>
+<info_portion id="black_stalker_sound"></info_portion>
+<info_portion id="marcipan_sound"></info_portion>
+<info_portion id="schurup_sound"></info_portion>
+<info_portion id="povar_sound"></info_portion>
+<info_portion id="arina_sound"></info_portion>
+<info_portion id="arina2_sound"></info_portion>
+<info_portion id="kalancha_sound"></info_portion>
+<info_portion id="lipa_sound"></info_portion>
+
+<!-- ДЛЯ НАЧАЛА -->  
+  <info_portion id="novaya_igra">
+ <action>soundtrack_new.nachalo</action>
+ <action>chel_spawn.spawn_naroda_predzona</action> 
+ <action>amk_mod.freeplay</action>
+ <action>soundtrack.odischka</action> </info_portion>
+
+<info_portion id="vsem_privet">
+<action>vernul.spawn_haliavi_kor2</action>
+<action>smski2.pervaya_sms</action>
+<action>avozv_hem.pacany_on</action>
+</info_portion>
+
+<info_portion id="vernulis">
+<task>pogovor_narod</task>
+<action>atakvot_put.nakureno_bar</action>
+  <action>infa.infa_25</action>
+<article>infa_pro_hud</article> </info_portion>
+
+<info_portion id="pogovorili_narod"></info_portion>
+<info_portion id="otdali_dengi_semenovne">  <action>chelovek.otdali_bablo</action>
+ </info_portion>
+<info_portion id="semenovna_dialog_infa"><action>avozv_hem.spawn_na_zaton</action></info_portion>
+<info_portion id="semenovna_dialog_infa2"><action>smski2.ya_oxrenel</action>
+<action>soundtrack_new.moi_mysli</action> </info_portion>
+<info_portion id="dog_dead"><action>soundtrack.suk_ne_xvatalo</action></info_portion>
+<info_portion id="dog_dead2"><action>soundtrack.albinos</action></info_portion>
+<info_portion id="info_blokpost_vorota_open"></info_portion>
+<info_portion id="info_blokpost_vorota_open22"></info_portion>
+<info_portion id="suchata_infa_pro"></info_portion>
+<info_portion id="info_suchata_ataka"><action>soundtrack_new.ne_zlite</action></info_portion>
+
+<info_portion id="semenovna_bablo_start"></info_portion>
+<info_portion id="smeh2"></info_portion>
+<info_portion id="smeh3"></info_portion>
+<info_portion id="suchata_start"></info_portion>
+<info_portion id="oxrana_polkovnika_les_start"></info_portion>
+<info_portion id="y_zdes"></info_portion>
+<info_portion id="zaton_heli_hit"></info_portion>
+<info_portion id="feldscher_start"></info_portion>
+<info_portion id="bocman_start"><action>chel_spawn.spawn_metka_mast</action>
+<action>metki.set_metka_mast</action></info_portion>
+<info_portion id="bocman_privet"></info_portion>
+
+<info_portion id="vorota_ekza_infa_pro"></info_portion>
+<info_portion id="info_vorota_ekza_ataka"></info_portion>
+
+<info_portion id="gopota_spokoina"><action>soundtrack.za_wxod</action></info_portion>
+<info_portion id="fischer_start"></info_portion>
+<info_portion id="zaton_barja_way"></info_portion>
+<info_portion id="masterskie_infa_pro"></info_portion>
+<info_portion id="info_masterskie_ataka"></info_portion>
+<info_portion id="saschka_infa_pro"></info_portion>
+<info_portion id="dust_infa_pro"></info_portion>
+
+<!--ПОГОВОРИЛИ-->
+<info_portion id="pogovorili_abrek"></info_portion>
+<info_portion id="abrek_dialog_start"><task>pogovor_saschka</task></info_portion>
+<info_portion id="abrek_dva_dialog_start"><action>delete_na.delete_saschok</action></info_portion>
+<info_portion id="saschka_dialog_start"><action>atakvot_put.spawnim_pogovorit</action></info_portion>
+<info_portion id="saschka2_dialog_start"><task>pogovor_abrek_dva</task></info_portion>
+<info_portion id="saschka3_dialog_start"></info_portion>
+<info_portion id="pogovorit_esche"><task>pogovor_saschka2</task></info_portion>
+<info_portion id="pogovorili_saschka"></info_portion>
+<info_portion id="pogovorili_saschka2"></info_portion>
+<info_portion id="pogovorili_saschka3"><task>pogovor_princ</task></info_portion>
+<info_portion id="pogovorili_abrek_dva"></info_portion>
+<info_portion id="kolyanych_start"></info_portion>
+<info_portion id="princ_dialog_start"></info_portion>
+<info_portion id="semenovna_sound"></info_portion>
+<info_portion id="naimy_spokoiny"></info_portion>
+<info_portion id="melkiy_sdox"><action>soundtrack.melkiy_sdox</action></info_portion>
+<info_portion id="pogovorili_princ"></info_portion>
+<info_portion id="pro_cvety_start"><task>pogovor_semenovna_buket</task></info_portion>
+<info_portion id="pogovorili_semenovna_buket"></info_portion>
+<info_portion id="pogovorili_karim"><action>metki.set_metka_depo</action></info_portion>
+<info_portion id="pogovorili_mixalych"></info_portion>
+<info_portion id="pogovorili_pisatel"></info_portion>
+<info_portion id="pogovorili_otec_leonid"></info_portion>
+<info_portion id="pogovorili_otec_sergiy"></info_portion>
+
+
+<!-- Predzona-->
+<info_portion id="pro_cvety_semenovna_start"><task>buket_lisa</task>
+<action>chel_spawn.spawn_cvet</action>
+<action>atakvot_put.naschli_ozero</action></info_portion>
+<info_portion id="grazhdan_2_hello_dialog_start"></info_portion>
+
+<info_portion id="pro_dom_start"><task>moy_dom</task>
+<action>atakvot_put.voschli_domoy</action>
+<action>chel_spawn.spawn_v_trube</action></info_portion>
+<info_portion id="alkasch_start"></info_portion>
+<info_portion id="usko_start"></info_portion>
+
+<!--петля времени-->
+<info_portion id="nemec_verm_start"></info_portion>
+<info_portion id="afanasii_start"><action>metki.remove_metka_ded</action></info_portion>
+<info_portion id="schok"></info_portion>
+<info_portion id="gans_schok_start">
+<action>soundtrack.schok</action></info_portion>
+<info_portion id="gigant_sdox_suka"></info_portion>
+<info_portion id="otpravim_nemcev">
+<task>pogovor_afanasii</task>
+<action>soundtrack.gigant</action>
+<action>infa.infa_6</action>
+<action>delete_na.delete_gans</action></info_portion>
+
+<info_portion id="pogovorili_afanasii">
+<action>chel_spawn.spawn_art_steklo</action>
+<action>metki.set_metka_steklo</action></info_portion>
+
+<info_portion id="afanasii_posle_dialog_start">
+<action>atakvot_put.art_steklo_restr</action>
+<action>hem_spawn_monstrs2.spawn_gar_zanoza</action>
+<action>delete_na.delete_telep_prosch</action></info_portion>
+
+<info_portion id="udalim"><action>metki.remove_metka_steklo</action></info_portion>
+
+<info_portion id="sdoxni_derevo"><action>soundtrack.zanoza</action></info_portion>
+<info_portion id="podmoga_poschla"><action>soundtrack.kontrik_vixod</action>
+<action>hem_spawn_monstrs2.spawn_druzya</action></info_portion>
+<info_portion id="kontrik_privet"><action>hem_spawn_monstrs2.spawn_kontrik_druzya</action></info_portion>
+<info_portion id="podmoga_mat_tvoiu"><action>soundtrack.podkreplenie</action></info_portion>
+
+
+<info_portion id="lexa_rana_start"><action>metki.remove_metka_depo</action>
+<action>hem_spawn_monstrs2.spawn_burer_depo</action></info_portion>
+<info_portion id="burer_lexa_sdox"><action>soundtrack.sdox_padla</action></info_portion>
+<info_portion id="lexa_rana2_start"><action>soundtrack_new.lexa_doroga</action>
+<action>hem_spawn_monstrs2.spawn_goliy_snork</action></info_portion>
+
+
+<info_portion id="karim_dialog_start">
+<action>chel_spawn.spawn_metka_depo</action>
+<action>atakvot_put.lexa_doschli_do_tonnel</action></info_portion>
+
+
+
+<info_portion id="lexa_vityaz_start"></info_portion>
+<info_portion id="lexa_vischli_start"></info_portion>
+<info_portion id="lexa_stol_viscli"></info_portion>
+<info_portion id="golyi"><action>soundtrack.golyi</action></info_portion>
+<info_portion id="pauk_privet_start"></info_portion>
+<info_portion id="lexa_dead"></info_portion>
+<info_portion id="princ_vstrecha_start"></info_portion>
+<info_portion id="tatu_vstrecha_start"></info_portion>
+<info_portion id="ded_ignat_dialog_start"></info_portion>
+<info_portion id="dust_dialog_start"></info_portion>
+<info_portion id="pauk_izdox"><action>soundtrack.pauki</action>
+<action>hem_spawn_monstrs2.spawn_ploti_drova2</action></info_portion>
+<info_portion id="plotia_izdox"><action>soundtrack.plotya</action></info_portion>
+<info_portion id="ups"><action>soundtrack.ups</action></info_portion>
+<info_portion id="zombi_schutka"><action>soundtrack.zombi_schutka</action></info_portion>
+<info_portion id="znakomstvo_spas_start"></info_portion>
+<info_portion id="barin_pro_zonu_dialog_start"></info_portion>
+<info_portion id="do_mixalycha_start"><task>pogovor_pisatel</task></info_portion>
+<info_portion id="mixalych_start"></info_portion>
+<info_portion id="mojno_mixalychu"><task>pogovor_mixalych</task></info_portion>
+<info_portion id="nakazanie_gg"><action>noviy_put.kill_gg</action>
+<action>infa.infa_9</action></info_portion>
+<info_portion id="chto_za_tvar"><action>soundtrack.chto_za_tvar</action></info_portion>
+<info_portion id="belka"><action>soundtrack.belka</action></info_portion>
+<info_portion id="dima_zima_dialog_start"></info_portion>
+<info_portion id="schurup_privet_dialog_start"></info_portion>
+<info_portion id="mitka_privet_dialog_start"></info_portion>
+<info_portion id="sidorok_privet_dialog_start"></info_portion>
+<info_portion id="sobaki_grob"><action>soundtrack.sobaki_esc</action></info_portion>
+<info_portion id="nakazanie_gg2"><action>noviy_put.kill_gg2</action>
+<action>infa.infa_11</action></info_portion>
+<info_portion id="nakajem_gg"><action>noviy_put.kill_gg3</action>
+<action>infa.infa_14</action></info_portion>
+
+<info_portion id="nakajem_gg33"><action>noviy_put.kill_gg</action>
+<action>infa.infa_14</action></info_portion>
+
+
+
+
+
+
+<!-- BOLOTA-->
+
+<info_portion id="otec_leonid_dialog_start"></info_portion>
+<info_portion id="otec_sergiy_dialog_start"></info_portion>
+<info_portion id="monaxi_uxod">
+<action>delete_na.delete_leonid</action>
+<action>delete_na.delete_alex</action>
+<action>delete_na.delete_niko</action></info_portion>
+
+<info_portion id="zabrat_grob"></info_portion>
+<info_portion id="grob_gotov_start"></info_portion>
+
+<info_portion id="lukasch_start"><action>atakvot_put.lukasch_uschel</action></info_portion>
+
+<info_portion id="pora"><action>delete_na.delete_lukasch</action></info_portion>
+
+<info_portion id="sdox"><action>infa.infa_15</action>
+<action>chel_spawn.spawn_monolit_patrony_1</action>
+<action>soundtrack_new.sdoxni_suka</action></info_portion>
+<info_portion id="svoboda_drug"></info_portion>
+<info_portion id="lada_mertva"></info_portion>
+<info_portion id="varan_sdox"></info_portion>
+<info_portion id="varan_sdox1"></info_portion>
+<info_portion id="otmorozki_spokoina"></info_portion>
+
+<info_portion id="oazis_straj"><action>soundtrack.straj</action></info_portion>
+<info_portion id="oazis_straj_kogot"><action>hem_spawn_monstrs2.spawn_stalker_zombi_oazis_2</action></info_portion>
+<info_portion id="oazis_straj_biblik"><action>soundtrack.biblik</action>
+<action>hem_spawn_monstrs2.spawn_stalker_zombi_oazis_4</action></info_portion>
+<info_portion id="vyxodim"><action>hem_spawn_monstrs2.spawn_jup_koschki</action>
+<action>soundtrack.tonnel_kontrik</action></info_portion>
+<info_portion id="schok2"></info_portion>
+<info_portion id="prischli"></info_portion>
+
+<info_portion id="katia_zavod_start"><action>soundtrack_new.fon</action></info_portion>
+<info_portion id="soldat_katia_start"><task>nayti_katiu</task><action>atakvot_put.katia_beda</action></info_portion>
+<info_portion id="proval_katia"></info_portion>
+<info_portion id="zavod"></info_portion>
+
+<info_portion id="prizrak_dialog_start"></info_portion>
+<info_portion id="dead_city_dialog_start"></info_portion>
+
+<info_portion id="nyuton_pogovor"><action>chel_spawn.spawn_art_gubka</action></info_portion>
+<info_portion id="dead_city_nyuton_start"><article>nyuton</article>
+  <action>infa.infa_20</action></info_portion>
+
+<info_portion id="nina_vstrecha_start">
+<action>y_level.start_perexod_dead_city</action>
+<article>nina_vstrecha</article>
+  <action>infa.infa_20</action></info_portion>
+
+<info_portion id="dead_city_perehod"></info_portion>
+<info_portion id="nyuton_enemy"><action>vernul.enemy_nyuton</action></info_portion>
+
+<!-- ПРИПЯТЬ Пастух-->
+<info_portion id="pastux_vstrecha"><task>pastux_vstrecha</task><action>chel_spawn.spawn_kompaxa_pastux</action></info_portion>
+<info_portion id="pastux_vstrecha_pogovor"></info_portion>
+<info_portion id="pastux_vstrecha_dialog_start"></info_portion>
+<info_portion id="pastux_vstrecha_dalsche_start"><task>pastux_komanda</task></info_portion>
+<info_portion id="pastux_vstrecha_2_pogovor"><task>pastux_taran</task></info_portion>
+<info_portion id="dobrynya_pogovor"><task>pastux_vstrecha_2</task></info_portion>
+<info_portion id="anna_pogovor"></info_portion>
+<info_portion id="schinkar_pogovor"></info_portion>
+<info_portion id="schinkar_dialog_start"></info_portion>
+<info_portion id="anna_dialog_start"></info_portion>
+<info_portion id="dobrynya_dialog_start"></info_portion>
+<info_portion id="pastux_vstrecha2_dialog_start"></info_portion>
+<info_portion id="schinkar_zaiti_pogovor"></info_portion>
+<info_portion id="schinkar_zaiti_dialog_start"><action>soundtrack.chto_za_kaban</action></info_portion>
+
+
+<info_portion id="sergyi_dok_dialog_start"><task>dok_vstrecha</task></info_portion>
+<info_portion id="dok_vstrecha_pogovor"></info_portion>
+<info_portion id="strelok_dok_dialog_start"></info_portion>
+
+<info_portion id="strelok_dok_2_dialog_start"><task>dok_arty</task></info_portion>
+
+<info_portion id="doctor_enemy"><action>vernul.enemy_doktor_old</action></info_portion>
+
+<info_portion id="pred_gluk_dialog_start"></info_portion>
+<info_portion id="new_snariaga_dialog_start"><task>pedbannik_traber_vstrecha</task></info_portion>
+
+<info_portion id="pedbannik_traber_vstrecha_pogovor"></info_portion>
+<info_portion id="pedbannik_traber_dialog_start"></info_portion>
+<info_portion id="usiko_dialog_start"></info_portion>
+
+<info_portion id="kaidan"><task>kaidan</task></info_portion>
+<info_portion id="kaidan_pogovor"></info_portion>
+<info_portion id="kaidan_dialog_start"></info_portion>
+<info_portion id="kaidan2_dialog_start"><task>volk</task></info_portion>
+<info_portion id="kaidan3_dialog_start"></info_portion>
+
+<info_portion id="volk_pogovor"></info_portion>
+<info_portion id="volk_dialog_start"></info_portion>
+<info_portion id="volk2_dialog_start"></info_portion>
+
+<info_portion id="rojdenie"><action>hem_spawn_monstrs2.spawn_x8</action></info_portion>
+<info_portion id="rojdenie_2"><action>hem_spawn_monstrs2.spawn_x8_zombi</action></info_portion>  <!--test <task>dok_arty</task>-->
+
+<info_portion id="vedma_deth"><action>soundtrack.x8_cto_pro</action></info_portion>
+
+
+<!-- Продолжим на Складах-->
+<info_portion id="alex_pogovor"></info_portion>
+<info_portion id="alex_start"></info_portion>
+
+<info_portion id="vip_zadanie_vzial"></info_portion>
+
+<info_portion id="pora_za_rabotu_dialog_start"><task>vip_zadanie</task></info_portion>
+<info_portion id="smehlim"></info_portion>
+<info_portion id="suchata_lim_infa_pro"></info_portion>
+<info_portion id="info_suchata_lim_ataka"><action>soundtrack.gop_zaton</action></info_portion>
+
+
+<info_portion id="vitamin_dialog_start"></info_portion>
+<info_portion id="vitamin_pos_dialog_start"></info_portion>
+<info_portion id="xirurg_dialog_start"></info_portion>
+<info_portion id="evsey_pos_dialog_start"></info_portion>
+<info_portion id="biomassa"><action>soundtrack.biomassa</action></info_portion>
+<info_portion id="demon_mar_dialog_start"><task>provodnik</task></info_portion>
+<info_portion id="provodnik_est"><task>kruk_mraz</task></info_portion>
+<info_portion id="kruk_suka"></info_portion>
+<info_portion id="kruk_suka_hana"><action>soundtrack.kruk_suka</action></info_portion>
+<info_portion id="smehmar"></info_portion>
+<info_portion id="kruk_vstr"></info_portion>
+
+<info_portion id="veter_marsh_dialog_start"></info_portion>
+<info_portion id="veter_marsh_gg_dialog_start"></info_portion>
+
+<info_portion id="petlia_suka"></info_portion>
+<info_portion id="petlia_suka_hana"></info_portion>
+<info_portion id="petlia_obman_start"></info_portion>
+<info_portion id="petlia_gg_dialog_start"></info_portion>
+<info_portion id="travka_dialog_start"></info_portion>
+<info_portion id="zolotov_dialog_start"></info_portion>
+
+<!--Proxor-->
+<info_portion id="siluian_gar_start"><task>proxor_poisk</task></info_portion>
+<info_portion id="proxor_vstr"></info_portion>
+<info_portion id="proxor_undegr_start"><task>siluan_proxor</task></info_portion>
+<info_portion id="siluan_proxor_vstr"></info_portion>
+<info_portion id="siluan_proxor_start"></info_portion>
+
+<info_portion id="proxor_strelok_start">
+<task>taynik_strelka</task>
+<action>atakvot_put.nasch_taynik</action></info_portion>
+<info_portion id="taynik_strelka_est"><action>soundtrack.akmsm1</action></info_portion>
+
+<!--bar-->
+<info_portion id="voronin_vstr_start"></info_portion>
+<info_portion id="diadya_bar_dialog_start"></info_portion>
+
+<info_portion id="straj_dialog_start"></info_portion>
+<info_portion id="pan_mapcip_dialog_start"></info_portion>
+<info_portion id="pan_mapcip_mir_dialog_start"></info_portion>
+
+<info_portion id="pritcha_bar_start"><task>pritcha</task></info_portion>
+<info_portion id="pritcha_rostok"><action>chel_spawn.spawn_pritcha_sxron</action></info_portion>
+<info_portion id="pritcha_est">
+<action>soundtrack.pritcha_bar_vixod2</action>
+<action>infa.infa_24</action>
+<action>chel_spawn.spawn_pritcha_sxron_valim</action>
+<action>atakvot_put.za_rostok_teleport</action></info_portion>
+
+
+<info_portion id="veter_marsh_mamuka_dialog_start"><task>drug_mamuka</task></info_portion>
+<info_portion id="drug_mamuka_vstr"></info_portion>
+<info_portion id="mamuka_lopata_vstr_start"></info_portion>
+
+<info_portion id="vovan_vstr_dialog_start"></info_portion>
+<info_portion id="gop_dialog_start"></info_portion>
+
+
+<info_portion id="info_time_repbox_1">
+<action>san_xabar_comp.xabar_stop_items</action>
+<action>san1.time_repbox_1</action>
+<action>bind_stalker.hide_weapon</action>
+</info_portion>
+<info_portion id="info_time_repbox_2">
+<action>san_xabar_comp.xabar_stop_items</action>
+<action>san1.time_repbox_2</action>
+<action>bind_stalker.hide_weapon</action>
+</info_portion>
+<info_portion id="info_time_repbox_6">
+<action>san_xabar_comp.xabar_stop_items</action>
+<action>san1.time_repbox_6</action>
+<action>bind_stalker.hide_weapon</action>
+</info_portion>
+<info_portion id="info_time_repbox_off">
+<action>san2.Delete_stop_itemsk_from_Actor</action>
+<action>bind_stalker.restore_weapon</action>
+</info_portion>
+
+
+<info_portion id="patron_dialog_start"></info_portion>
+<info_portion id="altin_vstr_start"></info_portion>
+<info_portion id="rovn_art_dialog_start"></info_portion>
+<info_portion id="chitok_dialog_start"></info_portion>
+<info_portion id="v_bar_dialog_start"></info_portion>
+<info_portion id="schurup_minigan_dialog_start"></info_portion>
+
+<info_portion id="marsh_radiation"></info_portion>
+<info_portion id="no_marsh_radiation"></info_portion>
+
+<!-- infekciya-->
+<info_portion id="priboy_t_virus_infected"><task>antidot</task><action>infa.infa_29</action></info_portion>
+
+<!--<info_portion id="black_stalker_del"><action>delete_na.delete_black_stalker</action></info_portion>-->
+
+<info_portion id="dialog_black_st_start"></info_portion>
+
+<info_portion id="nixera_maus"><action>soundtrack.maus_big</action></info_portion>
+
+<info_portion id="eto_test_start"></info_portion>
+
+<info_portion id="kopernik_arina_dialog_start"></info_portion>
+<!-- <action>noviy_put.spawn_telep</action> Это для БОЛОТ-->
+
+<info_portion id="buriy_dialog_start"></info_portion>
+
+<info_portion id="dialog_lipa_kontr_start"></info_portion>
+
+<info_portion id="mixas_bar_dialog_start"></info_portion>
+
+<info_portion id="petrenko_dolg_bar_dialog_start"></info_portion>
+
+<info_portion id="ivancov_vstr_dialog_start"></info_portion>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</game_information_portions>

@@ -1,0 +1,154 @@
+function infa_1(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Информация:\n%c[default]:Получен рецепт в награду, проверьте ПДА.", nil, nil, 25000)
+end
+
+
+function infa_2(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:Вот только этих слепых сук мне не хватало..", nil, nil, 25000)
+end 
+
+
+function infa_3(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:По ходу это и есть местный Бар.", nil, nil, 25000)
+end
+
+
+function infa_4(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:Какие-то слепые альбиносы прям, сдохни тварь...", nil, nil, 25000)
+end  
+
+function infa_5(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Заметка:\n%c[default]:Эту историю, Меченый записал в тетрадь", nil, nil, 25000)
+end 
+
+function infa_6(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Ганс:\n%c[default]:Прощай сталкер, спасибо за всё.", nil, nil, 25000)
+end 
+
+function infa_7(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]заметка:\n%c[default]:Здесь можно поговорить.", nil, nil, 25000)
+end
+
+function infa_8(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]заметка:\n%c[default]:Твои арты закончили своё действие. Собирай булыжники.", nil, nil, 25000)
+end 
+
+function infa_9(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Постскриптум:\n%c[default]:ЗА НАПАДЕНИЕ - МЕЧЕНЫЙ БЫЛ ЗАСТРЕЛЕН.", nil, nil, 25000)
+end 
+
+function infa_10(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]ОПЕРАТОР:\n%c[default]:За услуги предоставления связи, с вашего счета снято 3000", nil, nil, 10000)
+end 
+
+function infa_11(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:Вот это молодца, четко сработано.", nil, nil, 10000)
+end 
+
+
+function infa_12(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Информация:\n%c[default]:УМЕР СТАЛКЕР.", nil, nil, 25000)
+end 
+
+function infa_13(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:Это ещё что такое?", nil, nil, 15000)
+end 
+
+
+function infa_14(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Информация:\n%c[default]:Не нужно трогать тех, кто не трогает Вас.", nil, nil, 15000)
+end 
+
+function infa_15(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Внимание:\n%c[default]:Уничтожить неверного...", nil, nil, 15000)
+end 
+
+function infa_16(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]ЗЕВС:\n%c[default]:УНИЧТОЖИТЬ ВОРА.", nil, nil, 25000)
+end 
+
+function infa_17(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]ФИЛАРЕТ:\n%c[default]:МЕЧЕНЫЙ, ПОДОЙДИ, ЕСТЬ РАЗГОВОР.", nil, nil, 25000)
+end 
+
+function infa_18(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]ГУДВИН:\n%c[default]:Сталкер, если желаешь поохотиться, подходи, я в подвале. ", nil, nil, 25000)
+end 
+
+function infa_19(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]АНДРЕЙ:\n%c[default]:Прощай Меченый, спасибо тебе, ты хороший человек.", nil, nil, 25000)
+end 
+
+function infa_20(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Информация:\n%c[default]:В раздел 'СПРАВКИ' загружена информация.", nil, nil, 35000)
+end 
+
+function sudba(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Лукаш:\n%c[default]:Ну, иди с Богом, удачи тебе в твоих делах.", nil, nil, 5000)
+end 
+
+function infa_21(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Система:\n%c[default]:УНИЧТОЖИТЬ НАРУШИТЕЛЯ", nil, nil, 5000)
+end 
+
+function infa_22(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Сообщение:\n%c[default]:СКЛАД ОТКРЫТ", nil, nil, 25000)
+end 
+
+function infa_23(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Сообщение:\n%c[default]:Чтобы жизнь мёдом не казалась, Зона всегда подкладывает подлянку.", nil, nil, 25000)
+end 
+
+function infa_24(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:Где-то здесь должен быть телепорт обратно, это точно.", nil, nil, 25000)
+end 
+
+function infa_25(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]ИНФОРМАЦИЯ:\n%c[default]:В ПДА занесена заметка", nil, nil, 25000)
+end 
+
+function infa_26(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]РОВНЫЙ:\n%c[default]:Меченый, если ещё работа интересует, подходи", nil, nil, 25000)
+end
+
+function infa_27(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]ИНФОРМАЦИЯ:\n%c[default]:ТАК, НУЖНО К САНЫЧУ ЗАЙТИ, МОЖЕТ ОН ЧЕГО ПОДКИНЕТ.", nil, nil, 25000)
+end
+
+function infa_28(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]МУЗЫКАНТ:\n%c[default]:Парень, есть тема для разговора, если интересно...подходи, я в беседке.", nil, nil, 25000)
+end
+
+function infa_29(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]ВНИМАНИЕ:\n%c[default]:Вы заразились ЧЕРНОБЫЛЬСКОЙ ЧУМОЙ, у вас есть 10 минут, нужно срочно принять АНТИДОТ.", nil, nil, 25000)
+end
+
+function infa_30(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]ВНИМАНИЕ:\n%c[default]:Вы попали в аномалию 'Музыка', не волнуйтесь, она безвредна. Просто постойте и послушайте музыку Зоны.", nil, nil, 25000)
+end
+
+
+function infa_31(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Информация:\n%c[default]:Диктофон включён на запись.", nil, nil, 5000)
+end
+
+function infa_32(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Информация:\n%c[default]:Запись окончена", nil, nil, 5000)
+end
+
+function infa_33(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Иванцов:\n%c[default]:Меченый, ну ты хоть подойди, поздороваемся.", nil, nil, 15000)
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
