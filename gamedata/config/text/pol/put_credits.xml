@@ -1,26 +1,25 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 
 	<string id="put_mod_name">
-		<text>Путь Человека "Возвращение".</text>
+		<text>Czіowieczy Los: Powrуt</text>
 	</string>
 	<string id="put_autor">
-	<text>На этом, мы оставим нашего героя.</text>
+	<text>W tym momencie opuњcimy naszego bohatera.</text>
 	</string>
 	<string id="put_executor">
-	<text>Он поселился в Предзонье. Занялся хозяйством,</text>
+	<text>Osiadі w Wielkiej Ziemi. Zaangaїowany w rolnictwo,</text>
 	</string>
 	<string id="put_gsc">
-	<text>женился на Лисе, у них родились двое детей - мальчик и девочка.</text>
+	<text>poњlubili Lisк, mieli dwoje dzieci - chіopca i dziewczynkк.</text>
 	</string>
 	<string id="put_xemul">
-	<text>Иногда Меченый выходил в Зону...просто подработать.</text>
+	<text>Czasami Naznaczony chodziі do Zony tylko po to, їeby trochк zarobiж.</text>
 	</string>
 	<string id="put_spasib">
-	<text>Путь Человека, был пройден достойно.</text>
+	<text>Czіowieczy Los zostaі przebyty z godnoњci№.</text>
 	</string>
-	 
+
 
 
 </string_table>
-

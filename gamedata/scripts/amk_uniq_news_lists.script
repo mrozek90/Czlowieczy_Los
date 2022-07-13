@@ -2,49 +2,49 @@
 local news_uniq={
 
 
-"Надо мной только что прошла в северном направлении пара вертолётов. Координаты прилагаю. Не высовываемся, я не знаю, какие у них указания.",
-"Квад\\nИдём по пеленгу к упавшему на болотах вертолёту. Пока - никого.\\n\\n\"Долг\"\\nВ приватный канал, ммать!",
-"Квад\\nНаблюдаем волну мутантов, идёт с северо-запада, см. приложенные координаты.",
-"Квад\\nНаблюдаем волну мутантов, идёт из северного ущелья.",
-"Квад\\nНаблюдаем волну мутантов, идёт с востока, предположительно - из Тёмной долины.",
-"\"Мэй дэй\", стая псов прёт прямо на нас, точные координаты прилагаю!",
-"Мародёры, твари...\\n\\nПотап\\nМы догадываемся.",
-"Псевдособака набросилась, еле пристрелил!\\n\\nПотап\\nМолодец.",
-"Видел группу каких-то левых мужиков, предположительно 'Свобода', идут в сторону Бара.\\n\\n\"Свобода\"\\nНе пали, сволочь...",
-"Группа из пяти человек движется в сторону Барьера, предположительно 'Монолит'. Примите меры.\\n\\nБарьер\\nПонял. Фанатики обкуренные, чтоб их...",
-"\"Мэй дэй\", военные зажали на Агропроме в центральном комплексе!\\n\\n\"Долг\"\\nИ чего вам всё неймётся... предупреждали же, рейд будет.",
-"Зевс, мерков перестреляли, идём домой.\\n\\n\"Свобода\"\\nВ приватный канал, придурки!",
-"Два-три-семь, идём домой, встречайте.",
-"Мародёры зажали, выручайте!\\n\\nКоординаты-то приложи, умник.",
-"Слышал переговоры военных, у них планируется какая-то операция на Янтаре.",
---"Зевс, тут опять на хутор \"Долг\" пришёл. Зачем?\\n\\nЗевс\\nЗадолбали уже. Что им нужно? Опять ведь получат...\\n\\nПетренко\\nА это и не наши. Мне, в принципе, всё равно, делайте с ними, что хотите.",
-"Нужен выход в интернет. В баре есть, или к Сидоровичу плестись?\\n\\nПотап\\nВроде у бармена есть. В принципе, можешь попробовать пойти к связистам \"Долга\", у них точно доступ имеется.",
+"Kilka helikopterуw wіaњnie przeleciaіo nad mn№ jad№c na pуіnoc. Doі№czone s№ wspуіrzкdne. Nie wysadzaj nosa, nie wiem, jakie s№ ich zadania.",
+"Kwad \\ Idziemy wzdіuї drodze do helikoptera, ktуry wpadі na bagna. Pуki co - nikogo.\\n\\n\"Powinnoњж\"\\n Na prywatny kanaі, skurwysynu!",
+"Kwad \\n Obserwujemy falк mutantуw nadchodz№cych z pуіnocnego zachodu, patrz na wspуіrzкdne.",
+"Kwad\\n Obserwujemy falк mutantуw przybywaj№c№ z pуіnocnej doliny.",
+"Kwad\\n Obserwujemy falк mutantуw nadchodz№c№ ze wschodu, przypuszczalnie z Mrocznej Doliny.",
+"SOS, sfora psуw pкdzi wprost na nas, zaі№czam dokіadne wspуіrzкdne!",
+"Maruderzy, stworzenia...\\n\\nPotap\\nMoїemy zgadywaж.",
+"Nibypies rzuciі siк, ledwo strzeliіem!\\n\\nPotup\\nDobra robota.",
+"Widziaіem grupк lewicowych mкїczyzn, prawdopodobnie z Wolnoњci, id№cych w kierunku Baru.\\n\\n\"Wolnoњж\"\\nNie strzelajcie, dranie...",
+"Grupa piкciu osуb zmierza w kierunku Barera, przypuszczalnie Monolitowcy. Podejmij dziaіanie.\\n\\nBarer\\nZrozumiano. Ukamieniujemy fanatykуw...",
+"SOS, wojsko zablokowaіo Agroprom w centralnym kompleksie!\\n\\n Powinnoњж \\n I dlaczego Ciк to dziwi... ostrzegali, їe bкdzie nalot.",
+"Zeus, najemnicy zostali zastrzeleni, chodџmy do domu.\\n\\n Wolnoњж\\n Na prywatny kanaі, idioci!",
+"2-3-7, chodџmy do domu, spotkajmy siк.",
+"Maruderzy przyszpilili, pomуї nam!\\n\\n Podaj mi wspуіrzкdne, m№dralo.",
+"Sіyszaіem rozmowк wojska, planuj№ jak№њ operacjк na Jantarze.",
+--"Zeus, tu znowu na farmie \"Powinnoњж\" przyszedі. Dlaczego?\\n\\nZeus\\nJuї spieprzyі. Czego potrzebuj№? Znowu to dostan№...\\n\\nPetrenko\\nI to teї nie jest nasze. Nie obchodzi mnie to, rуb z nimi, co chcesz..",
+"Wymagany dostкp do Internetu. Jest w barze, czy powinienem iњж do Sidorowicza?\\n\\nPotap\\n Wygl№da na to, їe barman ma trochк. W zasadzie moїesz sprуbowaж udaж siк do і№cznoњciowcуw Powinnoњci, na pewno maj№ dostкp.",
 
 
--- из RC
+-- z RC
 
-"Хе-хе, я подогнал денежного клиента, срочно выйди на связь!",
-"Требуется сталкер, специалист по кодовым замкам, с опытом рейдов на север Зоны.",
-"Я слышал, что американцы к нам какого-то своего супермена заслали. Интересно будет на него посмотреть.",
-"В подвалы не суйтесь, там тварей полно! Обходите поверху!",
-"Хемуль, срочно дуй в бар, дело есть!",
-"Народ! Осторожнее в деревне на складах - там \"Жгучего пуха\" намело на столбы!",
---"Аллё, герои, мать вашу! Харэ пытаться нас с АТП выбить! Если какая падла ещё не врубилась, это наша территория, и не хрена лезть к нам!",
-"Блин! Ё-моё, снова зомби полным-полно на Янтаре! Аккуратней там, народ!\\nПотап\\nУникальная информация...",
-"Сталкеры! Сахаров даёт неплохие деньги за хабар! И всё ищет, кого бы в Х-16 послать... Я что-то не рискую... Фонит там дико, да и зомби...",
-"Внимание! Если в деревне в Тёмной долине вам предложат купить какую-то навороченную винтовку за 800 рублей - не верьте, это кидалово!",
+"Hehe, mam kasiastego klienta, skontaktuj siк natychmiast!",
+"Potrzebujк stalkera, specjalisty od zamkуw szyfrowych, z doњwiadczeniem w wypadach na pуіnoc od Strefy.",
+"Sіyszaіem, їe Amerykanie wysіali do nas swojego supermana. Ciekawie bкdzie go zobaczyж.",
+"Nie wchodџ do piwnic, mutantуw jest bardzo duїo! Lepiej wspi№ж siк na szczyt!",
+"Hemul, pilnie dawaj do Baru, jest sprawa!",
+"Ludzie! B№dџcie ostroїni we wsi w magazynach. Tam \"Pіon№cy puch\" spiкtrzony na sіupach!",
+--"Witajcie, bohaterowie, wasza matka! Zaj№c sprуbuj nas znokautowaж ATP! Jeњli jakiњ draс jeszcze go nie przeci№і, to jest nasze terytorium i nie jest niczym cholernym wspinaж siк do nas!",
+"Bzdury! Nosz kurwa, znowu jest duїo zombie na Jantarze! Uwaїajcie, ludzie!\\nPotap\\n Niebywaіe informacje...",
+"Stalkerzy! Sacharow daje dobre pieni№dze na іup! Wci№ї szuka kogoњ do wysіania na X-16... Ja nie ryzykuje... Tam jest dzicz, a nawet zombie...",
+"Uwaga! Jeњli w wiosce w Mrocznej Dolinie zaproponuje Ci siк zakup fantazyjnego karabinu za 800 rubli - nie wierz w to, to oszustwo!",
 
 
 -- 1.2
---"Лысый\\nВ Тёмной долине опять бандиты объявились. Нехорошо. Будем искоренять.",
-"Лысый\\nГубка Гоп, спортивные штаны. Увидите - пристрелите.",
---"Крот\\nНабираю людей для вылазки в катакомбы.",
---"Крот\\nНужны двое сталкеров для вылазки в катакомбы.",
-"Нужны сталкеры с опытом рейдов вглубь Зоны. Оплата соответствующая. Заинтересованным - стучать в личку, обговорим место встречи.",
-"Фанат\\nВолк, отзовись, поговорить надо.",
-"Бармен\\nТак... обьясняю раз и навсегда - я не скажу, где находится центр связи.",
---"Фанат\\nВолк, отзовись, поговорить надо.",
-"Петренко\\nПовторяю, проход на базу - строго по пропускам или моему распоряжению."}
+--"Јysy\\nBandyci ponownie pojawili siк w Ciemnej Dolinie. Niedobrze. Wyeliminujemy.",
+"Јysy\\nGubka Gop, spodnie dresowe. Zobaczysz - strzelaj.",
+--"Kret \\Werbujк ludzi na wypad do katakumb.",
+--"Kret\\nPotrzebujesz dwуch przeњladowcуw na wypad do katakumb.",
+"Potrzebujemy stalkerуw z doњwiadczeniem w wypadach w gі№b Strefy. Pіatnoњж jest odpowiednia. Zainteresowanych - waliж osobiњcie, omуwimy miejsce spotkania.",
+"Fanat\\nWolf, odpowiedz, musimy porozmawiaж.",
+"Barman\\Wiкc... wyjaњniк raz na zawsze - nie powiem Ci, gdzie jest centrum komunikacyjne.",
+--"Fan\\nWolf, odpowiedz, musimy porozmawiaж.",
+"Petrenko\\nPowtarzam, przejњcie do bazy odbywa siк wyі№cznie za przepustk№ lub na mуj rozkaz."}
 
 
 

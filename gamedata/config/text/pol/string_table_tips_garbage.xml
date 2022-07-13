@@ -1,26 +1,26 @@
 	<string id="gar_actor_looser">
-		<text>Ну и слабак ты, Сталкер, пользы от тебя ноль. Так что и благодарности от нас ты не дождёшься. Не за что тебя благодарить.</text>
+		<text>Cуї, jesteњ sіabeuszem, Stalkerze, jesteњ bezuїyteczny. Wiкc nie masz co liczyж na wdziкcznoњж od nas. Nie mamy za co dziкkowaж.</text>
 	</string>
 	<string id="gar_actor_normal">
-		<text>Неплохо, сталкер, пострелял мутантов. Но особой прытью ты не отличаешься, так что если хочешь пройти - придётся платить.</text>
+		<text>Nieџle, Stalkerze, zastrzelone mutanty. Ale nie jesteњ zbyt szybki, wiкc jeњli chcesz przejњж, bкdziesz musiaі zapіaciж.</text>
 	</string>
 	<string id="gar_actor_winner">
-		<text>Отлично, Сталкер, ты действительно нам сильно помог. Будем считать, что ты оплатил свой пропуск. Можешь идти на Бар.</text>
+		<text>Њwietnie, Stalkerze, naprawdк bardzo nam pomogіeњ. Zaіуїmy, їe zapіaciіeњ za swoje przejњcie. Moїesz iњж do Baru.</text>
 	</string>
 	<string id="gar_direction_fire">
-		<text>Подпустим их поближе, чтобы никто не ушёл. Я стреляю первым - потом вы.</text>
+		<text>Podejdџmy do nich, їeby nikt nie zwiaі. Strzelam pierwszy, potem Ty.</text>
 	</string>
 	<string id="gar_dolg_blokpost_warning">
-		<text>Сталкер, ты на территории, контролируемой "Долгом". Любое проявление агрессии будет наказано.</text>
+		<text>Stalker, jesteњ na terytorium kontrolowanym przez Powinnoњж. Wszelkie przejawy agresji bкd№ karane.</text>
 	</string>
 	<string id="gar_dolg_monster_rush">
-		<text>Всем приём!!! Говорит застава "Долга" на Свалке. Из Тёмной долины по направлению к Бару идёт волна мутантов. Всем, кто поможет отстрелять нечисть - признательность с нашей стороны гарантируем.</text>
+		<text>Witajcie wszyscy!!! Mуwi placуwka Powinnoњci na Wysypisku. Fala mutantуw nadci№ga z Mrocznej Doliny w kierunku Baru. Wszystkim, ktуrzy pomagaj№ strzelaж do wrogich mutantуw – gwarantujemy wdziкcznoњж z naszej strony.</text>
 	</string>
 	<string id="gar_dolg_warning">
-		<text>Сталкер, ты на территории "Долга". Будешь буянить - получишь четвёртую степень инвалидности!</text>
+		<text>Stalker, jesteњ na terytorium Powinnoњci. Bкdziesz haіaњliwy - otrzymasz czwarty stopieс niepeіnosprawnoњci!</text>
 	</string>
 	<string id="gar_hellcar_victory">
-		<text>Молодцы, парни, мы их одолели. Всем отдыхать, а ты, сталкер, подойди ко мне, поболтаем.</text>
+		<text>Dobra robota, pokonaliњmy ich. Wszyscy odpoczywaj№, a Ty Stalkerze chodџ do mnie. Pogadajmy.</text>
 	</string>
 	<string id="tips_gar_hellcar_alarm">
 		<text>.</text>

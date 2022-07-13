@@ -1,36 +1,36 @@
 	<string id="mil_actor_blockpost">
-		<text>Сталкер, ты подходишь к Барьеру, не вздумай баловать, но мы рады принять любую помощь.</text>
+		<text>Stalker, zbliїasz siк do Bariery, nie prуbuj nas rozpieszczaж, ale chкtnie przyjmiemy kaїd№ pomoc.</text>
 	</string>
 	<string id="mil_after_sniper_dead">
-		<text>Сталкер, подходи к нам за расчётом и дальнейшими указаниями.</text>
+		<text>Stalker, przyjdџ do nas po rozliczenie i dalsze instrukcje.</text>
 	</string>
 	<string id="mil_fblockpost_warning">
-		<text>Сталкер, вернись и займи позицию.</text>
+		<text>Stalker, wrуж i zajmij pozycjк.</text>
 	</string>
 	<string id="mil_info_freedom_radio">
-		<text>Если целую ночь просидеть в деревне на башне, то ОБЯЗАТЕЛЬНО что-то произойдет...</text>
+		<text>Jeњli siedzisz caі№ noc w wiosce na wieїy, to coњ MUSI siк wydarzyж...</text>
 	</string>
 	<string id="mil_info_max_mines">
-		<text>Помни о минах - сапёр ошибается дважды...</text>
+		<text>Pamiкtaj o minach - saper dwa razy siк myli...</text>
 	</string>
 	<string id="mil_info_max_village">
-		<text>Сталкер, будь осторожен. Говорят, в деревне появилась новая аномалия - движется очень быстро, к тому же её, падлу, не видно.</text>
+		<text>Stalkerze, b№dџ ostroїny. Mуwi№, їe w wiosce pojawiіa siк nowa anomalia - porusza siк bardzo szybko, poza tym nie jest widoczna ta bladzia.</text>
 	</string>
 	<string id="mil_info_to_all">
-		<text>Внимание всех желающих разжижить мозги - проход на Радар охраняет отряд "Монолита", я думаю вы в курсе, что они стреляют по всем. Удачи.</text>
+		<text>Uwaga wszystkich, ktуrzy chc№ rozcieсczyж mуzgi - przejњcia do Radaru strzeїe oddziaі Monolitowcуw, chyba zdajecie sobie sprawк, їe strzelaj№ do wszystkich. Powodzenia.</text>
 	</string>
 	<string id="mil_max_attack_signal">
-		<text>В атаку, братва. Замочим законников.</text>
+		<text>Do ataku, bracia. Zabijmy fanatykуw.</text>
 	</string>
 	<string id="mil_mission_complete">
-		<text>Наша задача выполнена. Возвращаемся на хутор и там рассчитаемся.</text>
+		<text>Nasze zadanie zostaіo wykonane. Wracamy na chutor i tam rozliczymy siк.</text>
 	</string>
 	<string id="mil_scull_attack_signal">
-		<text>Вперёд, ребята. Путь свободен.</text>
+		<text>Њmiaіo chіopaki. Droga wolna.</text>
 	</string>
 	<string id="mil_scull_info">
-		<text>Сталкер, займись снайперами!!!</text>
+		<text>Stalker, zajmij siк snajperami!!!</text>
 	</string>
 	<string id="mil_sniper_to_player_warning">
-		<text>Сталкер, будь осторожен, а то ещё по башке пулей схлопочешь...</text>
+		<text>Stalker, b№dџ ostroїny, bo inaczej oberwiesz kul№ w gіowк...</text>
 	</string>

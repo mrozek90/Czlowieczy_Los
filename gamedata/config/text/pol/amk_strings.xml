@@ -1,548 +1,547 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+Kulebiak<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
   <string id="hud_kostuma_off">
-    <text>Hud шлема выкл.</text>
+    <text>HUD Heіmu wyі№czony.</text>
   </string>
   <string id="hud_kostuma_on">
-    <text>Hud шлема вкл.</text>
+    <text>HUD Heіmu wі№czony.</text>
   </string>
   <string id="mil_lukash_healing_armor_01">
-    <text>Ну что, Сталкер, порадовал! Костюм у военных знатный, 
-    попробуем внедрить их новшество с пропиткой ткани в наши комбезы.    
-    Ну, а в награду мы тебе дадим кое-какие рецепты. 
-    Есть тут у нас местный гений. Поваром зовут. 
-    Может уже с ним знаком; так он смог из простой "Капли" 
-    сотворить новые артефакты. В общем, прочтёшь всё сам. 
-    Названиям не удивляйся - Повар у нас после ранения в 
-    голову глубоко поэтичной личностью стал, 
-    так что с пониманием к нему, лады?</text>
+    <text>Cуї, Stalker, zadowolony! Mundur wojskowy jest znakomity,
+     sprуbujmy wprowadziж innowacjк w postaci impregnacji tkaniny w naszych kombinezonach.
+     Cуї, w nagrodк damy Ci kilka przepisуw.
+     Mamy tu lokalnego geniusza. Nazywa siк Kucharz.
+     Moїe juї go znasz, moїe z prostej "Kropli"
+     tworzyж nowe artefakty. Ogуlnie wszystkiego dowiesz siк sam.
+     Nie zdziw siк nazwami - Mamy kucharza po zranieniu w
+     gіowк i staі siк gікboko poetyck№ osobowoњci№,
+     wiкc podchodџ ze zrozumieniem dla niego, dobrze?</text>
   </string>
   <string id="mil_lukash_healing_armor_02">
-    <text>Конечно, о чём звук.</text>
+    <text>Oczywiњcie.</text>
   </string>
   <string id="mil_lukash_healing_armor_03">
-    <text>И ещё, Сталкер. Надеюсь эти, которые наносят пользу и причиняют добро, из "Долга", не узнают этого рецепта.</text>
+    <text>Coњ jeszcze Stalkerze. Mam nadziejк їe ci, ktуrzy czerpi№ z tego korzyњж bкd№ czyniж dobro. Natomiast tamci z Powinnoњci nie poznaj№ tego przepisu.</text>
   </string>
   <string id="mil_lukash_healing_armor_04">
-    <text>Это я могу гарантировать.</text>
+    <text>To mogк zagwarantowaж.</text>
   </string>
 
   <string id="trader_beads_1">
-    <text>Ну, а помимо того барахла, что я тут тебе в награду дал, 
-    держи рецепт, как из одного артефакта другой сотворить. 
-    Да, ты не ослышался, такое можно провернуть. 
-    Ну чего ты вылупился, аки дитятко невинное? 
-    Доставай свой КПК, скину тебе информацию.</text>
+    <text>Cуї, poza њmieciami, ktуre Ci tu daіem w nagrodк,
+     zachowaj przepis na tworzenie kolejnego z artefaktуw.
+     Tak, dobrze sіyszaіeњ, moїna to zrobiж.
+     Czemu tak Ciк to dziwi?
+     Wyjmij swуj PDA, wyњlк Ci informacje.</text>
   </string>
 
   <string id="trader_beads_2">
-    <text>Я так понимаю, спрашивать, откуда ты такую 
-    информацию взял, бессмысленно?</text>
+    <text>Tak siк zastanawiam sk№d wzi№іeњ takie informacje.</text>
   </string>
 
   <string id="trader_beads_3">
-    <text>Ага. Ты ещё спроси у меня ключик от квартиры, где деньги лежат. 
-    Ха-ха: откуда такие фразы вылезают? Ну чего, так и будешь ушами 
-    хлопать или всё же достанешь свой КПК?</text>
+    <text>Tak. Nadal prosisz mnie o klucz do mieszkania, w ktуrym s№ pieni№dze.
+     Ha ha: sk№d pochodz№ te frazy? No cуї... bкdziemy tu kіapaж dziobami
+     czy wyci№gniesz swуj PDA?</text>
   </string>
 
   <string id="ecolog_prizrak_outfit_reward_1">
-    <text>Ну, а за костюм мы хотели бы Вас отблагодарить особо, ибо он очень важен для наших исследований. Если Вам не трудно, достаньте снова ваш КПК. Смею Вас заверить, информация об этом гипермодификате, которую Вы сейчас получите, очень ценна. "Слёзы химеры" помогут Вам не только противостоять атакам контролёров, но и, возможно, пройти в Припять! Хотя, это лишь домыслы. Всё, информация закачана! Надеюсь, Сталкер, наше с Вами сотрудничество продлится и будет столь же плодотворным!</text>
+    <text>No cуї, dziкkujemy bardzo za kombinezon, bo jest bardzo waїny do naszych badaс. Jeњli nie jest to dla Ciebie trudne, wyjmij ponownie PDA. Zapewniam Ciк, їe informacje, ktуre teraz otrzymasz na temat tego hipermodyfikatora, s№ bardzo cenne. „Јzy Chimery” pomoїe Ci nie tylko oprzeж siк atakom kontrolerуw, ale takїe, byж moїe, dostaж siк do Prypeci! Chociaї to tylko spekulacje. Wszystko, informacje s№ przesyіane! Mam nadziejк, Stalkerze, їe nasza wspуіpraca z Tob№ bкdzie trwaіa i bкdzie rуwnie owocna!</text>
   </string>
 
-<string id="drunk_dolg_reward_phr_1"><text>Знаешь, сталкер, у нас  есть такая поговорка: ""Долг" в долгу не остаётся". Держи рецепт, как апгрейд на кое-какой артефакт сделать. Поверь мне – информация редкая и стоящая. Пользуй на здоровье.</text></string>
+<string id="drunk_dolg_reward_phr_1"><text>Wiesz, stalkerze, mamy takie powiedzenie: Powinnoњж nie jest dіuїna. Zachowaj przepis jako ulepszenie dla jakiegoњ artefaktu do zrobienia. Zaufaj mi, informacje s№ rzadkie i warte zachodu. Zdrowo uїywaj.</text></string>
 
 <string id="val_sos_dialog_21_amk_1"><text>
-Спасибо, друг! Выручил ты меня, нет слов. Если живы будем и ещё доведётся свидеться - постараюсь свой долг вернуть. Сейчас разве что информацией интересной поделиться получится. Значит, на юг отсюда есть ферма, там вольные сталкеры обосновались. Так вот, один из них продаёт винтовку Гаусса совсем дёшево, за восемьсот. Я сам собирался купить, и на тебе - в такую лажу попал... Так что, если есть деньжата, вперёд. Ты уж извини, кроме информации о той винтовке Гаусса ничего толкового тебе в благодарность даже дать не могу... Хотя... Ты что-нибудь слыхал о "Сопливом дикобразе"?
+Dziкkujк przyjacielu! Uratowaіeњ mnie, bez dwуch zdaс. Jeњli przeїyjemy i jeszcze siк spotkamy, sprуbujк spіaciж dіug. Teraz byж moїe uda siк podzieliж ciekawymi informacjami. Na poіudnie st№d jest gospodarstwo, na ktуrym osiedlili siк samotnicy. Niby jeden z nich sprzedaje karabin Gaussa za naprawdк marne osiemset. Miaіem zamiar sam go kupiж tylko wpadіem w taki baіagan... Wiкc jeњli masz pieni№dze, њmiaіo. Przepraszam, z wyj№tkiem informacji o tym karabinie Gaussa, nie mogк nawet daж Ci niczego sensownego z wdziкcznoњci№ ... Chociaї... Czy sіyszaіeњ coњ o „Soplnym Jeїu”?
 </text></string>
 <string id="val_sos_dialog_21_amk_2"><text>
-Занятная, должно быть, зверюга...
+Ciekaw№ musi byж besti№...
 </text></string>
 <string id="val_sos_dialog_21_amk_3"><text>
-Да нет, это такой изменённый артефакт! Ну, а название у него... сочится он весь какой-то вонючей дрянью, да так, зараза, обильно, что лучше его на пояс в подсумке не одевать – штаны потом хрен отстираешь! Лучше в мешочек непромокаемый или контейнер пластиковый. И герметичный! В общем, думаю, разберёшься, если сможешь его сделать. 
+Nie, to taki zmodyfikowany artefakt! No cуї, tak№ dziwn№ ma nazwк... cuchnie jakimњ њmierdz№cym њmieciem. Tak bardzo, їe infekuje obficie. Lepiej nie nosiж tego na pasku – wtedy tylko wypalisz sobie spodnie! Lepiej w wodoodpornej torbie lub plastikowym pojemniku. I zapieczкtowane! Ogуlnie myњlк, їe wiesz co masz zrobiж.
 </text></string>
 <string id="val_sos_dialog_21_amk_4"><text>
-- Где же ты рецепт этот раздобыл? По мне – так ты в Зоне недавно...
+Sk№d masz ten przepis? Wedіug mnie jesteњ w Zonie od niedawna...
 </text></string>
 <string id="val_sos_dialog_21_amk_5"><text>
-- А что, сильно заметно? Блин... а, это... наткнулся я на мёртвого долговца, не думай – это не я его, у меня с обрезом против его экзоскелета и «Вала» шансов было бы ноль! Его что-то могучее грохнуло – экзоскелет словно пожевали и выплюнули. На автомат вообще больно было смотреть. А КПК то ли из рюкзака вынесло, то ли из кармана, не знаю. В общем, в КПК я нашёл рецепт от учёных, они вроде как с долговцами кенты, судя по записи. Да ты и сам сможешь всё прочитать!
+A co, jest to bardzo zauwaїalne? Cholera... och, to... Natkn№іem siк na martwego powinnoњciowca. Nie myњl - to nie ja, nie miaіbym їadnych szans ze strzelb№ przeciwko jego egzoszkieletowi i VALowi! Coњ potкїnego go uderzyіo - egzoszkielet wydawaі siк jakby przeїuty i wypluty. Boleњnie byіo patrzeж na maszynк. A PDA albo wyj№іem go z plecaka, albo z kieszeni, nie wiem. Ogуlnie rzecz bior№c, w PDA znalazіem przepis od naukowcуw, wydaje siк, їe s№ z powinnoњciocami Kenta, s№dz№c po zapisie. Wіaњnie, moїesz sam to przeczytaж!
 </text></string>
 <string id="val_sos_dialog_21_amk_6"><text>
-- Ну что ж, спасибо! Удачи тебе!
+Dziкkujк! Powodzenia!
 </text></string>
 
 
   <string id="amk_zapiska">
-    <text>Исписанный клочок бумаги</text>
+    <text>Nabazgrana kartka papieru</text>
   </string>
 
   <string id="amk_zapiska_s">
-    <text>Записка</text>
+    <text>Notatka</text>
   </string>
 
   <string id="mil_freedom_commander_3001_amk">
-    <text>Спасибо, Сталкер, помог. Мои парни измотаны – часа два назад на нас оттуда контролёр вышел со своей армией из кабанов и снорков. Еле отстрелялись, трое моих полегло, а всем остальным контролёр по мозгам нехило дал, голова до сих пор свинцовая. Да ты по меткости заметить мог – палят точно, да не туда... Контролёр ушёл, зараза... Ну да ладно. Я тебе в благодарность за своевременную помощь рецепт один дать хочу. У нас Гриша Звук вернулся с рейда, там история неприятная вышла c его отрядом... В общем, долговцев грохнул; так у одного из них в КПК информация интересная была с записью учёных. Короче, прочтёшь – сам всё поймешь. Ну, давай. Надеюсь, свидимся!</text>
+    <text>Dziкki, Stalker, pomуgі. Moi ludzie s№ wykoсczeni - jakieњ dwie godziny temu kontroler wyszedі na nas stamt№d ze swoj№ armi№ dzikуw i snorkуw. Ledwo obroniliњmy siк. Trzech moich zginкіo, a kontroler daі wszystkim porz№dne wirowanie mуzgуw. Gіowy wci№ї maj№ jak z oіowiu. Moїna byіo zauwaїyж po celnoњci - strzelaj№ pewnie, ale nie we wіaњciwym miejscu... Kontroler poszedі, zaraza... No dobrze. Chcк Ci daж jeden przepis w podziкkowaniu za Twoj№ pomoc w odpowiednim czasie. Nasz Grisza Zwuk wrуciі z wypadu, tam wyszіa nieprzyjemna historia z jego oddziaіem ... Ogуlnie rzecz bior№c, gruchnкli powinnoњciowcуw. Jeden z nich w PDA miaі interesuj№ce informacje z aktami naukowcуw. Krуtko mуwi№c, sam przeczytaj - wszystko zrozumiesz... Mam nadziejк, їe siк jeszcze spotkamy!</text>
   </string>
-  
+
   <string id="bar_dolg_leader_quest_rg6_finish_1_amk">
-    <text>Хорошая работа, сталкер. Это как раз то, что надо. Ну что, Сталкер, ты выполнил мою просьбу и в награду можешь взять себе вот этот костюм, думаю тебе понравится... Да и ещё, Сталкер. Нам тут учёные по старой дружбе рецепт скинули. В благодарность за нашу службу, так сказать. Ты, смотрю, мужик толковый, да и сдаётся мне – скоро в наших рядах окажешься... в общем, давай, брат, доставай свой КПК, я на него файл скину.</text>
+    <text>Dobra robota, stalkerze. To wіaњnie jest potrzebne. Cуї, speіniіeњ moj№ proњbк i moїesz wzi№ж ten kombinezon w nagrodк, myњlк, їe Ci siк spodoba... I jeszcze jedno, Stalkerze. Tutejsi naukowcy z dawnej przyjaџni wrzucili dla nas przepis. W podziкkowaniu za nasz№ sіuїbк, їe tak powiem. Widzк, їe jesteњ inteligentnym czіowiekiem i wydaje mi siк, їe wkrуtce znajdziesz siк w naszych szeregach... w ogуle, chodџ bracie, wyjmij swуj PDA, zrzucк na niego akta.</text>
   </string>
-  
+
   <string id="amk_steam_disabled">
-    <text>Эффект дыхания выкл.</text>
+    <text>Efekt oddechu wyі№czony.</text>
   </string>
   <string id="amk_hud_enabled">
-    <text>Интерактивный худ вкл.</text>
+    <text>Interaktywny HUD wі№czony.</text>
   </string>
   <string id="amk_steam_enabled">
-    <text>Эффект дыхания вкл.</text>
+    <text>Efekt oddychania wі№czony</text>
   </string>
-  
+
   <string id="amk_mat_disabled">
-    <text>Мат в новостях выкл.</text>
+    <text></text>
   </string>
   <string id="amk_mat_enabled">
-    <text>Мат в новостях вкл.</text>
+    <text>Przekleсstwa w wiadomoњciach wі№czone.</text>
   </string>
-  
+
   <string id="amk_rad_disabled">
-    <text>Шкала радиации выкл.</text>
+    <text>Skala promieniowania wyі№czona.</text>
   </string>
   <string id="amk_rad_enabled">
-    <text>Шкала радиации вкл.</text>
+    <text>Skala promieniowania wі№czona.</text>
   </string>
-  
+
   <string id="amk_mus_disabled">
-    <text>Динамическая музыка выкл.</text>
+    <text>Muzyka dynamiczna wyі№czona</text>
   </string>
   <string id="amk_mus_enabled">
-    <text>Динамическая музыка вкл.</text>
+    <text>Muzyka dynamiczna wі№czona</text>
   </string>
-  
+
   <string id="amk_treasure_old">
-    <text>Классические тайники</text>
+    <text>Klasyczne skrytki</text>
   </string>
   <string id="amk_treasure_new">
-    <text>Случайные тайники</text>
+    <text>Losowe skrytki</text>
   </string>
   <string id="amk_treasure_rare">
-    <text>Редкие тайники</text>
+    <text>Rzadkie skrytki</text>
   </string>
 
 <string id="amk_options">
-    <text>АМК опции</text>
+    <text>Opcje AMK</text>
   </string>
-    
+
   <string id="amk_rkd0">
-    <text>Здорово.</text>
+    <text>Њwietnie.</text>
   </string>
-  
+
   <string id="amk_rkd1">
-    <text>Парень, у меня есть для тебя две новости: хорошая и плохая. Начну с плохой. Не знаю, во что ты вляпался, но вляпался точно - меня послали тебя прикончить.</text>
+    <text>Chіopcze, mam dla ciebie dwie wiadomoњci: dobr№ i zі№. Zacznк od zіej. Nie wiem, w co siк wpakowaіaњ, ale na pewno siк w coњ wpakowaіaњ – wysіali mnie, їebym Ciк wykoсczyі...</text>
   </string>
-  
+
   <string id="amk_rkd2">
     <text>...?!</text>
   </string>
-  
+
   <string id="amk_rkd3">
-    <text>Хорошая новость - мне не очень хочется это делать. Почему? Сам не знаю. Но у тебя есть неплохой шанс спасти свою шкуру. Сам понимаешь, всё в жизни даётся не бесплатно.</text>
+    <text>Dobra wiadomoњж jest taka, їe tak naprawdк nie chcк tego robiж. Czemu? Sam nie wiem. Ale masz duї№ szansк na uratowanie wіasnej skуry. Wiesz, nic w їyciu nie przychodzi za darmo.</text>
   </string>
   <string id="amk_rkd4">
-    <text>Да пошёл ты!</text>
+    <text>A spadaj!</text>
   </string>
   <string id="amk_rkd5">
-    <text>Знаешь, Сталкер, а я так и думал, что рано или поздно так случится...</text>
+    <text>Wiesz Stalkerze, myњlaіem, їe prкdzej czy pуџniej to siк stanie...</text>
   </string>
   <string id="amk_rkd6">
-    <text>Ну парень, решай...</text>
+    <text>Wiкc chіopcze, zdecyduj siк...</text>
   </string>
   <string id="amk_rkd8">
-    <text>Радуйся, парень. У меня сегодня хорошее настроение.</text>
+    <text>Raduj siк chіopcze. Jestem dzisiaj w dobrym nastroju.</text>
   </string>
-  
+
 <string id="amk_recipt_stone_dikoobraz_1_text" >
-    <text>Запись 1: "... при этом мы видели весь процесс от начала и до конца, несмотря на то, что монолитовцы окружили "Трамплин" плотным кольцом, пытаясь закрыть от возможного наблюдения процесс трансмутации и сам артефакт. Но Артём был на довольно выгодной позиции и ему удалось в бинокль рассмотреть брошенный в аномалию артефакт. Им оказался "Сопливый дикобраз" (название странное, но оно оригинальное, данное сталкером-создателем, мы эти данные проверили). Через девять часов, уже ночью артефакт выбросило аномалией обратно. Теперь нам предстоит забрать его у монолитовцев. Артём предложил сделать это во время их очередной молитвы "Монолиту". Она начнётся через 40 минут. После возвращения хочу похлопотать об этом толковом парне. Владислав Леонидович, думаю, Вы поддержите..." \n\nЗапись 2: "... данные фрагментарно скину на флешку, продублирую. С монолитовцами разобрались довольно быстро – пока они совершали какой-то странный обряд вокруг принесённого одним из них вместо рюкзака чёрного прямоугольника (я сначала думал, что это ранец, а оказалось, что это переносной алтарь (!); Владислав Леонидович, я думаю, этот факт будет интересен и российским, и иностранным коллегам). Артём открыл огонь из «Винтореза», а я добавил пару гранат из подствольника. Главные опасения к нашей радости не оправдались – изменённый артефакт остался невредим. После двух суток нашего похода я отметил следующие качества "Каменного дикобраза" (название дали, учитывая его свойства и происхождение от "Сопливого дикобраза"): данный артефакт, который я отнёс бы к классу абсолют, снижает дозу радиации, полученную человеком, на 50 мЗв/час! Помимо этого редчайшего качества, "Каменный дикобраз" снижает чувствительность человека к электрошоку, эффективно уменьшает кровотечение и добавляет выносливости..." \n\nЗапись 3: "... за нами погоня. Монолитовцы, человек пятнадцать. Мы пробовали оторваться – не получилось. Зажимают постепенно в кольцо. Флешку с дублем информации оставлю Артёму Инкину, а сам попытаюсь задержать преследователей..."</text>
+    <text>Wpis 1: „...w tym samym czasie widzieliњmy caіy proces od pocz№tku do koсca, pomimo tego, їe Monolitowcy otoczyli Trampolinк gкstym pierњcieniem, prуbuj№c zamkn№ж proces transmutacji i sam artefakt przed ewentualn№ obserwacj№. Ale Artiem byі w doњж korzystnej sytuacji i udaіo mu siк zaobserwowaж przez lornetkк artefakt rzucony w anomaliк, ktуry okazaі siк „Soplnym Jeїozwierzem” (nazwa dziwna, ale oryginalna, podana przez stalkera-twуrcк). Dziewiкж godzin pуџniej, juї w nocy, artefakt zostaі odrzucony przez anomaliк. Teraz musimy „Zabraж go z Monolitu. Artiem zaproponowaі, їe zrobi to podczas ich nastкpnej modlitwy do Monolitu. 40 minut. Po powrocie chcк zіoїyж petycjк w sprawie tego m№drego faceta. Wladislaw Leonidowicz, myњlк, їe poprze..." \n\nWpis 2: "... Przeniosк dane we fragmentach na fleszkк , zduplikuj. Monolitowcy rozprawi№ siк doњж szybko - podczas gdy odprawili jak№њ dziwn№ ceremoniк wokуі czarnej prostok№tnej torby przyniesionej przez jednego z nich zamiast plecaka (na pocz№tku myњlaіem, їe to plecak, ale okazaіo siк, їe to przenoњny oіtarz (!). Wladislawie Leonidowiczu myњlк, їe ten fakt zainteresuje zarуwno rosyjskich, jak i zagranicznych kolegуw). Artiem otworzyі ogieс Vintorezem, a ja dodaіem kilka granatуw z granatnika. Gіуwne obawy, ku naszej radoњci, siк nie speіniіy – zmodyfikowany artefakt pozostaі nietkniкty. Po dwуch dniach naszej podrуїy zwrуciіem uwagк na nastкpuj№ce cechy „Jeїozwierza Kamiennego” (nazwк nadano, bior№c pod uwagк jego wіaњciwoњci i pochodzenie od „Spolnego Jeїozwierza): ten artefakt, ktуry zaklasyfikowaіbym jako absolutny, zmniejszona dawka promieniowania otrzymywana przez osobк o 50 mSv /godz.! Oprуcz tej rzadkiej cechy, Kamienny Jeїozwierz zmniejsza wraїliwoњж osoby na poraїenie pr№dem, skutecznie zmniejsza krwawienie i dodaje wytrzymaіoњci..." \n\nWpis 3: "... id№ po nas. Monolitowcy... piкtnaњcie osуb. Prуbowaliњmy siк oderwaж - nie udaіo siк. Zaciskaj№ stopniowo w pierњcieс. Zostawiк fleszkк z duplikatem informacji Artiemowi Inkinowi, a sam postaram siк zatrzymaж poњcig... ”</text>
 </string>
 
 <string id="amk_recipt_stone_dikoobraz_2_text" >
-    <text>Запись 1: "... меня они взяли на выходе из деревни... пятерых я успел... мы ведь даже пеленг выдать не успели, группа быстрого реагирования так и сидит в ожидании... Андрею Семёновичу на мох глазах отстрелили ногу чуть ниже колена, суки! Вели долго, я нёс раненого Андрея Семёновича. Даже и не знал, что здесь у них есть подземный схрон. Эти скоты сказали, что мы ответим за то, что убили их братьев... Андрея Семёновича бросили в соседнюю клетку, он уже тогда был без сознания... мне развязали руки и даже не забрали КПК с рюкзаком, только оружие и патроны..." \n\nЗапись 2: "... я не знаю что это... я не знаю... это не кровосос, это не химера... это не... Оно выползло из ямы на их пение! Они открыли дверцу клетки с Андреем Семёновичем... оно их не тронуло, оно сразу двинулось к клетке... оно проползло туда... и... И НАЧАЛО ЕГО ПОЖИРАТЬ! А ОН ЕЩЁ БЫЛ ЖИВ И КРИЧАЛ!!! ОНО ОБГЛАДЫВАЛО ЕГО ЛИЦО, А ОН ХРИПЕЛ И ПЫТАЛСЯ РУКАМИ..." \n\nЗапись 3: "... оно придёт... монолитовцы ушли, а оно сидит там в земле... я слышу его мысли. Они ушли и открыли дверцу моей клетки... а оно спустилось вниз и оттуда разговаривает со мной и... и Андрей Семёнович говорит... в голове. Я уйду... только руку Андрея Семёновича возьму... он говорит, что пусть хотя бы рука, это уже хорошо... она... важна, очень важна... а оно... не вылезает... оно там светится внизу... в яме... как радуга... и говорит мне, чтобы я никуда не уходил.... а я уйду... они даже дверь на закрыли... говорили, что оно мне не даст выползти... а оно ушло к себе, как обглодало Андрея Семёновича... только руку оставила... Андрей Семёнович говорит, чтобы я уходил сейчас... пока оно внизу думает... И руку забрал... потому что она для него важна..." \n\nЗапись 4: "Я обманул его... оно глупое... я взял руку Андрея Семёновича и рюкзак... и пошёл. Оно начало реветь и выползать... но вдруг остановилось - я сказал ему, что мне очень нужно выйти. Оно поверило и не пошло за мной дальше! Только долго ревело и светилось в темноте... Я ОБМАНУЛ ЕГО! Я его обманул..."</text>
+    <text>Wpis 1: „... zabrali mnie przy wejњciu z wioski... Udaіo mi siк gruchn№ж piкciu... nawet nie zd№їyliњmy podaж namiaru, grupa szybkiego reagowania wci№ї czeka... Andriej Siemionowicz zostaі na moich oczach postrzelony trochк poniїej kolana, chujki! Dіugo szliњmy, niosіem rannego Andrieja Siemionowicza. Nawet nie wiedziaіem, їe maj№ tu podziemn№ kryjуwkк. To bydіo powiedziaіo їe odpowiadamy za zabicie ich braci... Andriej Siemionowicz zostaі wrzucony do s№siedniej klatki, byі juї wtedy nieprzytomny... odwi№zali mi rкce i nawet nie wziкli z plecaka mojego PDA, tylko broс i naboje... " \n\nWpis 2: "... nie wiem co to jest... nie wiem... to nie jest krwiopijca, to nie jest chimera... nie jest... wyczoіgaі siк, otworzyli drzwi klatki z Andriejem Siemionowiczem... nie dotknкіo ich, natychmiast ruszyіo w stronк klatki... wczoіgaіo siк tam... i... I ZACZҐЈO GO POЇERAЖ! A ON WCIҐЇ ЇYЈ I KRZYCZAЈ!!! TO COЊ OBGRYZAЈO JEGO TWARZ A ON RZКZIЈ I MACHAЈ RКKAMI! \n\nWpis 3: „...to coњ przyjdzie... Monolitowcy odeszli a to tam siedzi w ziemi... sіyszк jego myњli. Wyszli i otworzyli drzwi mojej klatki... a ona zeszіa na dуі i stamt№d rozmawia ze mn№ i... i mуwi Andrej Semionowicz... w mojej gіowie. Odejdк... jak tylko wezmк rкkк Andrieja Siemionowicza... mуwi, їe przynajmniej rкkк, no dobrze... to... waїne, bardzo waїne... ale to... nie bкdzie wyjњcia... њwieci tam... w dole... jak tкcza... i mуwi, їebym nigdzie nie szedі... i odejdк... nawet nie zamknкli drzwi... powiedzieli, їe nie pozwol№ mi siк wyczoіgaж... i poszіo do siebie, jak ugryzіo Andrieja Siemionowicza... tylko odgryzіo rкkк... Andriej Siemionowicz mуwi, їe powinienem teraz odejњж... podczas gdy myњli poniїej... I wzi№і moj№ rкkк... bo to dla niego waїne..." \n\nWpis 4: "Oszukaіem go... to gіupie... Wzi№іem rкkк Andrieja Siemionowicza i mуj plecak ... i poszedі. Zaczкіo ryczeж i wypeіzaж... ale nagle przestaіo – powiedziaіem mu, їe naprawdк muszк siк wydostaж. Uwierzyі i nie poszedі za mn№ dalej! Tylko ryczaі przez dіugi czas i њwieciі w ciemnoњci... OSZUKAЈEM GO! Oszukaіem go...”</text>
 </string>
 
 <string id="amk_recipt_steel_kolobok_text" >
-    <text>Запись 1: "Нашёл мёртвого сталкера. Вернее то, что от него осталось рядом с "Трамплином". У него в рюкзаке "Колобок" лежал, да какой-то странный – светится, зараза. Я мозгами пораскинул, решил бросить свой "Колобок" в "Трамплин" да посмотреть, что будет. Жалко, конечно, выпивки много можно было получить за него, но... хрен с ним, попробую." \n\nЗапись 2: "Три часа уж сижу, жду. Зомбака одинокого грохнул. Зря я скормил "Колобка" этой аномалии, ох зря!" \n\nЗапись 3: "Есть! Вылетел, родимый, как пробка! Пять часов прошло, и он тут как тут. Светится! Это дело надо обмыть!" \n\nЗапись 4: "Уф! Пронесло! Буду бухим ходить по Зоне стопудово. Был бы трезв - точно помер! На бандюка нарвался. Шмальнул он в меня из ПМ, да заклинило у него ствол сразу после выстрела. Так эта паскуда ножичек вытащила да полоснула меня. Я его с обреза положил, суку!" \n\nЗапись 5: "Не всё так просто. Не сходится как-то. Вот, к примеру, точно помню, когда бандит в меня стрелял, пуля словно ушла. Попала не в голову, а как будто её в сторону сдуло... и ножичком он мне куртку кожаную распорол легко, удар лезвия помню, а на животе – только царапина. Может мне мои "Колобки" помогли? "Стальные колобки"... А ведь они лучатся, заразы круглые. Мда, а "Стальные яйца" были бы круче..."</text>
+    <text>Wpis 1: „Znalazіem martwego stalkera. A raczej to, co z niego zostaіo obok trampoliny. Miaі w plecaku Kulebiaka, ale jakiegoњ dziwnego – њwieci, zaraza. Przeszіa mnie myњl i zdecydowaіem rzuciж tego Kulebiaka do Trampoliny i zobaczyж, co siк stanie. Szkoda, oczywiњcie, moїna by za niego dostaж duїo gorzaіy, ale... do diabіa z nim, sprуbujк.” \n\nWpis 2: „Siedzк tu i czekam trzy godziny. Zatrzasn№іem samotnego zombie. Nie powinienem byі karmiж Koloboka t№ anomaliк, och, nie powinienem!” \n\nWpis 3: „Tak! Znikn№і, jak korek uliczny! Minкіo piкж godzin i jest tam. Њwieci! Trzeba to opiж!” \n\nWpis 4: „Uff! Wyleciaіo! Na pewno bкdк pijany chodz№c po Zonie. Gdybym byі trzeџwy, na pewno bym umar! Wpadіem na bandziora. Strzelaі do mnie z PM, ale jego spluwa zaciкіa siк natychmiast po strzale. Wiкc ten draс wyci№gn№і nуї. Tak, chciaі mnie poci№ж. Byіem szybszy, іajzo!” \n\nWpis 5: „To nie jest takie proste. Coњ tu nie pasuje. Na przykіad, pamiкtam dokіadnie, kiedy strzeliі do mnie bandyta, kula wydawaіa siк przelecieж. Nie trafiіa mnie w gіowк, ale jakby zostaіa zdmuchniкta na bok... Noїem z іatwoњci№ rozerwaі mi skуrzan№ kurtkк, pamiкtam uderzenie ostrza i tylko lekkie zadrapanie na brzuchu. Moїe mуj Kolobok mi pomуgі? Byіoby fajniej...”</text>
 </string>
 
 <string id="amk_recipt_titan_kolobok_text" >
-    <text>Сарацин приволок какого-то новичка пойманного. Говорит, что не грохнул сразу, потому что этот новичок очень уж забавно оглядывался, будто нёс что-то очень ценное. Упёртый, сопляк! В рюкзачке его нащупали занятный "Колобок". Ну как, "Колобок"... вроде он, а вроде не он. Спросили его, что за зверь у него в рюкзачке, молчал как партизан. Уважаю! Дрыщ-то с виду ещё тот! Швед ему пару пальцев сломал, прежде чем он рассказал, что к чему. Говорит, что это изменённый в "Карусели" "Стальной колобок". Мол, пять часов там поваляется и становится другим. Говорит, что от пуль бережёт неплохо, опять же неплохо спасает от разрыва и огня, но мля, радиоактивен. Название ему придумал прикольное – "Титановый колобок"! Надо будет проверить, правду этот фраер говорил или нет. Ещё бы "Стальной колобок" найти...</text>
+    <text>Saracen przywlуkі jakiegoњ przybysza, ktуry zostaі zіapany. Mуwi, їe nie gruchn№і od razu, bo ten przybysz rozgl№daі siк bardzo podejrzanie, jakby miaі przy sobie coњ bardzo wartoњciowego. Uparty smarkacz! W plecaku znaleџli zabawnego „Kulebiaka”, taki piernikowy ludzik ale jakby nie ten sam. Pytali go, co za zwierza ma w plecaku - milczaі jak partyzant. Szanujк! Szwed zіamaі kilka palcуw, zanim powiedziaі, co do czego. Mуwi, їe to zamieniіo siк w „Karuzeli”, staіo siк jak to powiedziaі „Stalowym Kulebiakiem”. Їe niby przez piкж godzin bкdzie tam leїaі i stanie siк inny. Mуwi, їe dobrze chroni przed kulami, dodatkowo dobrze chroni przed pкkniкciem i ogniem, ale blee - radioaktywny. Wymyњliі fajn№ nazwк - „Tytanowy Kulebiak”! Trzeba bкdzie sprawdziж, czy ten braciak mуwiі prawdк, czy nie. A moїe skoro jest „Tytanowy” to moїna znaleџж i „Stalowy”...”</text>
 </string>
 
 <string id="amk_recipt_almaz_kolobok_text" >
-    <text>Данный гипермодификат, получаемый методом трансмутации в аномалии "Холодец" мезомодификата "Титановый колобок", придаёт коже носящего его человека стойкость к разрыву, уменьшает воздействие огня и химически агрессивной среды и своим полем "отводит" часть пуль. Минусом этого довольно полезного гипермодификата является то, что он испускает радиационное излучение.</text>
+    <text>Ten hiper-modyfikator, uzyskany w wyniku transmutacji w anomalii „Galareta” mezo-modyfikatora „Tytanowy Kulebiak”, sprawia їe skуra osoby go nosz№cej jest odporna na rozdarcie, zmniejsza skutki ognia i chemicznie agresywnych њrodowisk oraz „zabiera” " czкњж pociskуw z jego pola. Wad№ tego doњж przydatnego hipermodyfikatora jest to, їe emituje promieniowanie.</text>
 </string>
 
 <string id="amk_recipt_controller_skalp_text" >
-    <text>Да пребудет Он в Вечности, да изменит Он Мир! \n\nНаставник Виктор возвестил об очередной удаче своих естествоиспытателей! Наставник, как и все мы, уверен, что Он вновь преподнёс нам, последователям Его, дар в укрепление веры нашей! После боестолкновения с отрядом военных, которые охраняли учёных, лидер фаланги Остах с телами и трофеями принёс "Панцирь". Вместе с телами заблудших он был принесен в жертву Пламени Его, но Следящие, брат Аким и брат Лехо, обнаружили выпавший через шесть часов из "Жарки" "Панцирь". Он необычно светился, что утвердило Следящих в знаке Его. Этот изменённый "Панцирь" прошёл два боестолкновения вместе с естествоиспытателем братом Романом. На обратном пути его фаланга столкнулась в катакомбах и приняла бой с четырьмя бюрерами. Брат Роман утверждает, что это изменённый "Панцирь" творил чудеса – пси-атаки бюреров брат Роман почти не ощущал! Помимо этого, артефакт каким-то образом убрал большую долю излучения, которую получил брат Роман. Также он заметил, что всё время, пока носил на себе этот артефакт, он не хотел есть. Воистину, Он дарит нам частицы Вечности даже сейчас! Дальнейшие естествоиспытания показали, что этот артефакт, получивший от Квалитета имя "Скальп контролёра", улучшает самочувствие и спасает от химических ожогов. Вера наша растет и крепнет день за днём! Ибо Он помнит о нас! Да пребудет Он в Вечности! Да изменит Он Мир!
+    <text>Niech їyje w wiecznoњci, niech zmienia њwiat! \n\nMistrz Wiktor ogіosiі kolejny sukces swoich przyrodnikуw! Mentor, podobnie jak my wszyscy, jest pewien, їe ponownie daі nam, swoim naњladowcom, dar wzmacniaj№cy nasz№ wiarк! Po starciu z oddziaіem wojskowych pilnuj№cych naukowcуw przywуdca falangi Ostach przyniуsі „Skorupк” z ciaіami i trofeami. Razem z ciaіami zabitych zostaі zіoїony w ofierze Jego Pіomieniu, ale Obserwatorzy, brat Akim i brat Leho, odkryli „Skorupк”, ktуry wypadі ze „Smaїenia” szeњж godzin pуџniej. Bіysn№і niezwykle, co potwierdziіo tych, ktуrzy szli za Jego znakiem. Ta zmodyfikowana „Skorupa” przeszіa dwa starcia razem z bratem przyrodnikiem Romanem. W drodze powrotnej jego falanga zderzyіa siк w katakumbach i walczyіa czterema burerami. Brat Roman twierdzi, їe ta zmodyfikowana „Skorupa” zdziaіaіa cuda - brat Roman prawie nie poczuі psi-atakуw burerуw! Ponadto artefakt w jakiњ sposуb usun№і duї№ czкњж promieniowania, ktуre otrzymaі brat Roman. Zauwaїyі teї, їe przez caіy czas noszenia tego artefaktu nie chciaі jeњж. Rzeczywiњcie, nawet teraz daje nam cz№stki Wiecznoњci! Dalsze testy wykazaіy, їe ten artefakt, ktуry otrzymaі od Kwaliteta nazwк „Skalp Kontrolera”, poprawia samopoczucie i chroni przed oparzeniami chemicznymi. Nasza wiara roњnie i umacnia siк z dnia na dzieс! Poniewaї o nas pamiкta! Niech їyje w wiecznoњci! Niech zmieni њwiat!
     </text>
 </string>
 
 
 <string id="amk_recipt_souls_text" >
-    <text>... в общем, было так. Ночью седьмого июля, полмесяца назад, короче, в корпусе №3 всплыл "Шатун" - блуждающая аномалия "Жарка", йопт. Я в этом корпусе один остался, Макс и Юрка Севастополь ушли, хотя как - я до сих пор не въезжаю... пили мы не по-детски. Только я собрался в уголочке себе постелить – опа, из стены огонь! Я то бухой, сначала думал что Тимур Маринад починил найденный пехотный огнемёт и прикалывается с ним. Потом подумал, что в стенах газовод пробило – за стеной кухня была когда-то. Потом вспомнил, что газ здесь в трубах кончился лет пятнадцать назад, растерялся малость, стал водой заливать. Но когда увидел, что пламя движется по стене, допёр уже, да поздно было – свой HK G36 сорвать с гвоздя успел, а вот сумку с найденной два дня назад "Душой" – нет. Расстроился сильно, выпил. А через четыре часа из огня вываливается моя "Душа"! Только светится прикольно так, как лампа. Ну, я её хвать и в контейнер. Наутро проснулся, смотрю: пацаны на "Жарке" кабанчика румянят. Тут я сразу вспомнил про "Душу". Предупредил Макса да попёр к яйцеголовым. Добирался весело, ну да это другая история. Дошёл, дал эту "Душу" на замеры. Сахар после них лысину долго чесал. "У артефакта помимо улучшения здоровья человека, - говорит, - появилась способность снижать дозу радиации". Ещё этот арт (я его "Каплей души" назвал, прикольно звучит) усталость прибавляет. Сахар меня долго уламывал продать его, но я не повёлся. У меня уже к тому времени план зародился - кинуть ещё раз в "Жарку" этот арт и посмотреть, что будет, а потом опять принести на замеры Сахару. Тот снова долго череп чесал, но согласился. Я взял свою "Каплю души" и двинул к тоннелю. Там этой "Жарки" - жопой жри. Бросил, жду. Через шесть часов он начал проявляться, но из аномалии никак не выскакивал. Еле-еле его достал, опалился, чуть такой же лысый, как Сахар, не стал. Принёс на замер и оказался прав! Этот арт (я его назвал "Огненной душой") в два раза лучше стал защищать от радиации! Не, всё же зря я в институт не поступал. Глядишь, был бы профессором, академиком там... В общем, пошёл я в третий раз к "Жарке", как, мля, Старик к синему морю. По пути пару зомбей свалил, один оказался бывшим Михой Камеруном, я потом за его упокой выпил. Вот ведь судьба, сука такая, ведь месяц назад я с ним пил, а сегодня пулю в голову... пусть земля ему... Кинул я "Огненную душу" в "Жарку" и начал снова ждать. Только долго очень – аж через 10 часов выскочила (хорошо хоть в этот раз в аномалию соваться не пришлось). Я вздремнуть умудрился за это время... Светится так радостно. Я подобрал арт и двинул к яйцеголовым. Там уже целая бригада на стрёме, меня кофиём с коньяком поят, сами с артефактом возятся. Я ему под светское настроение с кофе и Хеннеси название придумал – "Кристальная душа". Яйцеголовые ахают там, восторгаются, говорят, что этот гип... гипердиф... короче, "Кристальная душа" и здоровье улучшает, и какой-то там небывалый показатель по защите от радиации получила. Я наутро опять к "Жарке" спокойно добрался, бросил в аномалию свою ненаглядную "Кристальную душу". Ждал долго. Смотрю - выпрыгнул арт. Я ничего не понял – свечение нихрена не изменилось. Ну, думаю, хрен с тобой, не хочешь - не надо. Пошёл обратно, гляжу – в переходе "Электра" блуждающая прёт. Пройти – никак. Сидел я, сидел, потом думаю: "Кину-ка я в "Электру" свой арт"! Получилось как в "Жарке" – исчез он там и всего через час выпрыгивает обратно. Свет идёт совершенно другой! Я дождался, когда "Электра" мигрирует дальше, и пошёл своей дорогой. Принёс "Кристальную душу" на Янтарь, дал Сахару. Того долго не было, выходит из лаборатории – глаза за очками светятся аж, реально как у психа. Говорит, что это какой-то абсолют. Если раньше транс... трансм..., в общем, изменённая "Душа" уменьшала выносливость человека, то этот арт ещё помимо улучшения здоровья и защиты от радиации увеличивает, а не уменьшает, выносливость. Бабла я тогда срубил с яйцеголовых за изучения своей "Души" нормально...</text>
+    <text>...ogуlnie to byіo tak. W nocy 7 lipca, pуі miesi№ca temu, w budynku nr 3 wynurzyі siк "Szatun" - jebana wкdrowna anomalia "Smaїenia". Zostaіem sam w tym budynku, Maks i Jurka Sewastopol odeszli, chociaї ja nigdzie siк st№d nie ruszyіem... wypiliњmy niemaіo. Jak tylko miaіam њcieliж sobie іуїko w k№cie - sru, ogieс ze њciany! Jestem pijany. Na pocz№tku myњlaіem, їe Timur Marinad naprawiі znaleziony miotacz ognia piechoty i bawiі siк nim. Pуџniej pomyњlaіem, їe przez њciany przebiі siк gazoci№g - za њcian№ byіa kuchnia. Potem przypomniaіem sobie, їe gaz tutaj w rurach skoсczyі siк jakieњ piкtnaњcie lat temu, byіem trochк zdezorientowany, zacz№іem gasiж go wod№. Ale jak zobaczyіem, їe pіomieс wкdruje po њcianie to przestaіem. Byіo juї za pуџno – udaіo mi siк zerwaж z gwoџdzia mуj HK G36, ale torebka ze znalezion№ dwa dni temu „Dusz№” juї nie. Byіem bardzo wkurzony, znowu popiіem. A cztery godziny pуџniej moja „Dusza” wypada z ognia! Po prostu њwieci jak lampa. Cуї, chwytam j№ i wkіadam do pojemnika. Nastкpnego ranka obudziіem siк, patrzк: chіopcy na „Smaїeniu” dzika rumieni№. Wtedy natychmiast przypomniaіem sobie o „Duszy”. Ostrzegіem Maksa i poleciaі do jajogіowych. Byіo fajnie, ale to juї inna historia. Przyszedі, daі tк „Duszк” do pomiarуw. Sachar dіugo drapaі siк po іysej gіowie. „Oprуcz poprawy zdrowia ludzkiego artefakt ma zdolnoњж zmniejszania dawki promieniowania” – mуwi. Rуwnieї ta sztuka (nazwaіem j№ „Kropl№ Duszy”, brzmi fajnie) dodaje zmкczenia. Sachar dіugo namawiaі mnie do sprzedaїy, ale nie przekonaі mnie. Do tego czasu miaіem juї plan - ponownie wrzuciж arta do „Smaїenia” i zobaczyж, co siк stanie, a nastкpnie ponownie przynieњж Sacharowi do pomiarуw. Znowu dіugo drapaі siк po gіowie, ale siк zgodziі. Wzi№іem mуj „Kroplк Duszy” i ruszyіem do tunelu. Tam to „Smaїenie” - usmaїyіo mуj tyіek. Rezygnujк, poczekam. Po szeњciu godzinach zacz№і pojawiaж siк, ale nie wyskoczyі z anomalii. Ledwo go wyci№gn№іem. Spiekі siк trochк tak іysy jak Sachar, hehe. Doprowadziіem go do zamroїenia i okazaіo siк, їe mam racjк! Ten art (nazywaіam go „Ognista Dusza”) staі siк dwukrotnie skuteczniejszy w ochronie przed promieniowaniem! Nie poszedіem na studia na prуїno. Widzisz, byіbym tam profesorem, akademikiem... W ogуle poszedіem do „Smaїenia” po raz trzeci, jak, jebany Stary Czіowiek nad bікkitne morze. Po drodze powaliіem kilka zombie, jeden okazaі siк byж Miha Kamerunem, po czym wypiіem za niego. Los to suka, bo miesi№c temu piіem z nim, a dziњ kula w іeb... niech mu ziemia lekk№ bкdzie... Wrzuciіam „Ognist№ Duszк” do „Smaїenia” i zaczкіam czekaж ponownie. Tylko przez bardzo dіugi czas – juї po 10 godzinach wyskoczyіa (no, przynajmniej tym razem nie musiaіam wsadzaж іap w anomaliк). Udaіo mi siк w tym czasie zdrzemn№ж... Tak radoњnie њwieci. Podniosіem arta i poszedіem do jajogіowych. Na straїy jest juї caіa brygada, czкstuj№ mnie kaw№ i koniakiem, sami s№ zajкci artefaktem. Byі spoko nastуj i Hennessy wymyњliі nazwк - „Krysztaіowa Dusza”. Jajogіowi wzdychaj№ tam, podziwiaj№, mуwi№, їe ten szum.... hiperrуїnica... krуtko mуwi№c, „Krysztaіowa Dusza” poprawia zdrowie i otrzymaіa jakiњ bezprecedensowy wskaџnik ochrony przed promieniowaniem. Nastкpnego ranka znуw spokojnie dotarіem do „Smaїenia”, wrzuciіem w anomaliк moj№ ukochan№ „Krysztaіow№ Duszк”. Czekaіem dіugo. Patrzк - art wyskoczyі. Nic nie zrozumiaіem - blask nichromu siк nie zmieniі. Cуї, myњlк, do diabіa z tob№, jeњli nie chcesz, nie rуb tego. Wrуciіem, spojrzaіem - w przejњciu „Elektra” wкdruje, pкdzi. Przepuњciж - nie ma mowy. Siedziaіem i siedziaіem, potem pomyњlaіem: „Wrzucк swego arta do Elektry”! Prawie jak we „Smaїeniu” – znikn№і i zaledwie godzinк pуџniej odskakuje. Obіok jest zupeіnie inny! Poczekaіem, aї „Elektra” przeniesie siк dalej i ruszyіem w dalsz№ drogк. Przyniosіem „Krysztaіow№ Duszк” na Jantar, daіem dla Sachara. Nie byіo go dіugo, wychodzi z laboratorium - jego oczy za okularami bіyszcz№ juї, naprawdк, jak u psychola. Mуwi, їe to jakiњ absolut. Jeњli wczeњniejsza trans... trans..., ogуlnie rzecz bior№c, zmieniona „Dusza” zmniejszyіa wytrzymaіoњж czіowieka, to ta sztuka, oprуcz poprawy zdrowia i ochrony przed promieniowaniem, raczej zwiкksza niї zmniejsza wytrzymaіoњж. Nastкpnie dostaіem pokaџn№ sumк za te badania nad „Dusz№”...</text>
 </string>
 
 <string id="amk_recipt_tears_electra_text" >
-    <text>Артефакт "Капля" помещается в аномалию "Электра". Полученный модификат "Слёзы "Электры"" выводит из человеческого организма радиацию (дозы до 10мЗв/час переносятся без последствий), а также немного снимает усталость. Отрицательного воздействия на человеческий организм не зафиксировано.
+    <text>Artefakt „Kropla” umieszczona w anomalii „Elektra”. Powstaіa modyfikacja „Јzy Elektry” usuwa promieniowanie z organizmu czіowieka (dawki do 10 mSv/h s№ tolerowane bez konsekwencji), a takїe lekko іagodzi zmкczenie. Nie odnotowano їadnego negatywnego wpіywu na organizm ludzki.
     </text>
 </string>
 
 <string id="amk_recipt_tears_fire_text" >
-    <text>Модификат "Слёзы "Электры"" помещается в аномалию "Жарка". Полученный мезомодификат "Слёзы огня" довольно хорошо выводит из организма человека, носящего этот артефакт на поясе, радиацию (предельная доза 30±2мЗв/час). Отрицательного воздействия не зафиксировано.
+    <text>Modyfikacja „Јzy Elektry” umieszczona w anomalii „Smaїenie”. Powstaіy mezo-modyfikator „Јzy ognia” doњж dobrze usuwa promieniowanie z ciaіa osoby nosz№cej ten artefakt na pasku (maksymalna dawka to 30 ± 2 mSv/h). Nie odnotowano їadnego negatywnego wpіywu na organizm ludzki.
     </text>
 </string>
 
 <string id="amk_recipt_tears_chimaera_text" >
-    <text>Мезомодификат "Слёзы огня" помещается в аномалию "Холодец". Этот гипермодификат кроме того, что очень хорошо выводит из организма радиацию, также полезен тем, что блокирует почти половину пси-излучения. Отрицательные характеристики "Слёз химеры" - ухудшение самочувствия человека и плохое заживление ран.
+    <text>Modyfikacja „Јzy ognia” umieszczona w anomalii „Galareta”. Ten hipermodyfikator, oprуcz tego, їe bardzo dobrze usuwa promieniowanie z ciaіa, jest rуwnieї przydatny, poniewaї blokuje prawie poіowк promieniowania psi. Negatywne cechy „Јez Chimery” to pogorszenie samopoczucia i sіabe gojenie siк ran.
     </text>
 </string>
 
 <string id="amk_recipt_grandmother_glassbeards_text" >
-    <text>Для обязательного ознакомления. \n\nБойцы! Наши товарищи, учёные, предоставили информацию о возможности изменить артефакт "Мамины бусы" с последующим получением у него новых характеристик. Данный артефакт подвержен изменению только в аномалии "Электра", в которую необходимо поместить артефакт на пять часов. После этого он с большой долей вероятности получает новые характеристики. Привожу цитату из документа учёных: "Полученный модификат повышает показатель выносливости и генерирует темпоральное поле, довольно значимо замедляющее скорость попадающих в него пуль, тем самым защищая человека от критических ранений. Немного радиоактивен и уменьшает стойкость к электрошоку." \n\nРекомендую скопировать файл в свои КПК и при встрече с квадами, находящимися в рейде, передать информацию непосредственно лидеру встреченной группы...
+    <text>Do obowi№zkowego przegl№du. \n\nЇoіnierze! Nasi towarzysze naukowcy przekazali informacje o moїliwoњci zmiany artefaktu „Koraliki Matki” z pуџniejszym uzyskaniem z niego nowych cech. Artefakt ten moїe ulec zmianie tylko w anomalii Elektra, w ktуrej artefakt musi byж umieszczony na piкж godzin. Potem najprawdopodobniej otrzymuje nowe cechy. Cytujк z dokumentu naukowcуw: „Otrzymany modyfikator zwiкksza wytrzymaіoњж i generuje pole czasowe, ktуre znacznie spowalnia prкdkoњж wpadaj№cych w niego pociskуw, chroni№c tym samym czіowieka przed krytycznymi ranami. Jest lekko radioaktywny i zmniejsza odpornoњж na poraїenie pr№dem.” \n\nPolecam skopiowanie pliku do PDA i kiedy napotkasz kwadrк w wypadzie, przeњlij informacje bezpoњrednio do lidera napotkanej grupy...
     </text>
 </string>
 
 <string id="amk_recipt_pra_grandmother_glassbeards_text" >
-    <text>... Ваньку Четыре Пальца нашёл в деревне. Я от стаи псов туда заныкался. Сижу, из подполья открытого слышно потрескивание счётчика Гейгера. Я сразу за ствол схватился: мало ли, может там бандюган какой или мерк заныкался. Глянул, а он там валяется лицом в "Холодце". Я его только по бандане дебильной и узнал – красная с серпасто-молоткастыми гербами. И ведь часа четыре, как расстались с ним; он пошёл вперед, а я Вадика Румяного дожидался, чтоб пакет передать. Обидно, мля... Ну, в общем, я противогаз нацепил и полез его вытаскивать. Долго не мог понять, как он туда сверзился, ведь он Зону уже четвёртый год топтал, пока не увидел, что шею ему кто-то свернул. Я, ясен перец, в землю его хоронить сразу раздумал. Мало ли какая хозяюшка себе консервы из опытного сталкера заготовила, да и не пасётся ли эта самая хозяюшка где-нибудь рядом. По быстрому его обмарадёрил, старясь к одежде не прикасаться, рюкзак снял, арты с пояса. ТОЗ его любимый не взял - "Холодец" ружьё знатно пожрал. Да и слинял оттуда побыстрее. Артов у Ваньки было три всего. "Капля", "Морской ёж" да эти его "Бабкины бусы". "Капля" с "Морским ежом" у него сзади на поясе болтались, а вот "Бабкины бусы" угодили в "Холодец". Думал, что песец пришёл артефакту, а оказалось - арт целёхонек, да только светится чудно. Ну, я пока до свободовцев добрался, затестил его. Другой он стал. Я его про себя "Прабабкиными бусами" обозвал. Кровотечение останавливает на счёт раз. Этот, как его, тонус поднимает, от пуль спас неплохо, когда я на военного зомби наткнулся. Только лучиться стал сильнее, чем "Бабкины бусы". Продам его, наверное, учёным да снарягу себе новую возьму.
+    <text>...Waсka Cztery Palce znalazі w wiosce. Ukryіem siк tam przed sfor№ psуw. Siedzк a z otwartego podziemia sіychaж trzask licznika Geigera. Od razu chwyciіem lufк: nigdy nie wiadomo, moїe ukrywaі siк tam jakiњ gangster albo najemnik. Spojrzaіem, a tam ktoњ leїaі twarz№ w „Galarecie”. Rozpoznaіem go tylko po jego rozpuszczonej bandanie - czerwonej z herbami sierp i mіot. A przecieї cztery godziny po rozstaniu z nim poszedі naprzуd, a ja czekaіem, aї Wadik Rumjanow przekaїe paczkк. Szkoda, cholera... No generalnie zaіoїyіem maskк przeciwgazow№ i wlazіem, їeby go wyci№gn№ж. Przez dіugi czas nie mogіem zrozumieж, jak tam wpadі, bo deptaі Zonк juї czwarty rok, dopуki ktoњ skrкciі mu kark. Pieprzony nie ma nic przy sobie, natychmiast zmieniіem zdanie na temat zakopania go w ziemi. Nigdy nie wiadomo, ktуry kucharz przygotowaі dla siebie konserwy od doњwiadczonego stalkera i czy ten sam kucharz nie pasie siк gdzieњ w pobliїu. Szybko go okradі, staraj№c siк nie dotykaж jego ubrania, zdj№і plecak, arta z pasa. TOZ jego ukochany nie zabraі - „Galareta” powaїnie poїarі jego broс. Tak i szybko siк stamt№d wydostaіem. Waсka miaі tylko trzy arty. „Kroplк”, „Jeїowca” i jego „Koraliki Babci”. „Kropla” z „Jeїowcem” zwisaі z tyіu jego pasa, ale „koraliki znalazіy siк w „Galarecie”. Myњlaіem, їe lis polarny trafiі do artefaktu, ale okazaіo siк, їe art jest nienaruszona, tylko cudownie њwieci. Cуї, potem dotarіem do Wolnoњciowcуw, przetestowaіem to. Staі siк czymњ nowym. Nazwaіem go „Paciorkami Prababci”. Krwawienie zatrzymuje siк natychmiastowo. Uratowaіo mnie przed kulami, kiedy natkn№іem siк na wojskowego zombie. Tylko, їe promieniowaі mocniej niї „Koraliki Babci”. Prawdopodobnie sprzedam go naukowcom i kupiк sobie nowy strуj.
     </text>
 </string>
 
 <string id="amk_recipt_burer_grandmother_glassbeards_text" >
-    <text>Запись: "Есть у меня для тебя информация. Знаешь, я там, на базе нашей, писарем служил: сидел за компьютером, с документами и отчётами возился. А потом, когда вашего брата сталкера каждый день стали наши перцы гробить, невмоготу стало! Противно... Ну, ладно, не об этом сейчас. Я там один файл прочитал случайно... Ну, как случайно... В общем, повозиться с кодом пришлось, пока хакнул... Копировать не стал, но запомнил накрепко. Там был отчет яйцеголовых об изменении артефактов в аномалиях! Прикидываешь! Так в этом файле говорилось, что если взять какой-то ме... мезо чего-то там... под названием "Бусы прабабки" - дебильное название, сразу запомнилось, только не спрашивай что это, даже не представляю - и положить в "Карусель", то через десять, по-моему, минут получится другой артефакт! Ну, как другой... Тот же самый, только у него свойства поменяются. Он какое-то поле излучает, всё быстро летящее, что попадает в него, тормозит ощутимо. Я подумал: "Это значит и пули!" Ещё он кровь, типа, останавливает, здоровье улучшает, только лучится. Вот. Надеюсь, тебе эта информация поможет больше, чем мне."
+    <text>Wpis: „Mam dla Ciebie informacje. Wiesz, sіuїyіem tam, w naszej bazie, jako urzкdnik: siedziaіem przy komputerze, majstrowaіem przy dokumentach i raportach. A potem, gdy do waszego braciaka stalkera zaczкli codziennie wysyіaж groџby, staіo siк nie do zniesienia!... No dobra, teraz nie o tym. Przeczytaіem tam jeden plik przypadkiem... No, jakby przypadkiem... Generalnie musiaіem majstrowaж przy kodzie, dopуki nie wіamaіem siк... nie skopiowaіem, ale dobrze to zapamiкtaіem. Byі raport jajogіowych o zmianie artefaktуw w anomaliach! Zapytaj co to jest, nawet nie mogк sobie wyobraziж - wіуї to do „Karuzeli”, a nastкpnie w dziesiкж minut, moim zdaniem, dostaniesz inny artefakt! Cуї, nie do koсca inny... Ten sam ale zmieni№ siк tylko jego wіaњciwoњci. promieniuje, wszystko leci szybko, co go uderza, zauwaїalnie zwalnia. Pomyњlaіem:  „Znaczy siк kule!” Jeszcze krwawe rany tamuje, zdrowie poprawia siк, tylko promieniuje. Mam nadziejк, їe te informacje pomog№ Ci bardziej niї mi.
     </text>
 </string>
 
 <string id="amk_recipt_dikoobraz_text" >
-    <text>... для получения необходимой трансмутации артефакт "Морской ёж" помещается в аномалию "Жарка". Через три часа он, если трансмутация пройдёт удачно, получает очень хороший показатель по защите от радиации. Единственной его отрицательной характеристикой является то, что он повышает утомляемость. Последующие наши опыты показали невозможность дальнейшей трансмутации полученного модификата "Дикобраз" в этой аномалии...
+    <text>... aby uzyskaж niezbкdn№ transmutacjк, artefakt „Morskiego Jeїowca” umieszcza siк w anomalii „Smaїenie”. Po trzech godzinach, jeњli transmutacja siк powiedzie, otrzymuje bardzo dobry wskaџnik ochrony przed promieniowaniem. Jego jedyn№ negatywn№ cech№ jest to, їe zwiкksza zmкczenie. Nasze kolejne eksperymenty wykazaіy niemoїnoњж dalszej transmutacji otrzymanej modyfikacji „Jeїowca” w tej anomalii...
     </text>
 </string>
 
 <string id="amk_recipt_electra_dikoobraz_text" >
-    <text>Не для распространения! Только членам "Свободы"! Топ сикрет, йопт! \n\nВитёк Румяный сумел накреативить новый арт! Для исходника нужен "Дикобраз", его потом надо бросить в "Электру", через пять часов из неё вылупится этот артефакт. Румяный назвал его "Электрическим дикобразом", но это, в принципе, глубоко равнобедренно. Главное, что арт радиацию держит некисло и выносливости прибавляет. Квёлый, предвижу твой озабоченный вопрос про девок – это сразу на форум. Мне в личку не пиши – прибью! А, да – ахтунг! Хреново, если нацепишь этого "Электрического дикобраза", а рядом случится "Электра" – долбанёт гораздо сильнее, арт тянет к себе электричество. Так что осторожнее даже с розетками – бьются током, мля! \n\nСтепан Медиацентр, инфосервис, етить его.
+    <text>Nie do rozpowrzechniania! Tylko czіonkowie „Wolnoњci”! Њciњle tajne, cholera! \n\nWitiok Rumjany zdoіaі stworzyж nowego arta! Do џrуdіa potrzebujesz „Jeїowca”, a nastкpnie musisz wrzuciж go do „Elektry”, po piкciu godzinach ten artefakt wykluje. Rumjany nazwaі go „Elektrycznym Jeїowcem”. Najwaїniejsze jest to, їe promieniowanie arta nie osіabia i dodaje wytrzymaіoњci. Kwely, uprzedzam Twoje niespokojne pytanie o dziewczyny - to jest na forum. Nie pisz do mnie osobiњcie – zabijк Ciк! I tak - UWAGA! Przejebane, jeњli zaіoїysz tego „Elektrycznego Jeїowca”, a w pobliїu wydarzy siк „Elektra” - uderzy znacznie mocniej, art bкdzie przyci№gaж do siebie pr№d. Uwaїaj wiкc nawet na gniazdka w њcianie - popieszcz№! \n\nCentrum medialne Stepan, serwis informacyjny, proszк go wspieraж.
     </text>
 </string>
 
 <string id="amk_recipt_sopl_dikoobraz_text" >
-    <text>Господа! Группа господина Алексея Астронома оказала нашей лаборатории неоценимую услугу. Дело в том, что территорию возле нашей мобильной лаборатории наводнили кабаны и плоти. Это их вторая миграционная волна после последнего Выброса, у нас уже были пострадавшие из числа персонала. Отозвавшаяся на наш призыв о помощи группа господина Алексея Астронома полностью уничтожила мутантов! Мы считаем, что денежное вознаграждение не полностью отражает глубину нашей благодарности, и, дабы поддержать наше дальнейшее сотрудничество, высылаем Вам информацию о генерации гипермодификата "Сопливый дикобраз". Просим прощения за несколько вульгарное название, но оно, придуманное создателем данного гипермодификата, как нельзя лучше описывает сущность этого артефакта. Надеюсь, бойцы "Долга" обладают должным чувством юмора и адекватно отреагируют на данный артефакт и на его название! Для получения "Сопливого дикобраза" необходимо в аномалию "Холодец" поместить на два часа артефакт "Электрический дикобраз". Хотелось бы отметить, что этот гипермодификат имеет редкий показатель по блокировке радиации – человек получает только 45 процентов от того количества рентген, которого он получил бы, не одев на пояс этот гипермодификат. Помимо этого он также очень эффективно останавливает кровотечение и добавляет выносливости. Неприятной стороной "Сопливого дикобраза" является то, что он повышает чувствительность человека к электрошоку, и его неудобно носить из-за всё время сочащейся непонятной слизи. Субстанция безвредная, но до жути неприятная. В целом наш коллектив считает, что такое маленькое неудобство, как слизь, не отобьёт желание у ваших бойцов применять это гипермодификат!\n\nС уважением, член РАН, академик Сахаров
+    <text>Panowie! Grupa Pana Aleksieja Astronoma oddaіa naszemu laboratorium nieocenion№ przysіugк. Faktem jest, їe teren w pobliїu naszego mobilnego laboratorium byі zalany dzikami i miкsaczami. To ich druga fala migracji po ostatniej Emisji, mieliњmy juї ofiary wњrуd personelu. Grupa pana Aleksieja Astronoma, ktуra odpowiedziaіa na nasze wezwanie o pomoc, caіkowicie zniszczyіa mutantуw! Uwaїamy, їe nagroda pieniкїna nie oddaje w peіni gікbi naszej wdziкcznoњci i aby wesprzeж nasz№ dalsz№ wspуіpracк przesyіamy Paсstwu informacjк o generacji hipermodyfikatora „Soplnego Jeїowca”. Przepraszamy za nieco wulgarn№ nazwк, ale wymyњlon№ przez twуrcк tego hipermodyfikatora najlepiej oddaje istotк tego artefaktu. Mam nadziejк, їe bojownicy „Powinnoњci” maj№ odpowiednie poczucie humoru i odpowiednio zareaguj№ na ten artefakt i jego nazwк! Aby zdobyж „Soplnego Jeїowca”, musisz umieњciж artefakt „Elektryczny Jeїowiec” w anomalii „Galareta” na dwie godziny. Chciaіbym zauwaїyж, їe ten hipermodyfikator ma rzadki wskaџnik blokowania promieniowania - osoba otrzymuje tylko 45 procent iloњci promieni rentgenowskich, ktуr№ otrzymaіaby bez noszenia tego hipermodyfikatora na pasku. Poza tym bardzo skutecznie zatrzymuje krwawienie i dodaje wytrzymaіoњci. Wad№ „Soplnego Jeїowca” jest to, їe czyni osobк bardziej wraїliw№ na elektrowstrz№sy i jest niewygodny w noszeniu z powodu dziwnego њluzu, ktуry caіy czas s№czy. Substancja jest nieszkodliwa, ale niesamowicie nieprzyjemna. Ogуlnie rzecz bior№c, nasz zespуі uwaїa, їe tak maіa niedogodnoњж, jak szlam, nie zniechкci Twoich їoіnierzy do uїywania tego hipermodyfikatora!\n\nZ powaїaniem, czіonek Rosyjskiej Akademii Nauk, akademik Sacharow
     </text>
 </string>
 
 <string id="amk_recipt_giant_small_brother_text" >
-    <text>Запись 1: "Еле ушли из Тёмной долины. Юрку Буяна потеряли – парня воронкой порвало, не заметили в перестрелке, как его туда бюрер затолкал пси-ударами... пусть земля ему будет пухом... Плохо. Группа неполная без него – меньше шансов донести до Бара бумажечку эту занятную. Видать, бюреры в катакомбы какого-то бедолагу учёного на обед затащили. Он в своём КПК написал, что обнаружил возможность менять артефакты в новые... модификаты, что ли... так, вроде, написано... В общем, получается какой-то артефакт класса абсолют, названный им "Младший брат Гиганта", и делается он в "Жарке" из "Алмазного колобка". Учёный написал, что этот абсолют не только уменьшает чувствительность кожи носящего его человека к разрыву, огню и химически агрессивным веществам, но и "отводит" от человека довольно чувствительный процент попадающих в генерируемое поле пуль. Приятными бонусами "Младшего брата Гиганта" являются следующие свойства: неплохое выведение радиации из организма и снижение потребности человека в еде за счёт подпитки своей энергией. В общем, информация занятная, надо бы её Сахарову и его команде отнести, только охрану побольше на всякий случай побольше, группы две минимум." \n\nЗапись 2: "Нарвались на этих олухов из "Свободы"! Втроём их пятерых положили. Только порадовались трофеям – стволы у них знатные, как Саньке Кулеру голову снесло выстрелом из СВД. Мы на звук из подствольников ударили, но непонятно, грохнули мы этого снайпера или нет. Ринат говорит, чтобы я уходил, он меня прикроет. Информация очень уж важная... Снайпер, козёл, себя не выдаёт ничем, стрелянный воробей. Ладно, надо идти..."
+    <text>Wpis 1: „ledwo opuњciliњmy Mroczn№ Dolinк. Straciliњmy Jurkк Bujana – faceta rozdarі lejek, nie zauwaїyli w strzelaninie, jak burer go tam wepchn№і psi-atakami... niech mu ziemia lekk№ bкdzie... Kiepsko. Bez niego grupa jest niekompletna - mniejsze szanse na przekazanie tej cholernej kartki do Baru. Wygl№da na to, їe burery wci№gnкіy jakiegoњ biednego naukowca do katakumb na przegryzkк. Napisaі w swoim PDA, їe odkryі moїliwoњж zmiany artefaktуw na nowe... modyfikacje, czy coњ... wydaje siк, їe coњ takiego jest napisane... Ogуlnie rzecz bior№c, okazuje siк, їe jest to jakiњ artefakt klasy absolutnej, ktуry nazwaі „Mіodszy Brat Giganta”, a jest on tworzony w „Smaїeniu” z „Krysztaіowego Kulebiaka”. Naukowiec napisaі, їe ten absolut nie tylko zmniejsza wraїliwoњж skуry osoby go nosz№cej na zranienia, ogieс i chemicznie їr№ce substancje, ale rуwnieї „usuwa” z osoby doњж spory procent pociskуw wpadaj№cych do generowanego pola. Przyjemne bonusy „Mіodszego Brata Giganta” to nastкpuj№ce wіaњciwoњci: dobre usuwanie promieniowania z ciaіa i zmniejszenie zapotrzebowania osoby na jedzenie kosztem uzupeіnienia energii. Ogуlnie informacje s№ interesuj№ce, lepiej byіoby zanieњж je do Sacharowa i jego zespoіu, tylko trzeba zmocniж bezpieczeсstwo, na wszelki wypadek. Wiкcej, co najmniej dwie grupy.” \n\nWpis 2: „Wpadіem na tych palantуw z Wolnoњci! Trzech z piкciu poіoїyliњmy. Po prostu cieszyli siк z trofeуw - dіugo siк nie pocieszyli, bo gіowa Sanki Kulera zostaіa zdmuchniкta strzaіem z SVD. Uderzyliњmy w odgіos granatnikуw, ale nie jest jasne, czy trafiliњmy tego snajpera, czy nie. Rinat kaїe mi uciekaж, bкdzie mnie osіaniaі. Informacja jest bardzo waїna... Snajper, dureс, w niczym siк nie zdradza, strzelamy z armaty do wrуbla. Dobra, muszк iњж...”
     </text>
 </string>
 
 <string id="amk_recipt_shkura_text" >
-    <text>Здорово, Вован. Вот же долбень! Ну чего ты заладил: "Как там на Зоне, как там на Зоне?". Да никак! Скукота, мля. Если бы не ловили этих полудурков, которые туда прут за артефактами, ваще тоска зелёная была бы. Не, ну бывает жутко иногда, что мне перед тобой выёживаться... Когда какая-нибудь животина или хрен знает что завоет недалеко от блокпоста – сраться не срусь, но волосы дыбом встают. Даже на жопе... Это при том, что автомат я, как и все мы здесь, из рук не выпускаю. Недавно вот, правда, развлекалово было – поймали перца. Назад из Зоны шёл. Ну, мы его взяли. Он какой-то камушек с собой волок, светится - что днище твоей тюнингованной девятки в темноте! Ну, мы его с пристрастием поспрашивали, он рассказал, что этот камушек не просто артефакт, а какая-то новая хрень – у него, типа, есть способность уменьшать химические ожоги, что ли, и ты, типа, пуленепробиваемым становишься. Ну не совсем, конечно. Мы этот камушек дозиметром проверили – трещит, зараза! А этот пойманный говорит нам, что, типа, несёт эту хреновину учёным, типа, польза людям чтоб была. Разоткровенничался, говорит, что берёшь какую-то "Плёнку", бросаешь в "Трамплин" и оба! Через пяток часов готова эта хрень. Много чего ещё говорил, сам какой-то облезлый, весь в шрамах. Упырь, короче. В общем, мы его в тачанку и на третий КПП отправили, там с ним разберутся. Ну ладно, Вован, бывай, мне тут скоро на построение. Ты это, Юльке передай, что я её люблю там, помню и всё такое. Короче, будь!
+    <text>Witaj, Wowan. Ty draniu! Cуї, ci№gle powtarzasz: „Jak jest w Strefie, jak jest w Strefie?” Nie ma mowy! Nuda, cholera. Gdybyњmy nie іapali tych nierozgarniкtych ludzi, ktуrzy chodz№ tam po artefakty, byіa by zielona melancholia. Nie, no cуї, czasami to straszne, їe kulк siк przed Tob№... Kiedy jakaњ bestia albo cholera wie, co zawyje w pobliїu punktu kontrolnego, aї wіosy siк jeї№. Nawet na dupie... Dzieje siк tak mimo tego, їe ja, podobnie jak my wszyscy tutaj, nie puszczamy karabinуw z r№k. Ostatnio jednak byіo zabawnie – zіapali harcerzyka. Akurat z Zony szedі. Cуї, zіapaliњmy go. Ci№gn№і ze sob№ jakiњ kamyk, њwieciі tak їe byњ drugi koniec Twojej modyfikowanej dziewi№tki zobaczyі w ciemnoњci! Cуї, zapytaliњmy go grzecznie, powiedziaі, їe ten kamyk to nie tylko artefakt, ale jakieњ nowe gуwno - ma zdolnoњж zmniejszania oparzeс chemicznych, czy coњ takiego, a Ty, do tego, stajesz siк kuloodporny. Oczywiњcie nie do koсca. Sprawdziliњmy ten kamyk dozymetrem - trzeszczy, zaraza! A ten, ktуrego zіapaliњmy, mуwi nam, їe niesie to cholerstwo naukowcom, dla dobra ludzkoњci. Rozgadaі siк, powiedziaі, їe bierzesz jak№њ „taњmк”, wrzucasz do „Trampoliny” i tyle! Piкж godzin pуџniej to gуwno jest gotowe. Mуwiі wiele innych rzeczy, byі jakoњ poobdzierany, pokryty bliznami. Jak jakiњ upiуr. Zaprowadziliњmy go do wozu i wysіaliњmy do trzeciego punktu kontrolnego, gdzie mieli siк z nim rozprawiж. Cуї, Wowan, bywaj, niedіugo idк na dzieіo. Powiedz Julce, їe j№ kocham, tкskniк i takie tam!
     </text>
 </string>
 
 <string id="amk_recipt_cheshya_text" >
-    <text>Господа, рад сообщить Вам, что нами обнаружен новый образец трансмутации! Модификат "Шкура" подвергается воздействию аномалии "Карусель" в течение 5 часов. Полученный мезомодификат с рабочим названием "Чешуя" обладает следующими характеристиками: он уменьшает воздействие на человека химически агрессивных сред, улучшает показатель здоровья и особым образом воздействует на кожу, делая её менее чувствительной к огнестрельным ранениям. Внимание, важно! "Чешуя" радиоактивна и усиливает кровотечение у носящего его человека! Надеемся, что эта информация поможет Вам в Вашем благородном деле, а также на то, что этот небольшой презент ещё больше укрепит нашу дружбу и партнёрство! \n\nС уважением, член РАН, академик Сахаров
+    <text>Panowie, miіo mi poinformowaж, їe odkryliњmy now№ prуbkк transmutacji! Modyfikacja „Skуra” jest pod wpіywem anomalii „Karuzeli” przez 5 godzin. Powstaіy mezo-modyfikator o roboczym tytule „Јaska” ma nastкpuj№ce wіaњciwoњci: zmniejsza wpіyw chemicznie agresywnych њrodowisk na czіowieka, poprawia stan zdrowia i ma specjalny wpіyw na skуrк, czyni№c j№ mniej wraїliw№ na rany postrzaіowe. Waїna uwaga! „Јuska” jest radioaktywna i zwiкksza krwawienie u osoby, ktуra j№ nosi! Mamy nadziejк, їe te informacje pomog№ Ci w Twojej szlachetnej sprawie, a ten drobny prezent jeszcze bardziej wzmocni nasz№ przyjaџс i partnerstwo! \n\nZ powaїaniem, Czіonek Rosyjskiej Akademii Nauk, akademik Sacharow
     </text>
 </string>
 
 <string id="amk_recipt_pancir_text" >
-    <text>Товарищ майор, пришёл отчет из Центра по предоставленному нами для изучения гипермодификату "Панцирь". Судя по полученным данным, "Панцирь" (перерождённый в аномалии "Холодец" мезомодификат "Чешуя") у носящего его человека снижает кровотечение, увеличивает показатель здоровья, улучшает стойкость к огнестрельным ранениям, нейтрализует большую часть химически агрессивных сред при их контакте с кожей человека и уменьшает кровотечение. Единственным отрицательным качеством является небольшой радиационный фон. Время трансмутации невелико - всего два с половиной часа. Центр изъявил желание получить как можно больше объектов для изучения и новые данные о всех возможных модификатах, разрешив нам дознания категории 5. В связи с этим прошу Вашего разрешения для проведения над пойманными сталкерами пыток данной категории. \n\nКапитан М. Лубянкин
+    <text>Towarzyszu Majorze, nadszedі raport z Centrum w sprawie hipermodyfikacji „Skorupa” dostarczonej przez nas do badaс. S№dz№c po otrzymanych danych, „Skorupa” (modyfikator mezo „Јuski” powstaіej w anomalii „Galareta”) u osoby, ktуra j№ nosi, zmniejsza krwawienie, zwiкksza wskaџnik zdrowia, poprawia odpornoњж na rany postrzaіowe, neutralizuje wiкkszoњж chemicznie agresywne њrodowiska, gdy wchodz№ w kontakt z ludzk№ skуr№ i zmniejszaj№ krwawienie. Jedyn№ negatywn№ cech№ jest maіe promieniowanie. Czas transmutacji jest krуtki - tylko dwie i pуі godziny. Centrum wyraziіo chкж pozyskania jak najwiкkszej liczby obiektуw do badaс oraz nowych danych o wszelkich moїliwych modyfikacjach, pozwalaj№cych na prowadzenie dochodzeс kategorii 5. W zwi№zku z tym proszк o zgodк na torturowanie schwytanych stalkerуw tej kategorii. \n\nKapitan M. Lubjankin
     </text>
 </string>
 
 <string id="amk_recipt_simbion_text" >
-    <text>Спешу сообщить, Николай Валентинович, что отдел "Б" выдал нам неожиданный результат своих исследований! Они обнаружили, что если в аномалию "Холодец" поместить четыре артефакта разного типа: "Медузу", "Каплю", "Кровь камня" и "Колючку", то в результате трансмутации, проходящей в течение четырёх часов и двадцати одной минуты, генерируется абсолютно новый артефакт с удивительными качествами! Этот модификат, которому присвоено рабочее название "Симбион", блокирует 50% пси-излучения! Опыты проводились на заключённых, которые подвергались ментальной атаке нашего пленного Арчибальда. Делая поправку на то, что этот контролёр у нас в неволе давно, и без подпитки остаточной энергией Выброса он несколько ослабел, всё же считаю, что показатель пси-блокировки отличный! Рапорт для Центра составлен, жду Ваших комментариев и разрешения на отправку данных. \n\nНачальник отдела "Б", профессор Снегирёв
+    <text>Spieszк Ciк poinformowaж, Nikoіaju Walentowiczu, їe Departament "B" daі nam nieoczekiwany wynik swoich badaс! Odkryli, їe jeњli w anomalii „Galareta” zostan№ umieszczone cztery artefakty rуїnych typуw: „Meduza”, „Kropla”, „Kamieс Krwi” i „Kolec”, to w wyniku transmutacji, ktуra ma miejsce w ci№gu czterech godzin i dwadzieњcia jeden minut, zupeіnie nowy artefakt o niesamowitych wіaњciwoњciach! Ta modyfikacja, ktуrej nadano robocz№ nazwк „Symbion”, blokuje 50% promieniowania psi! Eksperymenty przeprowadzono na wiкџniach, ktуrzy zostali psychicznie napadniкci przez naszego jeсca Archibalda. Uwzglкdniaj№c fakt, їe ten kontroler byі w naszej niewoli przez dіugi czas i bez uzupeіniania pozostaіej energii Emisji, nieco osіabі, nadal uwaїam, їe wskaџnik blokowania psi jest doskonaіy! Sporz№dzono raport dla Centrum, czekam na Paсstwa uwagi i zgodк na przesіanie danych. \n\nKierownik Wydziaіu „B”, profesor Snegiriow
     </text>
 </string>
 
 <string id="amk_recipt_dummy_text" >
-    <text>Отчёт №14/7 по проекту "Обманщик"\n
-Директору исследовательского отдела "К-32"\n
-Профессору Сазонову Николаю Дмитриевичу\n\nУважаемый Николай Дмитриевич, мы завершили серию опытов над артефактом "Пустышка". Во время опытов 7 (семь) артефактов "Пустышка" подверглись деструкции, 5 (пять) артефактов "Пустышка" подверглись деградации, 1 (один) артефакт "Пустышка" в серии трансмутаций показал положительные результаты. \n\nАртефакт "Пустышка" при помещении в аномалию "Электра" по истечении 3 часов, 1 минуты, 43 секунд получает следующие характеристики: увеличивает стойкость к огню, несколько увеличивает выносливость, усиливает восприимчивость к электрошоку. Рабочее название модификата – "Огненная пустышка". \n\nПри последующем помещении модификата "Огненная пустышка" в аномалию "Электра" по истечении 6 часов, 3 минут, 12 секунд артефакт получает следующие характеристики: сильно увеличивает стойкость к огню, увеличивает выносливость, усиливает восприимчивость носителя к электрошоку. Рабочее название мезомодификата – "Яркая пустышка". \n\nПри последующем помещении мезомодификата "Яркая пустышка" в аномалию "Электра" по истечении 8 часов, 4 минут ровно артефакт получает следующие характеристики: сильно увеличивает стойкость к огню, сильно увеличивает выносливость, сильно повышает восприимчивость к электрошоку. Рабочее название гипермодификата – "Лунная пустышка". \n\nНа этом опыты по трансмутации артефакта "Пустышка" были продолжены в той же аномалии. В отличие от проектов "Лом", "Сестра", "Невидимка" и "Повелитель мух" этот опыт увенчался успехом! \n\nПри помещении гипермодификата "Лунная пустышка" в аномалию "Электра" не произошло отторжения артефакта. По истечении 12 часов, 3 минут, 56 секунд артефакт получил свойства класса абсолют, а именно: значительно увеличивает стойкость к огню, несколько увеличивает выносливость, значительно увеличивает стойкость к электрошоку. Рабочее название абсолюта – "Пудинг". \n\nДальнейшее помещение полученного абсолюта в аномалию "Электра" ни к чему не привело - аномалия отторгает артефакт. \n\nСчитаю, что наша группа пришла к блестящему результату исследований по трансмутации артефакта "Пустышка". Таким образом, считаю, что проект "Обманщик" успешно завершён. Полные записи наблюдений перенесены на сервер. \n\nНачальник исследовательской группы "7", В. А. Авакян
+    <text>Raport #14/7 o projekcie „Szarlatan”\n
+Dyrektor Dziaіu Badaс „K-32”\n
+Profesor Sazonow Nikoіaj Dmitriewicz\n\nDrogi Nikoіaju Dmitriewiczu, zakoсczyliњmy seriк eksperymentуw na artefakcie „Bateria”. Podczas eksperymentуw 7 (siedem) „Baterii” ulegіo zniszczeniu, 5 (piкж) „Baterii” ulegіo degradacji, 1 (jeden) „Bateria” wykazaі pozytywne wyniki w serii transmutacji. \n\nArtefakt „Bateria”, gdy zostanie umieszczony w anomalii „Elektra” po 3 godzinach, 1 minucie, 43 sekundach, zyskuje nastкpuj№ce cechy: zwiкksza odpornoњж na ogieс, nieznacznie zwiкksza wytrzymaіoњж, zwiкksza podatnoњж na poraїenie pr№dem. Roboczy tytuі modyfikacji to „Ognista Bateria”. \n\nPo umieszczeniu modyfikacji „Ognista Bateria” w anomalii „Elektra” po 6 godzinach, 3 minutach i 12 sekundach, artefakt zyskuje nastкpuj№ce cechy: znacznie zwiкksza odpornoњж na ogieс, zwiкksza wytrzymaіoњж, zwiкksza podatnoњж uїytkownika na poraїenie pr№dem. Roboczy tytuі mezo-modyfikatora to „Jasna Bateria”. \n\nPo umieszczeniu mezo-modyfikatora „Jasna Bateria” w anomalii „Electra” po 8 godzinach, dokіadnie 4 minutach, artefakt otrzymuje nastкpuj№ce cechy: znacznie zwiкksza odpornoњж na ogieс, znacznie zwiкksza wytrzymaіoњж, znacznie zwiкksza podatnoњж na poraїenie pr№dem . Roboczy tytuі hipermodu to „Ksiкїycowa Bateria”. \n\nW tym momencie eksperymenty z transmutacj№ artefaktu „Bateria” byіy kontynuowane w tej samej anomalii. W przeciwieсstwie do projektуw „Zіom”, „Siostra”, „Niewidzialny” i „Wіadca much” to doњwiadczenie zakoсczyіo siк sukcesem! \n\nUmieszczenie hipermodyfikatora „Ksiкїycowa Bateria” w anomalii „Elektra” nie powodowaіo odrzucenia artefaktu. Po 12 godzinach, 3 minutach, 56 sekundach artefakt uzyskaі wіaњciwoњci klasy absolutnej, a mianowicie: znacznie zwiкksza odpornoњж na ogieс, nieznacznie zwiкksza wytrzymaіoњж i znacznie zwiкksza odpornoњж na poraїenie pr№dem. Roboczy tytuі absolutu to „Budyс”. \n\nDalsze umieszczenie wynikowego absolutu w anomalii „Elektra” nie doprowadziіo do niczego - anomalia odrzuca artefakt. \n\nMyњlк, їe nasza grupa wypracowaіa wspaniaіy wynik badaс nad transmutacj№ artefaktu „Bateria”. Tym samym uwaїam, їe projekt „Szarlatan” zostaі pomyњlnie zakoсczony. Peіne zapisy obserwacji zostaіy przesіane na serwer. \n\nKierownik grupy badawczej „7”, V.A. Awakjan
     </text>
 </string>
 
 <string id="amk_recipt_fake_text" >
-    <text>Для получения артефакта "Солнечный свет" необходимо поместить артефакт "Лунный свет" в аномалию "Жарка". По истечении примерно четырёх часов образуется модификат "Солнечный свет", обладающий следующими свойствами: сильное увеличение выносливости, уменьшение восприимчивости к высоким температурам, небольшое уменьшение восприимчивости к электрошоку. Побочным эффектом является то, что полученный артефакт излучает радиацию. Информация не проверена.
+    <text>Aby uzyskaж artefakt „Њwiatіo sіoneczne”, musisz umieњciж artefakt „Њwiatіo ksiкїyca” w anomalii „Smaїenie”. Po okoіo czterech godzinach powstaje modyfikacja „Њwiatіo sіoneczne”, ktуra ma nastкpuj№ce wіaњciwoњci: silny wzrost wytrzymaіoњci, spadek podatnoњci na wysokie temperatury, niewielki spadek podatnoњci na wstrz№sy elektryczne. Efektem ubocznym jest to, їe powstaіy artefakt emituje promieniowanie. Informacje nie zostaіy zweryfikowane.
     </text>
 </string>
 
 <string id="enc_amk_recipt_dikoobraz_text" >
-        <text>%c[255,227,114,12]"Дикобраз"%c[default] (модификат стойкости к радиации)\n\nАртефакт "Морской ёж" бросается в аномалию "Жарка".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный модификат имеет следующие характеристики:\n%c[255,0,255,0]радиация -65\n%c[255,0,255,0]выносливость -20\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 65%; вероятность вырождения: 20%; вероятность отторжения: 15%.
+        <text>%c[255,227,114,12]Jeїowiec%c[default] (modyfikacja odpornoњci na promieniowanie)\n\nArtefakt „Jeїowiec” zostaі wrzucony do anomalii „Smaїenie”.\n%c[255,243,174,29]Czas transmutacji to 5 minut w Zonie.\n%c[default]Wynikowy mod ma nastкpuj№ce statystyki:\n%c[255,0,255,0]promieniowanie -65\n%c[255,0,255,0]wytrzymaіoњж -20\n \n%c[255,255,128,128]Wskaџnik powodzenia transmutacji: 65%; prawdopodobieсstwo degeneracji: 20%; szansa na odrzucenie: 15%.
 </text>
     </string>
 
 
 <string id="enc_amk_recipt_electra_dikoobraz_text" >
-        <text>%c[255,227,114,12]"Электрический дикобраз"%c[default] (мезомодификат выносливости и стойкости к радиации)\n\nМодификат "Дикобраз" бросается в аномалию "Электра".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный мезомодификат имеет следующие характеристики:\n%c[255,0,255,0]радиация -63\n%c[255,0,255,0]выносливость +100\n%c[255,0,255,0]электрошок -10\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 72%; вероятность вырождения: 25%; вероятность отторжения: 3%.
+        <text>%c[255,227,114,12]Elektryczny Jeїowiec%c[default] (modyfikacja wytrzymaіoњci i odpornoњci na promieniowanie)\n\nModyfikacja Jeїowiec jest rzucany w anomaliк Elektry.\n%c[255,243,174,29]Czas transmutacji wynosi 5 minut w Zonie.\n%c[default]Wynikowy mod mezo ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Promieniowanie -63\n%c[255,0,255,0]Wytrzymaіoњж +100\n% c[255,0,255,0]Elektrowstrz№s -10\n\n%c[255,255,128,128]Wskaџnik powodzenia transmutacji: 72%; prawdopodobieсstwo degeneracji: 25%; wskaџnik odrzucenia: 3%.
 </text>
     </string>
 
 
 <string id="enc_amk_recipt_sopl_dikoobraz_text" >
-        <text>%c[255,227,114,12]"Сопливый дикобраз"%c[default] (гипермодификат выносливости, стойкости к радиации и кровотечению)\n\nМезомодификат "Электрический дикобраз" бросается в аномалию "Холодец".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный гипермодификат имеет следующие характеристики:\n%c[255,0,255,0]радиация %c[255,255,1,1]-55\n%c[255,0,255,0]выносливость %c[255,255,1,1]+90\n%c[255,0,255,0]электрошок %c[255,255,1,1]-7\n%c[255,0,255,0]кровотечение %c[255,255,1,1]-400\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 74%; вероятность вырождения: 10%; вероятность отторжения: 16%.%c[default]
+        <text>%c[255,227,114,12]Soplny Jeїowiec%c[default] (Hiper mod na wytrzymaіoњж, promieniowanie i odpornoњж na krwawienie)\n\nModyfikacja mezo „Elektrycznego Jeїowca” zostaіa rzucona na anomaliк „Galareta”.\n%c[255,243,174,29] Czas transmutacji to 5 minut w Zonie.\n%c[default]Wynikowy hipermod ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Promieniowanie %c[255,255,1,1]- 55\n%c[255,0,255.0]Wytrzymaіoњж %c[255,255,1,1]+90\n%c[255,0,255.0]Elektrowstrz№s %c[255,255,1,1]-7\n%c[255,0,255,0]Krwawienie %c[255,255,1,1]-400\n\n%c[255,255,128,128]Wskaџnik powodzenia transmutacji: 74%; prawdopodobieсstwo degeneracji: 10%; Wskaџnik odrzucenia: 16%.%c[default]
 </text>
     </string>
 
 
 <string id="enc_amk_recipt_stone_dikoobraz_text" >
-        <text>%c[255,227,114,12]"Каменный дикобраз"%c[default] (абсолют выносливости, стойкости к радиации, кровотечению и электрошоку)\n\nГипермодификат "Сопливый дикобраз" бросается в аномалию "Трамплин".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный абсолют имеет следующие характеристики:\n%c[255,0,255,0]радиация %c[255,255,1,1]-50\n%c[255,0,255,0]выносливость %c[255,255,1,1]+85\n%c[255,0,255,0]электрошок %c[255,255,1,1]+25\n%c[255,0,255,0]кровотечение %c[255,255,1,1]-350\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 70%; вероятность вырождения: 20%; вероятность отторжения: 10%.
+        <text>%c[255,227,114,12]Kamienny Jeїowiec%c[default] (bezwzglкdna wytrzymaіoњж, promieniowanie, krwawienie i odpornoњж na wstrz№sy)\n\nHipermodyfikacja „Soplny Jeїowiec” zostaіa rzucona w anomaliк „Trampolina”.\n%c[255,243,174,29]Czas transmutacji wynosi 5 minut w Zonie.\n%c[default]Wynik absolutny ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Promieniowanie %c[255,255,1,1] -50\n%c[ 255,0,255,0]Wytrzymaіoњж %c[255,255,1,1]+85\n%c[255,0,255,0]Elektrowstrz№s %c[255,255,1,1]+25\n %c[255,0,255, 0]Krwawienie %c[255,255,1,1]-350\n\n%c[255,255,128,128]Wskaџnik powodzenia transmutacji: 70%; prawdopodobieсstwo degeneracji: 20%; wskaџnik odrzucenia: 10%.
 </text>
     </string>
 
 
 <string id="enc_amk_recipt_steel_kolobok_text" >
-        <text>%c[255,227,114,12]"Стальной колобок"%c[default] (модификат пулестойкости и стойкости к разрыву)\n\nАртефакт "Колобок" бросается в аномалию "Трамплин".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный модификат имеет следующие характеристики:\n%c[255,0,255,0]разрыв %c[255,255,1,1]+5\n%c[255,0,255,0]пулестойкость %c[255,255,1,1]+5\n%c[255,0,255,0]радиация %c[255,255,1,1]+7\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 70%; вероятность вырождения: 25 %; вероятность отторжения: 5%.
+        <text>%c[255,227,114,12]Stalowy Kulebiak%c[default] (modyfikacja odpornoњci na kule i rozdarcie)\n\nArtefakt „Kulebiak” wrzucony do anomalii „Trampolina”.\n%c[255,243,174,29]Czas transmutacji to strefa 5 minut w Zonie.\n%c[default]Wynikowy mod ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Rozdarcie %c[255,255,1,1]+5\n%c[255, 0,255,0 ]Odpornoњж na kule %c[255,255,1,1]+5\n%c[255,0,255,0]Promieniowanie %c[255,255,1,1]+7\n\n%c[255,255,128,128]Transmutacja wskaџnik sukcesu: 70%; prawdopodobieсstwo degeneracji: 25%; wskaџnik odrzucenia: 5%.
 </text>
     </string>
 
 
 <string id="enc_amk_recipt_titan_kolobok_text" >
-        <text>%c[255,227,114,12]"Титановый колобок"%c[default] (мезомодификат пулестойкости, стойкости к разрыву и ожогу)\n\nМодификат "Стальной колобок" бросается в аномалию "Карусель".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный мезомодификат имеет следующие характеристики:\n%c[255,255,1,1]+7 %c[255,0,255,0]разрыв\n%c[255,255,1,1]+10 %c[255,0,255,0]пулестойкость\n%c[255,255,1,1]+15 %c[255,0,255,0]радиация\n%c[255,255,1,1]+25 %c[255,0,255,0]ожог\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 50%; вероятность вырождения: 35%; вероятность отторжения: 15%.
+        <text>%c[255,227,114,12]Tytanowy Kulebiak%c[default] (modyfikacja mezo kuloodporna, odpornoњж na rozerwanie i podpalenie)\n\nModyfikacja „Stalowego Kulebiaka” wrzucona do anomalii „Trampolina”.\n%c[255,243,174,29] Czas transmutacji to 5 minut w Zonie.\n%c[default]Wynikowy mod mezo ma nastкpuj№ce statystyki:\n%c[255,255,1,1]+7%c[255,0,255,0]Rozerwanie\ n%c[255,255, 1,1]+10 %c[255,0,255,0]Odpornoњж na kule\n%c[255,255,1,1]+15%c[255,0,255,0]Promieniowanie\n%c [255,255,1,1] +25%c[255,0,255,0]Opaїenie\n\n%c[255,255,128,128]Wspуіczynnik powodzenia transmutacji: 50%; prawdopodobieсstwo degeneracji: 35%; szansa na odrzucenie: 15%.
 </text>
     </string>
 
 
 <string id="enc_amk_recipt_almaz_kolobok_text" >
-        <text>%c[255,227,114,12]"Алмазный колобок"%c[default] (гипермодификат пулестойкости, стойкости к разрыву, ожогу и химическому ожогу)\n\nМезомодификат "Титановый колобок" бросается в аномалию "Холодец".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный гипермодификат имеет следующие характеристики:\n%c[255,0,255,0]разрыв %c[255,255,1,1]+6\n%c[255,0,255,0]пулестойкость %c[255,255,1,1]+8\n%c[255,0,255,0]радиация %c[255,255,1,1]+10\n%c[255,0,255,0]ожог %c[255,255,1,1]+25\n%c[255,0,255,0]химический ожог %c[255,255,1,1]+15\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 78%; вероятность вырождения: 17%; вероятность отторжения: 5%.
+        <text>%c[255,227,114,12]Diamentowy Kulebiak%c[default] (hiper-modyfikacja odpornoњci na kule, rozdarcie, oparzenia i oparzenia chemiczne)\n\nMezomodyfikator „Tytanowy Kulebiak” wrzucony do anomalii „Galareta”.\n%c[255,243,174,29]Czas transmutacji wynosi 5 minut w Zonie.\n%c[default]Wynikowy hipermod ma nastкpuj№ce statystyki:\n%c[255,0,255,0] pкkniкcie %c[255,255,1,1]+6\n%c [255,0,255,0]odpornoњж na kule %c[255,255,1,1]+8\n%c[255,0,255,0]promieniowanie %c[255,255,1,1]+10\n%c[255,0,255 ,0]oparzenie %c[255,255,1,1]+25\n%c[255,0,255,0]oparzenie chemiczne %c[255,255, 1,1]+15\n\n%c[255,255,128,128]Transmutacje szans powodzenia: 78%; prawdopodobieсstwo degeneracji: 17%; wskaџnik odrzucenia: 5%.
 </text>
     </string>
 
 
 <string id="enc_amk_recipt_soul_bengal_text" >
-        <text>%c[255,227,114,12]"Кристальная душа Бенгала"%c[default] (абсолют здоровья, выносливости и стойкости к радиации)\n\nГипермодификат "Кристальная душа" бросается в аномалию "Электра".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный абсолют имеет следующие характеристики:\n%c[255,0,255,0]здоровье %c[255,255,1,1]+600\n%c[255,0,255,0]радиация %c[255,255,1,1]-30\n%c[255,0,255,0]выносливость %c[255,255,1,1]+18\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 50%; вероятность вырождения: 30%; вероятность отторжения: 20%.
+        <text>%c[255,227,114,12]Krysztaіowa Dusza Bengalu%c[default] (bezwzglкdne zdrowie, wytrzymaіoњж i odpornoњж na promieniowanie)\n\nHipermodyfikacja „Krysztaіowa Dusza” wrzucona w anomaliк „Elektra”.\n%c[255,243,174,29]Czas transmutacji to 5 minut w Zonie.\n%c[default]Wynik ma nastкpuj№ce statystyki:\n%c[255,0,255,0]%cZdrowie[255,255,1,1 ]+600\n%c[255,0,255,0]Promieniowanie %c[255,255,1,1]-30\n%c[255,0,255,0]Wytrzymaіoњж %c[255,255,1,1]+18\ n\n%c[255,255,128,128]Prawdopodobieсstwo udanej transmutacji: 50%; prawdopodobieсstwo degeneracji: 30%; wskaџnik odrzucenia: 20%.
 </text>
     </string>
 <string id="enc_amk_recipt_soul_drops_text" >
-        <text>%c[255,227,114,12]"Капля души"%c[default] (модификат здоровья и стойкости к радиации)\n\nАртефакт "Душа" бросается в аномалию "Жарка".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный модификат имеет следующие характеристики:\n%c[255,0,255,0]здоровье %c[255,255,1,1]+600\n%c[255,0,255,0]радиация %c[255,255,1,1]-10\n%c[255,0,255,0]выносливость %c[255,255,1,1]-18\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 70%; вероятность вырождения: 25%; вероятность отторжения: 5%.
+        <text>%c[255,227,114,12]Kropla Duszy%c[default] (modyfikacja zdrowia i odpornoњci na promieniowanie)\n\nArtefakt „Dusza” wrzucony do anomalii „Smaїenie”.\n%c[255,243,174,29]Czas transmutacji wynosi 5 minut w Zonie.\n%c[default]Wynikowy mod ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Zdrowie %c[255,255,1,1]+600\n%c[255,0,255,0 ]Promieniowanie %c[255,255,1,1]-10\n%c[255,0,255,0]Wytrzymaіoњж %c[255,255,1,1]-18\n\n%c[255,255,128,128]Szansa na sukces transmutacji: 70 %; prawdopodobieсstwo degeneracji: 25%; wskaџnik odrzucenia: 5%.
 </text>
     </string>
-    
+
 <string id="enc_amk_recipt_soul_fire_text" >
-        <text>%c[255,227,114,12]"Огненная душа"%c[default] (мезомодификат здоровья и стойкости к радиации)\n\nМодификат "Капля души" бросается в аномалию "Жарка".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный мезомодификат имеет следующие характеристики:\n%c[255,0,255,0]здоровье %c[255,255,1,1]+600\n%c[255,0,255,0]радиация %c[255,255,1,1]-20\n%c[255,0,255,0]выносливость %c[255,255,1,1]-18\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 60%; вероятность вырождения: 20%; вероятность отторжения: 20%. 
+        <text>%c[255,227,114,12]Ognista Dusza%c[default] (Zdrowie i odpornoњж na promieniowanie Mezo Mod)\n\nMod „Kropla Dusza” wrzucona w Anomaliк „Smaїenie”.\n%c[255,243,174,29]Czas transmutacji wynosi 5 minut w Zonie.\n%c[default]Wynikowy mod mezo ma nastкpuj№ce statystyki:\n%c[255,0,255,0]%cZdrowie[255,255,1,1]+600\n%c[ 255,0,255,0]Promieniowanie %c[255,255,1,1]-20\n%c[255,0,255,0]Wytrzymaіoњж %c[255,255,1,1]-18\n\n%c[255,255,128,128] Szansa na sukces transmutacji: 60%; prawdopodobieсstwo degeneracji: 20%; wskaџnik odrzucenia: 20%.
 </text>
     </string>
 
 <string id="enc_amk_recipt_soul_cristal_text" >
-        <text>%c[255,227,114,12]"Кристальная душа"%c[default] (гипермодификат здоровья и стойкости к радиации)\n\nМезомодификат "Огненная душа" бросается в аномалию "Жарка".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный гипермодификат имеет следующие характеристики:\n%c[255,0,255,0]здоровье %c[255,255,1,1]+600\n%c[255,0,255,0]радиация %c[255,255,1,1]-30\n%c[255,0,255,0]выносливость %c[255,255,1,1]-18\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 50%; вероятность вырождения: 35%; вероятность отторжения: 15%.
+        <text>%c[255,227,114,12]Krysztaіowa Dusza%c[default] (hiper modyfikator do zdrowia i odpornoњci na promieniowanie)\n\nModyfikacja mezo „Ognista Dusza” wrzucona do anomalii „Smaїenie”.\n%c[255,243,174,29]Czas transmutacji to 5 minut w Zonie.\n%c[default]Wynikowy hipermod ma nastкpuj№ce statystyki:\n%c[255,0,255,0]%cZdrowie[255,255,1,1]+ 600\n%c[255,0,255,0]Promieniowanie %c[255,255,1,1]-30\n%c[255,0,255,0]Wytrzymaіoњж %c[255,255,1,1]-18\n\ n%c[255,255,128,128]Szansa na sukces transmutacji: 50%; prawdopodobieсstwo degeneracji: 35%; szansa na odrzucenie: 15%.
 </text>
     </string>
-    
+
 
 <string id="enc_amk_recipt_tears_electra_text" >
-        <text>%c[255,227,114,12]"Слёзы "Электры"%c[default] (модификат стойкости к радиации и выносливости)\n\nАртефакт "Капля" бросается в аномалию "Электра".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Модификат имеет следующие характеристики:\n%c[255,0,255,0]радиация %c[255,255,1,1]-10\n%c[255,0,255,0]выносливость %c[255,255,1,1]+18\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 75%; вероятность вырождения: 10%; вероятность отторжения: 15%.
+        <text>%c[255,227,114,12]Јzy Elektry%c[default] (modyfikacja Odpornoњж na promieniowanie i Wytrzymaіoњж)\n\nArtefakt „Јza” rzucony na anomaliк „Elektra”.\n%c[255,243,174,29]Czas transmutacji wynosi 5 minut w Zonie.\n%c[default]Mod ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Promieniowanie %c[255,255,1,1]-10\n%c[255,0,255,0]Wytrzymaіoњж %c[255,255,1,1]+18\n\n%c[255,255,128,128]Wspуіczynnik powodzenia transmutacji: 75%, Wspуіczynnik degeneracji: 10%, Wspуіczynnik odrzucenia: 15%.
 </text>
     </string>
 
 
 <string id="enc_amk_recipt_tears_fire_text" >
-        <text>%c[255,227,114,12]"Слёзы огня"%c[default] (мезомодификат стойкости к радиации)\n\nМодификат "Слёзы "Электры"" бросается в аномалию "Жарка".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Мезомодификат имеет следующие характеристики:\n%c[255,0,255,0]радиация %c[255,255,1,1]-30\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 65%; вероятность вырождения: 20%; вероятность отторжения: 15%.
+        <text>%c[255,227,114,12]Јzy Ognia%c[default] (Mod Mezo Odpornoњж na Promieniowanie)\n\n„Јzy Elektry” rzucone w Anomaliк „Smaїenie”.\n%c[255,243,174,29]Czas transmutacji wynosi 5 minut w Zonie.\n%c[default]Mod mezo ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Promieniowanie %c[255,255,1,1]-30\n\n%c[255,255,128,128]Prawdopodobieсstwo udanej transmutacji: 65%; prawdopodobieсstwo degeneracji: 20%; szansa na odrzucenie: 15%.
 </text>
     </string>
 
 
 <string id="enc_amk_recipt_tears_chimaera_text" >
-        <text>%c[255,227,114,12]"Слёзы химеры"%c[default] (гипермодификат пси-защиты и стойкости к радиации)\n\nМезомодификат "Слёзы огня" бросается в аномалию "Холодец".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный гипермодификат имеет следующие характеристики:\n%c[255,0,255,0]радиация %c[255,255,1,1]-40\n%c[255,0,255,0]телепатия %c[255,255,1,1]+45\n%c[255,0,255,0]кровотечение %c[255,255,1,1]+140\n%c[255,0,255,0]здоровье %c[255,255,1,1]-150\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 55%; вероятность вырождения: 25%; вероятность отторжения: 20%.
+        <text>%c[255,227,114,12]Јzy Chimery%c[default] (hiper-zmodyfikowana ochrona przed psioniczn№ i odpornoњж na promieniowanie)\n\nMezo-modyfikator „Јzy Ognia” wrzucony do anomalii „Galareta”. \n%c[255,243,174,29] Czas transmutacji to 5 minut w Zonie.\n%c[default]Wynikowy hipermod ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Promieniowanie %c[255,255,1,1]-40\n%c[255, 0,255,0]Telepatia %c[255,255,1,1]+45\n%c[255,0,255,0]Krwawienie %c[255,255,1,1 ]+140\n%c[255,0,255,0]Zdrowie %c[255,255,1,1]-150\n\n%c[255,255,128,128]Wspуіczynnik powodzenia transmutacji: 55%; prawdopodobieсstwo degeneracji: 25%; wskaџnik odrzucenia: 20%.
 </text>
     </string>
 
 
 <string id="enc_amk_recipt_grandmother_glassbeards_text" >
-        <text>%c[255,227,114,12]"Бабкины бусы"%c[default] (модификат пулестойкости и выносливости)\n\nАртефакт "Мамины бусы" бросается в аномалию "Электра".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный модификат имеет следующие характеристики:\n%c[255,0,255,0]пулестойкость %c[255,255,1,1]+5\n%c[255,0,255,0]выносливость %c[255,255,1,1]+250\n%c[255,0,255,0]радиация %c[255,255,1,1]+5\n%c[255,0,255,0]электрошок %c[255,255,1,1]15\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 85%; вероятность вырождения: 10%; вероятность отторжения: 5%.
+        <text>%c[255,227,114,12]Koraliki Babci%c[default] (modyfikacja odpornoњci na kule i wytrzymaіoњci)\n\nArtefakt „Koraliki Matki” rzucony w anomaliк „Elektra”.\n%c[255,243,174,29]Transmutacja czas to 5 minut w Zonie.\n%c[default]Wynikowy mod ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Kuloodpornoњж %c[255,255,1,1]+5\n%c[255,0,255,0] Wytrzymaіoњж %c[255,255,1,1]+250\n%c[255,0,255,0]Promieniowanie %c[255,255,1,1]+5\n%c[255, 0,255,0]Poraїenie pr№dem %c[ 255,255,1,1]15\n\n%c[255,255,128,128]Wskaџnik powodzenia transmutacji: 85%; prawdopodobieсstwo degeneracji: 10%; wskaџnik odrzucenia: 5%.
 </text>
     </string>
 
 
 <string id="enc_amk_recipt_pra_grandmother_glassbeards_text" >
-        <text>%c[255,227,114,12]"Бусы прабабки"%c[default] (мезомодификат пулестойкости, выносливости и стойкости к кровотечению)\n\nМезомодификат "Бабкины бусы" кидается в аномалию "Холодец".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный мезомодификат имеет следующие характеристики:\n%c[255,0,255,0]пулестойкость %c[255,255,1,1]+3\n%c[255,0,255,0]здоровье %c[255,255,1,1]+150\n%c[255,0,255,0]радиация %c[255,255,1,1]+7\n%c[255,0,255,0]кровотечение %c[255,255,1,1]-380\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 72%; вероятность вырождения: 12%; вероятность отторжения: 16%.
+        <text>%c[255,227,114,12]Koraliki Prababci%c[default] (Mezo-modyfikator Kuloodpornoњci, Wytrzymaіoњci i Odpornoњci na Krwawienie)\n\nMezo-modyfikator „Koraliki Babci” wrzucony w anomaliк „Galareta”. \n%c[255,243,174,29] Czas transmutacji to 5 minut w Zonie.\n%c[default]Wynikowy mod mezo ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Kuloodpornoњж %c[255,255,1,1]+3\n%c[255,0,255,0]Zdrowie %c[255,255,1,1]+150\n%c[255,0,255,0]Promieniowanie %c[255,255,1 ,1]+7\n%c[255,0,255,0]Krwawienie %c[255,255,1,1]-380\n\n%c[255,255,128,128]Wspуіczynnik powodzenia transmutacji: 72%; prawdopodobieсstwo degeneracji: 12%; wskaџnik odrzucenia: 16%.
 </text>
     </string>
 
 <string id="enc_amk_recipt_burer_grandmother_glassbeards_text" >
-        <text>%c[255,227,114,12]"Бусы бабки бюрера"%c[default] (гипермодификат пулестойкости, здоровья и стойкости к кровотечению)\n\nМезомодификат "Бусы прабабки" кидается в аномалию "Карусель".\n%c[255,243,174,29]Время трансмутации составляет 10 минут Зоны.\n%c[default]Полученный гипермодификат имеет следующие характеристики:\n%c[255,0,255,0]пулестойкость %c[255,255,1,1]+20\n%c[255,0,255,0]кровотечение %c[255,255,1,1]-450\n%c[255,0,255,0]здоровье %c[255,255,1,1]+200\n%c[255,0,255,0]радиация %c[255,255,1,1]+10\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 85%; вероятность вырождения: 10%; вероятность отторжения: 5%. </text>
+        <text>%c[255,227,114,12]Koraliki Babci Burera%c[default] (Hiper modyfikacja odpornoњci na kule, zdrowie i krwawienie)\n\nModyfikacja mezo „Koraliki Prababci” wrzucona do anomalii „Karuzela”.\n %c[255,243,174,29]Czas transmutacji to 10 minut w Zonie.\n%c[default]Wynikowy hipermod ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Kuloodpornoњж %c[255,255, 1,1]+20\n%c[255,0,255.0]Krwawienie %c[255,255,1,1]-450\n%c[255,0,255.0]Zdrowie %c[255,255,1,1]+200\n %c[255,0,255.0]Promieniowanie %c[255,255,1,1]+10\n\n%c[255,255,128,128]Wskaџnik powodzenia transmutacji: 85%; prawdopodobieсstwo degeneracji: 10%; wskaџnik odrzucenia: 5%.</text>
     </string>
 
 
 <string id="enc_amk_recipt_giant_small_brother_text" >
-        <text>%c[255,227,114,12]"Младший брат Гиганта"%c[default] (абсолют пулестойкости, устойчивости к голоду, стойкости к разрыву, ожогу, химическому ожогу и радиации)\n\nГипермодификат "Алмазный колобок" бросается в аномалию "Жарка".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный абсолют имеет следующие характеристики:\n%c[255,0,255,0]разрыв %c[255,255,1,1]+12\n%c[255,0,255,0]пулестойкость %c[255,255,1,1]+10\n%c[255,0,255,0]радиация %c[255,255,1,1]-15\n%c[255,0,255,0]ожог %c[255,255,1,1]+25\n%c[255,0,255,0]голод %c[255,255,1,1]-45\n%c[255,0,255,0]химический ожог %c[255,255,1,1]+20\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 59%; вероятность вырождения: 20%; вероятность отторжения: 21%.</text>
+        <text>%c[255,227,114,12]Mіodszy Brat Giganta%c[default] (najwyїsza odpornoњж na kule, odpornoњж na gіуd, odpornoњж na rozdarcie, odpornoњж na oparzenia, odpornoњж na oparzenia chemiczne i odpornoњж na promieniowanie)\n\nHypermod „Diamentowy Kulebiak” wrzucony do anomalii „Smaїenie”.\n%c[255,243,174,29]Czas transmutacji wynosi 5 minut w Zonie.\n%c[default]Wynikowy wynik ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Rozerwanie %c[255,255,1,1]+12\n%c[255,0,255,0]Kuloodpornoњж %c[255,255,1,1]+10\n%c[255,0,255,0]Promieniowanie %c[255,255,1,1]-15\ n%c[255,0,255,0]Oparzenie %c[255,255,1,1]+25\n%c[255,0,255,0]Gіуd %c[ 255,255,1,1]-45\n%c[ 255,0,255,0]Oparzenie chemiczne %c[255,255,1,1]+20\n\n%c[255,255,128,128]Wskaџnik powodzenia transmutacji: 59%; prawdopodobieсstwo degeneracji: 20%; wskaџnik odrzucenia: 21%.</text>
     </string>
 
 
 <string id="enc_amk_recipt_shkura_text" >
-        <text>%c[255,227,114,12]"Шкура"%c[default] (модификат пулестойкости и стойкости к химическому ожогу)\n\nАртефакт "Плёнка" бросается в аномалию "Трамплин".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный модификат имеет следующие характеристики:\n%c[255,0,255,0]химический ожог %c[255,255,1,1]+35\n%c[255,0,255,0]пулестойкость %c[255,255,1,1]+7\n%c[255,0,255,0]радиация %c[255,255,1,1]+3\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 70%; вероятность вырождения: 25 %; вероятность отторжения: 5%.
+        <text>%c[255,227,114,12]Skуra%c[default] (modyfikacja odpornoњci na kule i oparzenia chemiczne)\n\nArtefakt „Bіona” wrzucony w anomaliк „Trampolina”.\n%c[255,243,174,29]Czas transmutacji to 5 minut w Zonie.\n%c[default]Wynikowy mod ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Oparzenie chemiczne %c[255,255,1,1]+35\n %c[255,0,255, 0]Kuloodpornoњж %c[255,255,1,1]+7\n%c[255,0,255,0]Promieniowanie %c[255,255,1,1]+3\n\n%c[255,255,128,128]Wskaџnik sukcesu transmutacji: 70%; prawdopodobieсstwo degeneracji: 25%; wskaџnik odrzucenia: 5%.
 </text>
     </string>
 
 
 <string id="enc_amk_recipt_cheshya_text" >
-        <text>%c[255,227,114,12]"Чешуя"%c[default] (мезомодификат здоровья, пулестойкости и стойкости к химическому ожогу)\n\nМодификат "Шкура" бросается в аномалию "Карусель".\n%c[255,243,174,29]Время трансмутации составляет 5 минут. Полученный мезомодификат имеет следующие характеристики:\n%c[255,0,255,0]химический ожог %c[255,255,1,1]+42\n%c[255,0,255,0]пулестойкость %c[255,255,1,1]+7\n%c[255,0,255,0]радиация %c[255,255,1,1]+5\n%c[255,0,255,0]здоровье %c[255,255,1,1]+150\n%c[255,0,255,0]кровотечение %c[255,255,1,1]+100\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 80%; вероятность вырождения: 10%; вероятность отторжения: 10%.</text>
+        <text>%c[255,227,114,12]Јuska%c[default] (Modyfikator mezo zdrowia, odpornoњci na kule i odpornoњci na oparzenia chemiczne)\n\nModyfikator „Skуra” wrzucony do anomalii „Karuzela”.\n%c[255,243,174,29]Transmutacja czasu to 5 minut. Otrzymany modyfikator mezo ma nastкpuj№c№ charakterystykк:\n%c[255,0,255,0]Oparzenie chemiczne %c[255,255,1,1]+42\n%c[255,0,255,0]Kuloodpornoњж %c[255,255,1,1]+7\n%c[255,0,255,0]Promieniowanie %c[255,255,1,1]+5\n%c[255,0,255,0]Zdrowie %c[255,255,1,1]+150\ n%c[255,0,255,0]Krwawienie %c[255,255,1,1]+100\n\n%c[255,255,128,128]Wspуіczynnik powodzenia transmutacji: 80%; prawdopodobieсstwo degeneracji: 10%; wskaџnik odrzucenia: 10%.</text>
     </string>
 
 
 <string id="enc_amk_recipt_pancir_text" >
-        <text>%c[255,227,114,12]"Панцирь"%c[default] (гипермодификат здоровья, пулестойкости, стойкости к химическому ожогу и кровотечению)\n\nМезомодификат "Чешуя" бросается в аномалию "Холодец".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный гипермодификат имеет следующие характеристики:\n%c[255,0,255,0]химический ожог %c[255,255,1,1]+45\n%c[255,0,255,0]пулестойкость %c[255,255,1,1]+10\n%c[255,0,255,0]здоровье %c[255,255,1,1]+50\n%c[255,0,255,0]радиация %c[255,255,1,1]+2\n%c[255,0,255,0]кровотечение %c[255,255,1,1]-130\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 70%; вероятность вырождения: 20%; вероятность отторжения: 10%.
+        <text>%c[255,227,114,12]Pancerz%c[default] (hiper modyfikator zdrowia, odpornoњж na kule, oparzenia chemiczne i odpornoњж na krwawienie)\n\nModyfikator mezo „Јuska” wrzucony do anomalii „Galareta”.\n %c[255,243,174,29]Czas transmutacji wynosi 5 minut w Zonie.\n%c[default]Wynikowy hipermod ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Oparzenie chemiczne %c[255,255,1,1]+45\n%c[255,0,255,0]Kuloodpornoњж %c[255,255,1,1]+10\n%c[255,0,255,0]Zdrowie %c[255,255,1,1]+50\n%c[255,0,255,0]Promieniowanie %c[255,255,1,1]+2\n%c[255,0,255,0]Krwawienie %c[255,255,1,1]-130\ n\n%c[255,255,128,128]Szansa na sukces transmutacji: 70%; prawdopodobieсstwo degeneracji: 20%; wskaџnik odrzucenia: 10%.
 </text>
     </string>
 
 
 <string id="enc_amk_recipt_simbion_text" >
-        <text>%c[255,227,114,12]"Симбион"%c[default] (модификат пси-защиты)\n\nУникальный модификат "Симбион" получается путём совместной трансмутации в аномалии "Холодец" сразу четырёх артефактов: "Медуза", "Капля", "Кровь камня" и "Колючка".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный модификат имеет следующие характеристики:\n%c[255,0,255,0]телепатия %c[255,255,1,1]+50\n%c[255,0,255,0]кровотечение %c[255,255,1,1]+50\n%c[255,0,255,0]разрыв %c[255,255,1,1]-25\n%c[255,0,255,0]выносливость %c[255,255,1,1]-20\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 70%; вероятность вырождения: 20%; вероятность отторжения: 10%. 
+        <text>%c[255,227,114,12]Symbion\n%c[255,243,174,29]Czas transmutacji to 5 minut w Zonie.\n%c[default]Wynikowa modyfikacja ma nastкpuj№ce statystyki:\n%c[255,0,255,0] Telepatia %c[255,255,1,1]+50\n%c[255,0,255,0]Krwawienie %c[255,255,1,1]+50\n%c[255,0,255,0]Rozdarcie %c[255,255,1,1]-25\n%c[255,0,255,0]Wytrzymaіoњж %c[255,255,1,1]-20\n\n%c[255,255,128,128]Wskaџnik sukcesu transmutacji: 70%; prawdopodobieсstwo degeneracji: 20%; wskaџnik odrzucenia: 10%.
 </text>
     </string>
 
 
 <string id="enc_amk_recipt_dummy_puding_text" >
-        <text>%c[255,227,114,12]"Пудинг"%c[default] (абсолют выносливости, стойкости к ожогу и электрошоку)\n\n"Лунная пустышка" бросается в аномалию "Холодец"\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный абсолют имеет следующие характеристики:\n%c[255,0,255,0]ожог %c[255,255,1,1]+45\n%c[255,0,255,0]выносливость %c[255,255,1,1]-20\n%c[255,0,255,0]электрошок %c[255,255,1,1]+50\n%c[255,0,255,0]радиация %c[255,255,1,1]+2\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 80%; вероятность вырождения: 10%; вероятность отторжения: 10%.</text>
+        <text>%c[255,227,114,12]Budyс"%c[default] (bezwzglкdna wytrzymaіoњж, odpornoњж na oparzenia i poraїenie pr№dem))\n\nArtefakt „Ksiкїycowa Bateria” wrzucony do anomalii „Galareta”\n%c[255,243,174,29]Czas transmutacji to 5 minut w Zonie\n%c[default]Powstaіy absolut ma nastкpuj№ce cechy:\n%c[255,0,255,0]Oparzenie %c[255,255,1,1]+45\n%c[255,0,255,0]Wytrzymaіoњж %c[255,255,1,1]-20\n%c[255,0,255,0]Elektrowstrz№s %c[255,255,1,1]+50\n%c[255,0,255,0]Promieniowanie %c[255,255,1,1]+2\n\n%c[255,255,128,128]Szansa na udan№ transmutacjк: 80%; prawdopodobieсstwo degeneracji: 10%; wskaџnik odrzucenia: 10%.</text>
     </string>
 <string id="enc_amk_recipt_dummy_fire_text" >
-        <text>%c[255,227,114,12]"Огненная пустышка"%c[default] (модификат выносливости и стойкости к ожогу)\n\nАртефакт "Пустышка" кидается в аномалию "Электра".%c[255,243,174,29] Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный модификат имеет следующие характеристики:\n%c[255,0,255,0]ожог %c[255,255,1,1]+30\n%c[255,0,255,0]выносливость %c[255,255,1,1]+36\n%c[255,0,255,0]электрошок %c[255,255,1,1]-10\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 70%; вероятность вырождения: 25 %; вероятность отторжения: 5%.</text>
+        <text>%c[255,227,114,12]Ognista Bateria %c[default] (modyfikacja wytrzymaіoњci i odpornoњci na podpalenia)\n\nArtefakt „Bateria” wrzucony w anomaliк „Elektra”.%c[255,243,174,29] Czas transmutacji wynosi 5 minut w Zonie.\n%c[default]Wynikowy mod ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Oparzenie %c[255,255,1,1]+30\n%c[255,0,255,0 ]Wytrzymaіoњж %c[255,255,1,1]+36\n%c[255,0,255,0]Elektrowstrz№s %c[255,255,1,1]-10\n\n%c[255,255,128,128] Prawdopodobieсstwo degeneracji: 25%; wskaџnik odrzucenia: 5%.</text>
     </string>
 <string id="enc_amk_recipt_dummy_bright_text" >
-        <text>%c[255,227,114,12]"Яркая пустышка"%c[default] (мезомодификат выносливости и стойкости к ожогу)\n\nМодификат "Огненная пустышка" кидается в аномалию "Электра".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный мезомодификат имеет следующие характеристики:\n%c[255,0,255,0]ожог %c[255,255,1,1]+30\n%c[255,0,255,0]выносливость %c[255,255,1,1]+73\n%c[255,0,255,0]электрошок %c[255,255,1,1]-15\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 59%; вероятность вырождения: 20%; вероятность отторжения: 21%.</text>
+        <text>%c[255,227,114,12]Jasna Bateria%c[default] (modyfikator Mezo wytrzymaіoњci i odpornoњci na podpalenie)\n\nModyfikacja „Ognista Bateria” wrzucona w anomaliк „Elektra”.\n%c[255,243,174,29]Czas transmutacji to 5 minut Strefy.\n%c[default]Wynikowy mod mezo ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Opaїenie %c[255,255,1,1]+30\n %c[255,0,255,0]Wytrzymaіoњж %c[255,255,1,1]+73\n%c[255,0,255,0]Elektrowstrz№s %c[255,255,1,1]-15\n\n%c[255,255,128,128]Szansa na sukces transmutacji: 59%; prawdopodobieсstwo degeneracji: 20%; wskaџnik odrzucenia: 21%.</text>
     </string>
 <string id="enc_amk_recipt_dummy_moon_text" >
-        <text>%c[255,227,114,12]"Лунная пустышка"%c[default] (гипермодификат выносливости и стойкости к ожогу)\n\nМезомодификат "Яркая пустышка" кидается в аномалию "Электра".\n%c[255,243,174,29]Время трансмутации составляет 5 мигут Зоны.\n%c[default]Полученный гипермодификат имеет следующие характеристики:\n%c[255,0,255,0]ожог %c[255,255,1,1]+30\n%c[255,0,255,0]выносливость %c[255,255,1,1]+109\n%c[255,0,255,0]электрошок %c[255,255,1,1]-20\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 50%; вероятность вырождения: 35%; вероятность отторжения: 15%.</text>
+        <text>%c[255,227,114,12]Ksiкїycowa Bateria%c[default] (Hyper mod na wytrzymaіoњж i odpornoњж na podpalenie)\n\nMod mezo „Jasna Bateria” wrzucony w anomaliк „Elektra”.\n%c[255,243,174,29]Czas transmutacji to 5 minut w Zonie.\n%c[default]Wynikowy hipermod ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Oparzenie %c[255,255,1,1]+30\n%c[255,0,255,0]Wytrzymaіoњж %c[255,255,1,1]+109\n%c[255,0,255,0]Elektrowstrz№s %c[255,255,1,1]-20\n\n%c[255,255,128,128] Szansa na sukces transmutacji: 50%; prawdopodobieсstwo degeneracji: 35%; szansa na odrzucenie: 15%.</text>
     </string>
 
 <string id="enc_amk_recipt_controller_skalp_text" >
-        <text>%c[255,227,114,12]"Скальп контролёра"%c[default] (абсолют пси-защиты, здоровья, устойчивости к голоду, стойкости к химическому ожогу и радиации)\n\nГипермодификат "Панцирь" бросается в аномалию "Жарка".\n%c[255,243,174,29]Время трансмутации составляет 5 минут Зоны.\n%c[default]Полученный абсолют имеет следующие характеристики:\n%c[255,0,255,0]химический ожог %c[255,255,1,1]+30\n%c[255,0,255,0]пулестойкость %c[255,255,1,1]+10\n%c[255,0,255,0]голод\n%c[255,0,255,0]здоровье %c[255,255,1,1]+100\n%c[255,0,255,0]телепатия %c[255,255,1,1]+75\n\n%c[255,255,128,128]Вероятность удачной трансмутации: 65%; вероятность вырождения: 20%; вероятность отторжения: 15%.
+        <text>%c[255,227,114,12]"Skalp Kontrolera%c[default] (bezwzglкdna obrona psi, zdrowie, odpornoњж na gіуd, odpornoњж na oparzenia chemiczne i odpornoњж na promieniowanie)\n\nHypermod Karapaks zostaje wrzucony do anomalii Frying.\ n %c[255,243,174,29]Czas transmutacji wynosi 5 minut w Strefie.\n%c[domyњlnie]Wynik ma nastкpuj№ce statystyki:\n%c[255,0,255,0]Oparzenie chemiczne %c[255,255,1,1] +30\n%c[255,0,255,0]Kuloodpornoњж %c[255,255,1,1]+10\n%c[255,0,255,0]Gіуd\n%c[255,0,255,0]% Zdrowie %c[255,255,1,1]+100\n%c[255,0,255,0]Telepatia %c[255,255,1,1]+75\n\n%c[255,255,128,128]Wskaџnik sukcesu transmutacji: 65%; prawdopodobieсstwo degeneracji: 20%; szansa na odrzucenie: 15%.
 </text>
   </string>
-	
+
   <string id="blowout_not_sleep">
-		<text>Выброс - не время для сна!</text>
+		<text>Emisja - nie czas na sen!</text>
 	</string>
   <string id="not_need_sleep">
-		<text>Вы не хотите спать.</text>
+		<text>Nie czujesz siк senny.</text>
 	</string>
   <string id="not_need_sleep_nrg">
-		<text>Вы не может спать из-за действия энергетика</text>
+		<text>Nie moїesz spaж z powodu dziaіania napoju energetycznego</text>
 	</string>
   <string id="not_need_sleep_enemy">
-		<text>Какой сон?! Враги рядом!</text>
+		<text>Jaki sen?! Wrogowie s№ blisko!</text>
 	</string>
-	
+
   <string id="trans_finished_title">
-		<text>Результат трансмутации артефакта - </text>
+		<text>Wynik transmutacji artefaktu - </text>
 	</string>
   <string id="trans_finished_msg">
-		<text>Результат трансмутации артефакта - </text>
+		<text>Wynik transmutacji artefaktu - </text>
 	</string>
-	
+
   <string id="stalker_died">
-		<text>Погиб сталкер:</text>
+		<text>Zabity Stalker:</text>
 	</string>
-	
+
   <string id="alc_too_much_die">
-		<text>Уфф... Многовато выпил. Помереть теперь только!</text>
+		<text>Uff... wypiіem za duїo. Po prostu umrк teraz!</text>
 	</string>
   <string id="alc_too_much">
-		<text>Что-то перепил я малость...</text>
+		<text>Trochк coњ wypiіem...</text>
 	</string>
   <string id="alc_todo_alcoholic">
-		<text>Ну вот, допился до алкоголизма</text>
+		<text>Oj, czujк siк pijany.</text>
 	</string>
   <string id="alc_need_drink">
-		<text>Уф... Выпить бы малость...</text>
+		<text>Uff... Chciaіabym siк trochк napiж...</text>
 	</string>
   <string id="alc_need_drink_big">
-		<text>Уф... Совсем хреново! Водки бы выпить!</text>
+		<text>Wow... waliж to wszystko! Trzba wypiж gorzaік!</text>
 	</string>
   <string id="alc_coded">
-		<text>Наконец-то закодировался...</text>
+		<text>Wreszcie zakodowane...</text>
 	</string>
   <string id="alc_no_more_need">
-		<text>Немного отвык от водяры... Главное продержаться теперь ещё недельку-другую...</text>
+		<text>Trochк straciіem nawyk picia wуdy... Najwaїniejsze, aby wytrzymaж teraz przez kolejny tydzieс lub dwa...</text>
 	</string>
-	
+
   <string id="amk_warn_trans">
-		<text>ВНИМАНИЕ!!! Переполнение буфера! Данные о трансмутациях не сохранены! Дождитесь окончания трансмутаций и повторите сохранение.</text>
+		<text>UWAGA!!! Przepeіnienie bufora! Dane transmutacji nie zostaіy zapisane! Zaczekaj do koсca transmutacji i powtуrz zapis.</text>
 	</string>
   <string id="amk_warn_trans_critical">
-		<text>ВНИМАНИЕ!!! Переполнение буфера! Начатые трансмутации не будут завершены. Рекомендуется загрузить предыдущее сохранение.</text>
+		<text>UWAGA!!! Przepeіnienie bufora! Rozpoczкte transmutacje nie zostan№ zakoсczone. Zalecane jest wczytanie poprzedniego zapisu.</text>
 	</string>
   <string id="amk_warn_attention">
-		<text>Внимание! Количество сохраняемых данных скоро превысит допустимый предел! Выполните все невыполненные задания. Дождитесь окончания всех трансмутаций. Не берите новые задания. Не начинайте новые трансмутации.</text>
+		<text>Uwaga! Iloњж przechowywanych danych wkrуtce przekroczy dopuszczalny limit! Wykonaj wszystkie zalegіe zadania. Poczekaj na koniec wszystkich transmutacji. Nie przyjmuj nowych zleceс. Nie rozpoczynaj nowych transmutacji.</text>
 	</string>
-	
+
   <string id="amk_sleep_title">
-		<text>Сон</text>
+		<text>Њpij</text>
 	</string>
   <string id="amk_sleep_one_hour">
-		<text>Спать 3 часа</text>
+		<text>Њpij 3 godz</text>
 	</string>
   <string id="amk_sleep_three_hours">
-		<text>Спать 5 часов</text>
+		<text>Њpij 5 godz</text>
 	</string>
   <string id="amk_sleep_five_hours">
-		<text>Спать 8 часов</text>
+		<text>Њpij 8 godz</text>
 	</string>
   <string id="amk_sleep_until_full_health">
-		<text>Спать до выздоровления</text>
+		<text>Њpij wyzdrowienia</text>
 	</string>
 
   <string id="amk_dots_title">
-		<text>Введите текст метки</text>
+		<text>Wpisz tekst znacznika</text>
 	</string>
   <string id="amk_dots_done">
-		<text>Поставить</text>
+		<text>Postaw znacznik</text>
 	</string>
-	
+
   <string id="amk_welcome_title">
 		<text>.</text>
 	</string>
   <string id="amk_welcome_msg">
 		<text>.</text>
 	</string>
-	
+
 		<string id="rep_no_weapon_in_slot_1">
-		<text>В первом слоте нет оружия</text>
+		<text>W pierwszym slocie nie ma broni</text>
 	</string>
-	
+
 	<string id="rep_no_weapon_in_slot_2">
-		<text>Во втором слоте нет оружия</text>
+		<text>W drugim slocie nie ma broni</text>
 	</string>
 
 	<string id="rep_no_weapon_in_slot_6">
-		<text>Сначала наденьте костюм</text>
+		<text>Najpierw zaіуї ubranie</text>
 	</string>
-	
+
 	<string id="rep_not_need_1">
-		<text>Оружие в первом слоте не нуждается в чистке или ремонте</text>
+		<text>Broс w pierwszym slocie nie wymaga czyszczenia ani naprawy.</text>
 	</string>
-	
+
 	<string id="rep_not_need_2">
-		<text>Оружие во втором слоте не нуждается в чистке или ремонте</text>
+		<text>Broс w drugim slocie nie wymaga czyszczenia ani naprawy.</text>
 	</string>
 
 	<string id="rep_not_need_6">
-		<text>Надетый на вас костюм не нуждается в ремонте</text>
+		<text>Ubranie ktуre nosisz nie wymaga naprawy</text>
 	</string>
-	
+
 	<string id="rep_watched_weapon_6">
-		<text>На ремонт костюма требуется некоторое время.</text>
+		<text>Naprawa ubrania zajmuje trochк czasu.</text>
 	</string>
-	
+
 	<string id="rep_watched_weapon_1">
-		<text>На чистку и ремонт оружия требуется некоторое время.</text>
+		<text>Czyszczenie i naprawa broni zajmuje trochк czasu.</text>
 	</string>
-	
+
 	<string id="rep_watched_weapon_2">
-		<text>На чистку и ремонт оружия требуется некоторое время.</text>
+		<text>Czyszczenie i naprawa broni zajmuje trochк czasu.</text>
 	</string>
-	
+
 	<string id="rep_need_big">
-		<text>%c[255,255,128,128]Необходим серьёзный ремонт.\n%c[default]Обратитесь в ближайшую мастерскую.</text>
+		<text>%c[255,255,128,128]Wymagana powaїna naprawa.\n%c[default]Skontaktuj siк z najbliїszym warsztatem.</text>
 	</string>
-	  
+
 	<string id="st_time_repbox">
-	    <text>Время до окончания ремонта</text>
+	    <text>Czas do zakoсczenia naprawy</text>
 	</string>
-	
+
 </string_table>

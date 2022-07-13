@@ -1,89 +1,89 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 <!--********************************-->
 <!-- Sidorovich miniquest dialog start -->
 <!--********************************-->
 	<string id="escape_trader_miniquest_0">
-		<text>Слушай, ты говорил, что для меня что-то оставляли, так?</text>
+		<text>Sіuchaj, powiedziaіeњ, їe coњ dla mnie zostawiіeњ, prawda?</text>
 	</string>
 	<string id="escape_trader_miniquest_1">
-		<text>А... Да, есть для тебя свёрточек.</text>
+		<text>Ach... Tak, jest dla Ciebie pakunek.</text>
 	</string>
 	<string id="escape_trader_miniquest_2">
-		<text>Вот и замечательно. Давай его сюда.</text>
+		<text>Wspaniale. Daj to tutaj.</text>
 	</string>
 	<string id="escape_trader_miniquest_3">
-		<text>Свёрточек твой, конечно. Я ни на что не претендую, не подумай. Только я его хранил у себя, верно? Надёжно, между прочим. А вдруг там гадость какая вредная? У меня, сам понимаешь, и так здоровья мало осталось...\nКороче, я считаю, что сотня рублей мне за хранение - справедливая цена. Согласен?</text>
+		<text>Oczywiњcie Twoja pakunek. Bez dwуch zdaс lecz pamiкtaj. Їe to ja go przechowaіem, prawda? Nawiasem mуwi№c - solidnie. A jeњli s№ tam jakieњ zіe rzeczy? Wiesz, niewiele mi zostaіo zdrowia...\nW skrуcie, uwaїam, їe sto rubli za przechowywanie to uczciwa cena. Zgadzamy siк?</text>
 	</string>
 	<string id="escape_trader_miniquest_5">
-		<text>Ну и жадный же ты! Держи, жмот, 'за хранение'.</text>
+		<text>Cуї, jesteњ chciwy! Trzymaj, sk№pcu „od przechowywania”.</text>
 	</string>
 	<string id="escape_trader_miniquest_6">
-		<text>Все справедливо. Держи.</text>
+		<text>Wszystko sprawiedliwie. Trzymaj.</text>
 	</string>
 	<string id="escape_trader_miniquest_7">
-		<text>Совсем обнаглел? Или отдаёшь мне свёрток, или я настучу кому надо.</text>
+		<text>Jesteњ bezczelny! Albo dasz mi paczkк, albo doniosк na Ciebie komu trzeba.</text>
 	</string>
 	<string id="escape_trader_miniquest_4">
-		<text>Чёрт, с деньгами напряг. Заберу позже.</text>
+		<text>Cholera, mam maіo pieniкdzy. Odbiorк go pуџniej.</text>
 	</string>
 	<string id="escape_trader_miniquest_8">
-		<text>Вот, получи свой свёрток драгоценный.</text>
+		<text>No, weџ swуj cenny pakunek.</text>
 	</string>
 	<string id="escape_trader_miniquest_9">
-		<text>Ой, напугал. И кому же ты настучишь?</text>
+		<text>Och, bojк siк. A do kogo zamierzasz donoњж?</text>
 	</string>
 	<string id="escape_trader_miniquest_10">
-		<text>Новичкам в лагере. Фиг они у тебя после такого что-то купят.</text>
+		<text>Nowicjuszom w obozie. Figк, po tym coњ od Ciebie kupi№.</text>
 	</string>
 	<string id="escape_trader_miniquest_11">
-		<text>Военным. Думаешь, не заинтересуются торговцем на территории Зоны?</text>
+		<text>Wojskowy. Myњlisz, їe nie bкd№ zainteresowani kupcem na terenie Zony?</text>
 	</string>
 	<string id="escape_trader_miniquest_12">
-		<text>Тебе по лысине. Хочешь?</text>
+		<text>Ciebie po іysinie. Chcesz?</text>
 	</string>
 	<string id="escape_trader_miniquest_13">
-		<text>У меня друзья есть. Очень влиятельные сталкеры, между прочим...</text>
+		<text>Mam przyjaciуі. Nawiasem mуwi№c, bardzo wpіywowi stalkerzy...</text>
 	</string>
 	<string id="escape_trader_miniquest_14">
-		<text>Не купят эти - купят через пару дней другие. Это ж Зона.\nВыбратся назад они не смогут - на блокпосту солдаты, вглубь идти - снаряга нужна, оружие. А где ты это возьмёшь, как не у меня? \nТак что угрожай кому-нибудь другому, понял?</text>
+		<text>Nie kupi№ tego - inni bкd№ i tak kupowaж za kilka dni. To jest Zona.\nNie bкd№ mogli wrуciж - w punkcie kontrolnym s№ їoіnierze, id№c gікbiej - potrzebuj№ sprzкtu, broni. A sk№d to wezm№, jeњli nie ode mnie? \nWiкc groџ moїe komuњ innemu, dobrze?</text>
 	</string>
 	<string id="escape_trader_miniquest_15">
-		<text>Ой, не могу! Нельзя так смешить...\nКак ты думаешь, кто мне снарягу поставляет, патроны списывает на продажу? А артефакты заказчикам из Зоны переправляет? Военные наоборот заинтересованы в моём бизнесе. \nНо ты сходи к ним, сходи. Интересно, пристрелят тебя сразу или пожизненное впаяют? А за свёрток тогда не беспокойся. Ха-ха.</text>
+		<text>Och, nie mogк! Chyba pкknк ze њmiechu...\nJak myњlisz, kto zaopatruje mnie w sprzкt, odpisuje naboje na sprzedaї? Czy wysyіa artefakty do klientуw ze Strefy? Wrкcz przeciwnie, wojsko jest zainteresowane moim biznesem. \nAle idџ sobie do nich, idџ. Zastanawiam siк, czy od razu Ciк zastrzel№, czy okalecz№ na caіe їycie? A potem nie martw siк o przesyіkк. Ha ha.</text>
 	</string>
 	<string id="escape_trader_miniquest_16">
-		<text>Блин, жалко сто рублей - так и скажи. А то все нервные такие - 'по лысине' сразу...</text>
+		<text>Cholera, przepraszam za sto rubli - po prostu to powiedz. Wszyscy zrobili siк jacyњ nerwowi – „po іysinie” od razu...</text>
 	</string>
 	<string id="escape_trader_miniquest_17">
-		<text>Запомни: в Зоне любая дружба быстро заканчивается, если речь идёт о серьёзных деньгах. Да и что мне твои друзья? Сегодня есть, завтра уже и забыли, как их звали. В Зоне не особо долго живут, понял?</text>
+		<text>Pamiкtaj: w Zonie kaїda przyjaџс szybko siк koсczy, jeњli chodzi o powaїne pieni№dze. A jacy s№ dla mnie Twoi przyjaciele? Dziњ s№, jutro juї zapomnieli, jak siк nazywaj№. Nie їyj№ w Zonie zbyt dіugo, rozumiesz?</text>
 	</string>
 	<string id="escape_trader_miniquest_18">
-		<text>Короче, сотня рублей за хранение - и забирай свой свёрток.</text>
+		<text>Krуtko mуwi№c, sto rubli za przechowywanie - i weџ swoj№ paczkк.</text>
 	</string>
 	<string id="escape_trader_miniquest_19">
-		<text>Спасибо.</text>
+		<text>Dziкkujк.</text>
 	</string>
 	<string id="escape_trader_miniquest_20">
-		<text>Понял.</text>
+		<text>Rozumiem.</text>
 	</string>
 
 <!--****************************-->
 <!-- Barist Repair dialog start -->
 <!--****************************-->
 	<string id="bar_trader_miniquest_0">
-		<text>У тебя для меня кое-что оставляли, правильно?</text>
+		<text>Zostawili coњ dla mnie, prawda?</text>
 	</string>
 	<string id="bar_trader_miniquest_1">
-		<text>Да, небольшой свёрток. Лежит себе, много места не занимает... Я о нём почти забыл. А что, он тебе нужен?</text>
+		<text>Tak, maі№ przesyіkк. Leїy tam sobie, nie zajmuje duїo miejsca... Prawie o tym zapomniaіem. Co, potrzebujesz j№?</text>
 	</string>
 	<string id="bar_trader_miniquest_2">
-		<text>Да, нужен.</text>
+		<text>Tak, chciaіbym.</text>
 	</string>
 	<string id="bar_trader_miniquest_3">
-		<text>Вот, держи.</text>
+		<text>To trzymaj.</text>
 	</string>
 	<string id="bar_trader_miniquest_4">
-		<text>Спасибо.</text>
+		<text>Dziкkujк.</text>
 	</string>
 <!--********************-->
 <!-- miniquest dialogs end -->

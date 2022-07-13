@@ -1,60 +1,60 @@
-<?xml version="1.0" encoding="windows-1251" ?>
-<string_table>	
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
 
 	<string id="flame_reload_1">
-		<text>Ты говорил, что можешь перезарядить огнемёт? Думаю, сейчас самое время это сделать.</text>
+		<text>Mуwiіeњ, їe moїesz uzupeіniж miotacz ognia? Myњlк, їe teraz jest na to czas.</text>
 	</string>
 
 	<string id="flame_reload_2">
-		<text>Ага, могу. Горючку нашёл? Или мне самому придётся мучиться? Предупреждаю, если я всё сам буду искать, это тебе обойдётся в 30 000. Да и на трезвую голову может не получиться... Так что бутылочку водки тоже прихвати!</text>
+		<text>Tak, mogк. Znalazіeњ paliwo? Czy bкdк musiaі fatygowaж siк sam? Ostrzegam, jeњli bкdк szukaі wszystkiego, bкdzie Ciк to kosztowaж 30 000 RU. No i nie pуjdк na trzeџwo... Wiкc weџ teї butelkк wуdki!</text>
 	</string>
 
 	<string id="flame_reload_3">
-		<text>Опять водка?! Нет уж, обойдёшься. И с деньгами сейчас напряг... Как-нибудь без огнемёта проживу.</text>
+		<text>Kolejna gorzaіa?! Nie, nie - obejdzie siк. A poza tym kiepsko u mnie z pieniкdzmi... Jakoњ przeїyjк bez miotacza ognia.</text>
 	</string>
 
 	<string id="flame_reload_4">
-		<text>Сколько ж ты можешь выпить?.. На, держи. И горючку я добыл. Только давай быстрее.</text>
+		<text>Ile moїesz wypiж?... Trzymaj. I mam paliwo. Tylko postaraj siк zrobiж to szybko.</text>
 	</string>
 
 	<string id="flame_reload_5">
-		<text>Минут 30 подождать придётся...</text>
+		<text>Musisz poczekaж pуі godziny...</text>
 	</string>
 
 	<string id="flame_reload_6">
-		<text>Ладно. Но учти, я спешу.</text>
+		<text>Dobra. Ale pamiкtaj - њpieszк siк.</text>
 	</string>
 
 	<string id="flame_reload_7">
-		<text>Нет, ничего я не нашёл. Вот, бери 30 000 и пузырь. Шустрей работай только!</text>
+		<text>Nie, nic nie znalazіem. Masz tu 30 000 i kanister. Tylko zrуb to szybko!</text>
 	</string>
 
 	<string id="flame_reload_8">
-		<text>Так... Спасибо. Ну, думаю, тебе стоит зайти через денёк.</text>
+		<text>Dziкkujк. Cуї, myњlк, їe powinieneњ wpaњж tu nastкpnego dnia.</text>
 	</string>
 
 	<string id="flame_reload_9">
-		<text>Ни фига себе! Денёк... Спасибо, мастер... по литрболу... Счастливо!</text>
+		<text>Aleїsienaebaem! Dzieс... Dziкkujк, mistrzu... po flaszeszse... Ucieszony!</text>
 	</string>
 
 	<string id="flame_reload_10">
-		<text>Что там с заправкой моего огнемёта?</text>
+		<text>No i jak tam idzie z uzupeіnianiem mojego miotacza?</text>
 	</string>
 
 	<string id="flame_reload_11">
-		<text>Всё в лучшем виде! Иначе я и не делаю! Забирай.</text>
+		<text>Wszystko w najlepszym porz№dku! W inaczej tego nie robiк! Zabieraj.</text>
 	</string>
 
 	<string id="flame_reload_12">
-		<text>Благодарствую! До встречи.</text>
+		<text>Dziкkujк! Do zobaczenia.</text>
 	</string>
 
 	<string id="flame_reload_13">
-		<text>Погоди ты пока! Дело это непростое. Позже зайди.</text>
+		<text>Poczekaj jeszcze! To nie jest takie hop-siup. Przyjdџ pуџniej.</text>
 	</string>
 
 	<string id="flame_reload_14">
-		<text>Ясно. Давай активнее!</text>
+		<text>Jasne... Ruchy, ruchy!</text>
 	</string>
 
 </string_table>
