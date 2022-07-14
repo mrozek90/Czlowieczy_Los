@@ -1,0 +1,3448 @@
+ <!--Истории "Возвращения"-->
+ 
+ <game_task id="bar_dolg_propusk">
+<title>Фотоальбом</title>
+<objective>
+<text>Узнать про альбом у Бармена</text>
+<icon>ui_iconsTotal_artefact</icon>
+<infoportion_complete>bar_dolg_propusk_done</infoportion_complete>
+<article>tex_album</article>
+</objective>
+<objective>
+<text>Добыть фотоальбом</text>
+<function_complete>chelovek.bar_dolg_propusk_have</function_complete>
+<infoportion_set_complete>bar_dolg_propusk_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Отдать фотоальбом Дубко</text>
+<map_location_type hint="Дубко">blue_location</map_location_type>
+<object_story_id>bar_dolg_regular_5</object_story_id>
+<infoportion_complete>bar_dolg_propusk_done</infoportion_complete>
+</objective>
+</game_task> 
+
+
+<!--Бармен альбом-->
+<game_task id="barmen_pro_fot_dialog_kvest">
+<title>Необычный мутант</title>
+<objective>
+<text>Необычный мутант</text>
+ <icon>ui_iconsTotal_monster_part</icon>
+<infoportion_complete>barmen_pro_fot_dialog_done</infoportion_complete>
+<article>metro_medv</article>
+</objective>
+<objective>
+<text>Уничтожить мутанта</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.metro_medv_have</function_complete>
+<infoportion_set_complete>barmen_pro_fot_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Венуться к Бармену после задания</text>
+<map_location_type hint="Бармен">blue_location</map_location_type>
+<object_story_id>bar_Barman</object_story_id>
+<infoportion_complete>barmen_pro_fot_dialog_done</infoportion_complete>
+</objective>
+</game_task>
+
+
+<!-- Поговорилки-->
+<game_task id="pogovor_narod">
+<title>Предзонье</title>
+<objective>
+<text>Добраться до местного бара</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pogovorili_narod</infoportion_complete>
+</objective>
+<objective>
+<text>Добраться до бара Предзонья</text>
+<map_location_type hint="Семёновна">blue_location</map_location_type>
+<object_story_id>semenovna</object_story_id>
+<infoportion_complete>pogovorili_narod</infoportion_complete>
+       </objective>
+      </game_task>	 
+
+<game_task id="semenovna_dengi">
+<title>Передать деньги</title>
+<objective>
+<text>Отдать деньги Семёновне</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>otdali_dengi_semenovne</infoportion_complete>
+<article>tex_semenovna_bablo</article>
+</objective>
+<objective>
+<text>Отдать деньги Семёновне</text>
+<map_location_type hint="Семёновна">blue_location</map_location_type>
+<object_story_id>semenovna</object_story_id>
+<infoportion_complete>otdali_dengi_semenovne</infoportion_complete>
+       </objective>
+      </game_task>	 
+
+<!--<Семёновна, наше первое задание>-->
+ <game_task id="semenovna_pomosch">
+<title>Помощь Семёновне</title>
+<objective>
+<text>Работа в Предзонье</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>semenovna_pomosch_done</infoportion_complete>
+<article>tex_semenovna_pomosch</article>
+</objective>
+<objective>
+<text>Добыть брезент</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.semenovna_pomosch_have</function_complete>
+<infoportion_set_complete>semenovna_pomosch_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Вернуться к Семёновне</text>
+<map_location_type hint="Семёновна">green_location</map_location_type>
+<object_story_id>semenovna</object_story_id>
+<infoportion_complete>semenovna_pomosch_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<В котельной>-->
+ <game_task id="stylaga_pomosch">
+<title>Встреча в котельной</title>
+<objective>
+<text>Что-то в озере</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>stylaga_pomosch_done</infoportion_complete>
+<article>tex_stylaga_pomosch</article>
+</objective>
+<objective>
+<text>Проверить берег озера</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.stylaga_pomosch_have</function_complete>
+<infoportion_set_complete>stylaga_pomosch_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Вернуться к Стиляге</text>
+<map_location_type hint="Стиляга">green_location</map_location_type>
+<object_story_id>stas</object_story_id>
+<infoportion_complete>stylaga_pomosch_done</infoportion_complete> 
+</objective>
+</game_task>
+
+<!--<Огурцы>-->
+ <game_task id="ogurcy_pomosch">
+<title>Огород</title>
+<objective>
+<text>Огород</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>ogurcy_pomosch_done</infoportion_complete>
+<article>tex_ogurcy_pomosch</article>
+</objective>
+<objective>
+<text>Собрать урожай огурцов</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.ogurcy_pomosch_have</function_complete>
+<infoportion_set_complete>ogurcy_pomosch_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Вернуться к Семёновне</text>
+<map_location_type hint="Семёновна">green_location</map_location_type>
+<object_story_id>semenovna</object_story_id>
+<infoportion_complete>ogurcy_pomosch_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<Помошь фельдшеру>-->
+ <game_task id="feldscher_pomosch">
+<title>Просьба Фельдшера</title>
+<objective>
+<text>Просьба Фельдшера</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>feldscher_pomosch_done</infoportion_complete>
+<article>tex_feldscher_pomosch</article>
+</objective>
+<objective>
+<text>Забрать сумку у бандитов</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.feldscher_pomosch_have</function_complete>
+<infoportion_set_complete>feldscher_pomosch_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Вернуться к Фельдшеру</text>
+<map_location_type hint="Фельдшер">green_location</map_location_type>
+<object_story_id>schilo</object_story_id>
+<infoportion_complete>feldscher_pomosch_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<Боцман>-->
+ <game_task id="bocman_pomosch">
+<title>Просьба Боцмана</title>
+<objective>
+<text>Просьба Боцмана</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>bocman_pomosch_done</infoportion_complete>
+<article>tex_bocman_pomosch</article>
+</objective>
+<objective>
+<text>Обследовать старую баржу</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.bocman_pomosch_have</function_complete>
+<infoportion_set_complete>bocman_pomosch_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Вернуться к Боцману</text>
+<map_location_type hint="Боцман">green_location</map_location_type>
+<object_story_id>leschyi</object_story_id>
+<infoportion_complete>bocman_pomosch_done</infoportion_complete> 
+</objective>
+</game_task>
+
+<!--<Пращ>-->
+ <game_task id="prasch_pomosch">
+<title>Друг</title>
+<objective>
+<text>Просьба Праща</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>prasch_pomosch_done</infoportion_complete>
+<article>tex_prasch_pomosch</article>
+</objective>
+<objective>
+<text>Отыскать Фару</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.prasch_pomosch_have</function_complete>
+<infoportion_set_complete>prasch_pomosch_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Вернуться к Пращу</text>
+<map_location_type hint="Пращ">green_location</map_location_type>
+<object_story_id>otschelnik</object_story_id>
+<infoportion_complete>prasch_pomosch_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!-- Поговорил c Абреком-->
+<game_task id="pogovor_abrek">
+<title>Абрек</title>
+<objective>
+<text>Поговорить насчет пленника.</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pogovorili_abrek</infoportion_complete>
+</objective>
+<objective>
+<text>Разговор с Абреком</text>
+<map_location_type hint="Абрек">blue_location</map_location_type>
+<object_story_id>masterskie_naim</object_story_id>
+<infoportion_complete>pogovorili_abrek</infoportion_complete>
+       </objective>
+      </game_task>	
+
+<!-- Поговорил c Сашком-->
+<game_task id="pogovor_saschka">
+<title>Сашка</title>
+<objective>
+<text>Забрать пленника</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pogovorili_saschka</infoportion_complete>
+</objective>
+<objective>
+<text>Разговор с пленным</text>
+<map_location_type hint="Сашка">blue_location</map_location_type>
+<object_story_id>saschka_plen</object_story_id>
+<infoportion_complete>pogovorili_saschka</infoportion_complete>
+       </objective>
+      </game_task>	
+	  
+	  
+	  
+<!-- Поговорил c Сашком ещё-->
+<game_task id="pogovor_saschka2">
+<title>Серьёзный разговор</title>
+<objective>
+<text>Серьёзный разговор</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pogovorili_saschka2</infoportion_complete>
+</objective>
+<objective>
+<text>Серьезно поговорить с Сашкой</text>
+<map_location_type hint="Сашка">blue_location</map_location_type>
+<object_story_id>saschka_plen</object_story_id>
+<infoportion_complete>pogovorili_saschka2</infoportion_complete>
+       </objective>
+      </game_task>		  
+	  
+	  
+	<!-- Поговорим c Сашком на Скадовске-->
+<game_task id="pogovor_saschka3">
+<title>Ренегаты</title>
+<objective>
+<text>Распросить Сашку о "ренегатах"</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pogovorili_saschka3</infoportion_complete>
+</objective>
+<objective>
+<text>Узнать у Сашки о "ренегатах"</text>
+<map_location_type hint="Сашка">blue_location</map_location_type>
+<object_story_id>saschka_skadovsk</object_story_id>
+<infoportion_complete>pogovorili_saschka3</infoportion_complete>
+       </objective>
+      </game_task>	  
+	  
+	  
+<!-- Поговорил c Абреком после Сашки-->
+<game_task id="pogovor_abrek_dva">
+<title>Вернуться к Абреку</title>
+<objective>
+<text>Поговорить ещё раз с Абреком</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pogovorili_abrek_dva</infoportion_complete>
+</objective>
+<objective>
+<text>Новый разговор с Абреком</text>
+<map_location_type hint="Абрек">blue_location</map_location_type>
+<object_story_id>masterskie_naim</object_story_id>
+<infoportion_complete>pogovorili_abrek_dva</infoportion_complete>
+       </objective>
+      </game_task>		  
+	  
+	  
+	  
+	<!-- Поговорим c Принцем-->
+<game_task id="pogovor_princ">
+<title>Принц</title>
+<objective>
+<text>Сходить в гости к Принцу </text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pogovorili_princ</infoportion_complete>
+</objective>
+<objective>
+<text>Принц. Первая встреча.</text>
+<map_location_type hint="Принц">blue_location</map_location_type>
+<object_story_id>princ</object_story_id>
+<infoportion_complete>pogovorili_princ</infoportion_complete>
+       </objective>
+      </game_task>	    
+	  
+	  
+	 <!-- Поговорим c Семеновной про букет-->
+<game_task id="pogovor_semenovna_buket">
+<title>Спросить Семеновну про цветы</title>
+<objective>
+<text>Узнать, где можно достать букет цветов.</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pogovorili_semenovna_buket</infoportion_complete>
+</objective>
+<objective>
+<text>Распросить у Семёновны, где можно достать букет цветов.</text>
+<map_location_type hint="Семёновна">blue_location</map_location_type>
+<object_story_id>semenovna</object_story_id>
+<infoportion_complete>pogovorili_semenovna_buket</infoportion_complete>
+       </objective>
+      </game_task>	   
+	  
+	  
+<!--<Фишер просьба>-->
+ <game_task id="fischer_devid_pomosch">
+<title>"Ангел"</title>
+<objective>
+<text>Девид Фишер</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>fischer_devid_pomosch_done</infoportion_complete>
+<article>tex_fischer_devid_pomosch</article>
+</objective>
+<objective>
+<text>Проверить разлом</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.fischer_devid_pomosch_have</function_complete>
+<infoportion_set_complete>fischer_devid_pomosch_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Вернуться к Фишеру</text>
+<map_location_type hint="Фишер">green_location</map_location_type>
+<object_story_id>genrih</object_story_id>
+<infoportion_complete>fischer_devid_pomosch_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<Коляныч просьба>-->
+ <game_task id="kolyanych_sanya_pomosch">
+<title>Выручить Сашку</title>
+<objective>
+<text>Плен</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>kolyanych_sanya_pomosch_done</infoportion_complete>
+<article>tex_kolyanych_sanya_pomosch</article>
+</objective>
+<objective>
+<text>Выручить Сашку из плена</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>kolyanych_sanya_pomosch_have</infoportion_complete>
+</objective>
+<objective>
+<text>Вернуться к Колянычу</text>
+<map_location_type hint="Коляныч">green_location</map_location_type>
+<object_story_id>kulak</object_story_id>
+<infoportion_complete>kolyanych_sanya_pomosch_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!--<Работа на Абрека>-->
+ <game_task id="abrek_rabota">
+<title>Документы для наймов</title>
+<objective>
+<text>Добыть документы</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>abrek_rabota_done</infoportion_complete>
+<article>tex_abrek_rabota</article>
+</objective>
+
+<objective>
+<text>Отыскать первый документ на ВНЗ "Круг"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.abrek_rabota_have</function_complete>
+<infoportion_set_complete>abrek_rabota_have</infoportion_set_complete>
+</objective>
+
+<objective>
+<text>Отыскать второй документ на ВНЗ "Круг"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.abrek_rabota_have_1</function_complete>
+<infoportion_set_complete>abrek_rabota_have_1</infoportion_set_complete>
+</objective>
+
+<objective>
+<text>Отыскать третий документ на ВНЗ "Круг"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.abrek_rabota_have_2</function_complete>
+<infoportion_set_complete>abrek_rabota_have_2</infoportion_set_complete>
+</objective>
+
+
+<objective>
+<text>Вернуться к Абреку</text>
+<map_location_type hint="Абрек">green_location</map_location_type>
+<object_story_id>masterskie_naim</object_story_id>
+<infoportion_complete>abrek_rabota_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!--<Цветы для Лисы>-->
+ <game_task id="buket_lisa">
+<title>"Цветы для Лисы"</title>
+<objective>
+<text>"Лилии в пруду..."</text>
+<icon>ui_lilii</icon>
+<infoportion_complete>buket_lisa_done</infoportion_complete>
+<article>tex_buket_lisa</article>
+</objective>
+<objective>
+<text>Собрать букет цветов для Лисы.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.buket_lisa_have</function_complete>
+<infoportion_set_complete>buket_lisa_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Подарить Лисе цветы.</text>
+<map_location_type hint="Лиса">green_location</map_location_type>
+<object_story_id>solnce</object_story_id>
+<infoportion_complete>buket_lisa_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<Мой дом>-->
+ <game_task id="moy_dom">
+<title>Обустроиться в доме</title>
+<objective>
+<text>Мой дом</text>
+<icon>ui_dom</icon>
+<infoportion_complete>moy_dom_done</infoportion_complete>
+<article>tex_moy_dom</article>
+</objective>
+<objective>
+<text>Поселиться в доме</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>moy_dom_have</infoportion_complete>
+</objective>
+<objective>
+<text>Вернуться к Барину</text>
+<map_location_type hint="Барин">green_location</map_location_type>
+<object_story_id>mer_pedbannik</object_story_id>
+<infoportion_complete>moy_dom_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!--<Петля времени>-->
+ <game_task id="gans_pomogli">
+<title>"Петля времени"</title>
+<objective>
+<text>"Прошлое и будущее"</text>
+<icon>ui_iconsTotal_locations</icon>
+<infoportion_complete>gans_pomogli_done</infoportion_complete>
+<article>tex_gans_pomogli</article>
+</objective>
+<objective>
+<text>Найти человека, которого видели немцы</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>gans_pomogli_have</infoportion_complete>
+</objective>
+<objective>
+<text>Рассказать Гансу о том, что узнали</text>
+<map_location_type hint="Ганс">green_location</map_location_type>
+<object_story_id>nemec</object_story_id>
+<infoportion_complete>gans_pomogli_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<Петля времени афанасий>-->
+ <game_task id="afanasii_pomogli">
+<title>Странный старик</title>
+<objective>
+<text>Просьба Афанасия Иваныча</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>afanasii_pomogli_done</infoportion_complete>
+<article>tex_afanasii_pomogli</article>
+</objective>
+<objective>
+<text>Проверить ангар</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>afanasii_pomogli_have</infoportion_complete>
+</objective>
+<objective>
+<text>Вернуться к Афанасию.</text>
+<map_location_type hint="Афанасий Иваныч">blue_location</map_location_type>
+<object_story_id>kiril</object_story_id>
+<infoportion_complete>afanasii_pomogli_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!--<Петля времени афанасий Новый дом>-->
+ <game_task id="afanasii_doroga">
+<title>Новый дом</title>
+<objective>
+<text>Дорога в ангар</text>
+<icon>ui_dom</icon>
+<infoportion_complete>afanasii_doroga_prischli_done</infoportion_complete>
+<article>tex_afanasii_doroga</article>
+</objective>
+<objective>
+<text>Проводить Афанасия до ангара</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>afanasii_doroga_prischli_have</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Афанасием</text>
+<map_location_type hint="Афанасий Иваныч">blue_location</map_location_type>
+<object_story_id>kiril</object_story_id>
+<infoportion_complete>afanasii_doroga_prischli_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<Петля времени к порталу>-->
+ <game_task id="gans_doroga">
+<title>Портал</title>
+<objective>
+<text>Дорога к порталу</text>
+<icon>ui_iconsTotal_locations</icon>
+<infoportion_complete>gans_doroga_prischli_done</infoportion_complete>
+<article>tex_gans_doroga</article>
+</objective>
+<objective>
+<text>Проводить немцев до портала</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>gans_doroga_prischli_have</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Гансом</text>
+<map_location_type hint="Ганс">blue_location</map_location_type>
+<object_story_id>nemec</object_story_id>
+<infoportion_complete>gans_doroga_prischli_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!-- Вернуться к Афанасию-->
+<game_task id="pogovor_afanasii">
+<title>Сходить к Афанасию</title>
+<objective>
+<text>Беседа</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pogovorili_afanasii</infoportion_complete>
+</objective>
+<objective>
+<text>Разговор с Афанасием Иванычем</text>
+<map_location_type hint="Афанасий Иваныч">blue_location</map_location_type>
+<object_story_id>kiril</object_story_id>
+<infoportion_complete>pogovorili_afanasii</infoportion_complete>
+       </objective>
+      </game_task>	 
+	  
+	  
+	  <!-- Карим разговор-->
+<game_task id="pogovor_karim">
+<title>Разговор с Каримом</title>
+<objective>
+<text>Карим</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pogovorili_karim</infoportion_complete>
+</objective>
+<objective>
+<text>Узнать у Карима про Алешку.</text>
+<map_location_type hint="Карим">blue_location</map_location_type>
+<object_story_id>mongol</object_story_id>
+<infoportion_complete>pogovorili_karim</infoportion_complete>
+       </objective>
+      </game_task>	 
+
+<!-- Сканеры-->
+ <game_task id="skaner">
+		<title>Сканеры аномалий</title>
+		<objective>
+			<text>Установить три сканера по заданию Дёмина.</text>
+			<icon>ui_iconsTotal_yan_find_scientist</icon>
+			<infoportion_complete>demin_pomogli_done</infoportion_complete>
+			<article>tex_demin_pomogli</article>
+		</objective>
+		<objective>
+			<text>Установить сканеры в указаных точках.</text>
+			<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+			<function_complete>hem_detectors.scaner_det_done</function_complete>
+			<infoportion_set_complete>skuchno</infoportion_set_complete>		
+		</objective>
+		<objective>
+			<text>Вернутся к профессору</text>
+			<map_location_type hint="Пофессор Дёмин">blue_location</map_location_type>
+<object_story_id>demin</object_story_id>
+			 <infoportion_complete>demin_pomogli_done</infoportion_complete>			
+		</objective>
+	</game_task> 
+
+
+
+<!--<Странное место>-->
+ <game_task id="strannoe_mesto">
+<title>Странное место</title>
+<objective>
+<text>Странное место</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>strannoe_mesto_done</infoportion_complete>
+<article>tex_strannoe_mesto</article>
+</objective>
+<objective>
+<text>Проверить железнодорожный тоннель.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>strannoe_mesto_have</infoportion_complete>
+</objective>
+<objective>
+<text>Вернуться к Дёмину.</text>
+<map_location_type hint="Професссор Дёмин">blue_location</map_location_type>
+<object_story_id>demin</object_story_id>
+<infoportion_complete>strannoe_mesto_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<Седой просьба>-->
+ <game_task id="sedoy_lexa_pomosch">
+<title>Найти Алешку</title>
+<objective>
+<text>Алёшка</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>sedoy_lexa_pomosch_done</infoportion_complete>
+<article>tex_sedoy_lexa_pomosch</article>
+</objective>
+<objective>
+<text>Отыскать Алешку</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>sedoy_lexa_pomosch_have</infoportion_complete>
+<infoportion_fail>lexa_dead</infoportion_fail>
+</objective>
+<objective>
+<text>Поговорить с Седым</text>
+<map_location_type hint="Седой">green_location</map_location_type>
+<object_story_id>sedoy</object_story_id>
+<infoportion_complete>sedoy_lexa_pomosch_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<Тайна Депо>-->
+ <game_task id="lexa_taina_depo">
+<title>Тайна Депо</title>
+<objective>
+<text>Тайник Витязя</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>lexa_taina_depo_done</infoportion_complete>
+<article>tex_lexa_taina_depo</article>
+</objective>
+<objective>
+<text>Проверить депо повторно.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.lexa_taina_depo_have</function_complete>
+<infoportion_set_complete>lexa_taina_depo_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Вернуться к Алёшке.</text>
+<map_location_type hint="Алёшка">green_location</map_location_type>
+<object_story_id>lexa</object_story_id>
+<infoportion_complete>lexa_taina_depo_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!--<Работа на Принца>-->
+ <game_task id="parni_princ">
+<title>Пропавший отряд</title>
+<objective>
+<text>Пропавшие</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>parni_princ_done</infoportion_complete>
+<article>tex_parni_princ</article>
+</objective>
+<objective>
+<text>Проверить место откуда был последний сигнал.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.parni_princ_have</function_complete>
+<infoportion_set_complete>parni_princ_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Вернуться к Принцу.</text>
+<map_location_type hint="Принц">green_location</map_location_type>
+<object_story_id>princ</object_story_id>
+<infoportion_complete>parni_princ_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!--<Drug Princa>-->
+ <game_task id="drug_princa">
+<title>Старый друг</title>
+<objective>
+<text>Старый друг</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>drug_princa_done</infoportion_complete>
+<article>tex_drug_princa</article>
+</objective>
+<objective>
+<text>Рюкзак с провизией</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.drug_princa_have</function_complete>
+<infoportion_set_complete>drug_princa_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Добраться до деда Игната</text>
+<infoportion_complete>drug_princa_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<Тату прицел>-->
+ <game_task id="tatu_pricel">
+<title>Артефакт на Лесопилке</title>
+<objective>
+<text>Артефакт за прицел</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>tatu_pricel_done</infoportion_complete>
+<article>tex_tatu_pricel</article>
+</objective>
+<objective>
+<text>Проверить Лесопилку на наличие в ней артефакта.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.tatu_pricel_have</function_complete>
+<infoportion_set_complete>tatu_pricel_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Вернуться к Тату.</text>
+<map_location_type hint="Тату">green_location</map_location_type>
+<object_story_id>tatu</object_story_id>
+<infoportion_complete>tatu_pricel_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<Игнат дрова>-->
+ <game_task id="ignat_drova">
+<title>Дрова для костра</title>
+<objective>
+<text>Дрова для костра</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>ignat_drova_done</infoportion_complete>
+<article>tex_ignat_drova</article>
+</objective>
+<objective>
+<text>Раздобыть дровишек для костра</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.ignat_drova_have</function_complete>
+<infoportion_set_complete>ignat_drova_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Вернуться к деду Игнату.</text>
+<map_location_type hint="Дед Игнат">green_location</map_location_type>
+<object_story_id>ignat</object_story_id>
+<infoportion_complete>ignat_drova_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<Возмездие>-->
+ <game_task id="vozmezdie_princa">
+<title>Возмездие</title>
+<objective>
+<text>Возмездие</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>vozmezdie_princa_done</infoportion_complete>
+<article>tex_vozmezdie_princa</article>
+</objective>
+<objective>
+<text>Наказать убийц.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>vozmezdie_princa_have</infoportion_complete>
+</objective>
+<objective>
+<text>Вернуться к Принцу</text>
+<map_location_type hint="Принц">green_location</map_location_type>
+<object_story_id>princ</object_story_id>
+<infoportion_complete>vozmezdie_princa_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!--<Кардан>-->
+ <game_task id="kardan_repbox1">
+<title>Бензин для Кардана</title>
+<objective>
+<text>Бензин</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>kardan_repbox1_done</infoportion_complete>
+<article>tex_kardan_repbox1</article>
+</objective>
+<objective>
+<text>Раздобыть две канистры бензина.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.kardan_repbox1_have</function_complete>
+<infoportion_set_complete>kardan_repbox1_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Вернуться к Кардану.</text>
+<map_location_type hint="Кардан">blue_location</map_location_type>
+<object_story_id>zaton_kordan</object_story_id>
+<infoportion_complete>kardan_repbox1_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<Кардан ещё>-->
+ <game_task id="kardan_repbox2">
+<title>Паяльная лампа</title>
+<objective>
+<text>Паяльная лампа</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>kardan_repbox2_done</infoportion_complete>
+<article>tex_kardan_repbox2</article>
+</objective>
+<objective>
+<text>Раздобыть паяльную лампу </text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.kardan_repbox2_have</function_complete>
+<infoportion_set_complete>kardan_repbox2_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Вернуться к Кардану.</text>
+<map_location_type hint="Кардан">blue_location</map_location_type>
+<object_story_id>zaton_kordan</object_story_id>
+<infoportion_complete>kardan_repbox2_done</infoportion_complete> 
+</objective>
+</game_task>
+
+<!--<Спас тайна дигера>-->
+ <game_task id="spas_taina_diger">
+<title>Пропавший диггер</title>
+<objective>
+<text>Диггер по имени Крем</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>spas_taina_diger_done</infoportion_complete>
+<article>tex_spas_taina_diger</article>
+</objective>
+<objective>
+<text>По следам Крема</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.spas_taina_diger_have</function_complete>
+<infoportion_set_complete>spas_taina_diger_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Рассказать Спасу всё, что узнали.</text>
+<map_location_type hint="Спас">blue_location</map_location_type>
+<object_story_id>spas</object_story_id>
+<infoportion_complete>spas_taina_diger_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<Барин квест>-->
+ <game_task id="barin_kvest_new">
+<title>Странные сталкеры</title>
+<objective>
+<text>Неизвестные</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>barin_kvest_new_done</infoportion_complete>
+<article>tex_barin_kvest_new</article>
+</objective>
+<objective>
+<text>Проверить место где Барин видел чужих сталкеров</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>barin_kvest_new_have</infoportion_complete>
+</objective>
+<objective>
+<text>Рассказать Барину о том, что нашли</text>
+<map_location_type hint="Барин">blue_location</map_location_type>
+<object_story_id>mer_pedbannik</object_story_id>
+<infoportion_complete>barin_kvest_new_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!-- Михалыч разговор-->
+<game_task id="pogovor_mixalych">
+<title>Михалыч</title>
+<objective>
+<text>Михалыч</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pogovorili_mixalych</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Михалычем</text>
+<map_location_type hint="Михалыч">blue_location</map_location_type>
+<object_story_id>sidor</object_story_id>
+<infoportion_complete>pogovorili_mixalych</infoportion_complete>
+       </objective>
+      </game_task>	 
+
+
+
+<!--<Михалыч квест>-->
+ <game_task id="mixalych_spalnik">
+<title>Пещера</title>
+<objective>
+<text>Пещера</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>mixalych_spalnik_done</infoportion_complete>
+<article>tex_mixalych_spalnik</article>
+</objective>
+<objective>
+<text>Проверить пещеру недалеко от деревни</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>mixalych_spalnik_have</infoportion_complete>
+</objective>
+<objective>
+<text>Вернуться к Михалычу</text>
+<map_location_type hint="Михалыч">blue_location</map_location_type>
+<object_story_id>sidor</object_story_id>
+<infoportion_complete>mixalych_spalnik_done</infoportion_complete> 
+</objective>
+</game_task>
+
+<!-- Писатель разговор-->
+<game_task id="pogovor_pisatel">
+<title>Писатель</title>
+<objective>
+<text>Писатель</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pogovorili_pisatel</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Писателем</text>
+<map_location_type hint="Писатель">blue_location</map_location_type>
+<object_story_id>pisatel</object_story_id>
+<infoportion_complete>pogovorili_pisatel</infoportion_complete>
+       </objective>
+      </game_task>	
+
+<!--<Писатель квест>-->
+ <game_task id="pisatel">
+<title>Истории из Зоны</title>
+<objective>
+<text>Истории из Зоны</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>pisatel_done</infoportion_complete>
+<article>tex_pisatel</article>
+</objective>
+<objective>
+<text>Записать первую историю</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>pisatel_have</infoportion_complete>
+</objective>
+<objective>
+<text>Записать вторую историю</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>pisatel1_have</infoportion_complete>
+</objective>
+<objective>
+<text>Записать третью историю</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>pisatel2_have</infoportion_complete>
+</objective>
+<objective>
+<text>Вернуться к Писателю</text>
+<map_location_type hint="Писатель">blue_location</map_location_type>
+<object_story_id>pisatel</object_story_id>
+<infoportion_complete>pisatel_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!--<БТРквест><map_location_type hint="БТР">crlc_mdl</map_location_type>
+			<object_story_id>test_btr</object_story_id>-->
+ <game_task id="btr">
+<title>Уничтожить БТР-ы наймов</title>
+<objective>
+<text>Диверсия.</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>btr_done</infoportion_complete>
+<article>tex_btr</article>
+</objective>
+<objective>
+<text>Уничтожить первый БТР</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>btr_have</infoportion_complete>
+</objective>
+<objective>
+<text>Уничтожить второй БТР</text>
+<map_location_type hint="БТР">crlc_big</map_location_type>
+			<object_story_id>test_btr_02</object_story_id>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>btr2_have</infoportion_complete>
+</objective>
+<objective>
+<text>Уничтожить третий БТР</text>
+<map_location_type hint="БТР">crlc_big</map_location_type>
+			<object_story_id>test_btr_03</object_story_id>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>btr3_have</infoportion_complete>
+</objective>
+<objective>
+<text>Вернуться к Чирку</text>
+<map_location_type hint="Юра Чирок">blue_location</map_location_type>
+<object_story_id>chirok</object_story_id>
+<infoportion_complete>btr_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<Монахи>-->
+ <game_task id="monaxi_prosba">
+<title>Благое дело</title>
+<objective>
+<text>Благое дело</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>monaxi_prosba_done</infoportion_complete>
+<article>tex_monaxi_prosba</article>
+</objective>
+<objective>
+<text>Зачистить кладбище около Церкви от нечисти</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.kladbische_have</function_complete>
+<infoportion_set_complete>monaxi_prosba_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Встретиться с Отцом Леонидом на Рыбацком хуторе</text>
+<map_location_type hint="Отец Леонид">blue_location</map_location_type>
+<object_story_id>batuschka_leon</object_story_id>
+<infoportion_complete>monaxi_prosba_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!-- Монахи разговор-->
+<game_task id="pogovor_otec_leonid">
+<title>Монахи</title>
+<objective>
+<text>Монахи</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pogovorili_otec_leonid</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с монахами</text>
+<map_location_type hint="Отец Леонид">blue_location</map_location_type>
+<object_story_id>batuschka</object_story_id>
+<infoportion_complete>pogovorili_otec_leonid</infoportion_complete>
+       </objective>
+      </game_task>	
+
+
+
+<!--<Монахи проводим>-->
+ <game_task id="monaxi_prosba_dva">
+<title>Сопроводить монахов до Церкви</title>
+<objective>
+<text>Сопроводить монахов до Церкви</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>monaxi_prosba_dva_done</infoportion_complete>
+<article>tex_monaxi_prosba_dva</article>
+</objective>
+<objective>
+<text>Сопроводить монахов до Церкви</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>monaxi_prosba_dva_have</infoportion_complete>
+<infoportion_fail>proval</infoportion_fail>
+<infoportion_fail>proval1</infoportion_fail>
+<infoportion_fail>proval2</infoportion_fail>
+</objective>
+<objective>
+<text>Побеседовать с отцом Леонидом</text>
+<map_location_type hint="Отец Леонид">blue_location</map_location_type>
+<object_story_id>batuschka_leon</object_story_id>
+<infoportion_complete>monaxi_prosba_dva_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<Монахи>-->
+ <game_task id="monaxi_prosba_gaz">
+<title>Баллоны с газом</title>
+<objective>
+<text>Баллоны с газом</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>monaxi_prosba_gaz_done</infoportion_complete>
+<article>tex_monaxi_prosba_gaz</article>
+</objective>
+<objective>
+<text>Проверить "Сгоревший хутор".</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.monaxi_prosba_gaz_have</function_complete>
+<infoportion_set_complete>monaxi_prosba_gaz_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Проверить хутор около водонапорной башни</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.monaxi_prosba_gaz1_have</function_complete>
+<infoportion_set_complete>monaxi_prosba_gaz1_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Отдать баллоны монахам</text>
+<map_location_type hint="Отец Леонид">blue_location</map_location_type>
+<object_story_id>batuschka_leon</object_story_id>
+<infoportion_complete>monaxi_prosba_gaz_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!-- Отец Сергий разговор-->
+<game_task id="pogovor_otec_sergiy">
+<title>Знакомство</title>
+<objective>
+<text>Отец Сергий</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pogovorili_otec_sergiy</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Отцом Сергием</text>
+<map_location_type hint="Отец Сергий">blue_location</map_location_type>
+<object_story_id>otec_sergiy</object_story_id>
+<infoportion_complete>pogovorili_otec_sergiy</infoportion_complete>
+       </objective>
+      </game_task>	
+
+
+<!--<Могила Лукаша>-->
+ <game_task id="zevs_pro_lukascha">
+<title>Посетить могилу Лукаша</title>
+<objective>
+<text>Могила друга</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>zevs_pro_lukascha_done</infoportion_complete>
+<article>tex_zevs_pro_lukascha</article>
+</objective>
+<objective>
+<text>Сходить на могилу Лукаша</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>zevs_pro_lukascha_have</infoportion_complete>
+</objective>
+<objective>
+<text>Вернуться к Зевсу</text>
+<map_location_type hint="Зевс">blue_location</map_location_type>
+<object_story_id>Zevs</object_story_id>
+<infoportion_complete>zevs_pro_lukascha_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<Гроб для Сидора>-->
+ <game_task id="grob_sidor">
+<title>Блажь Сидоровича</title>
+<objective>
+<text>Странная просьба</text>
+<icon>ui_grobik</icon>
+<infoportion_complete>grob_sidor_done</infoportion_complete>
+<article>tex_grob_sidor</article>
+</objective>
+<objective>
+<text>Сидорович просит достать добротный гроб.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.grob_sidor_have</function_complete>
+<infoportion_set_complete>grob_sidor_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Доставить заказ</text>
+<map_location_type hint="Сидорович">blue_location</map_location_type>
+<object_story_id>escape_trader</object_story_id>
+<infoportion_complete>grob_sidor_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!--<гробовщик>-->
+ <game_task id="grobovschik_kvest">
+<title>Гробовщик</title>
+<objective>
+<text>Пожарная безопасность</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>grobovschik_kvest_done</infoportion_complete>
+<article>tex_grobovschik_kvest</article>
+</objective>
+<objective>
+<text>Раздобыть огнетушитель</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.grobovschik_kvest_have</function_complete>
+<infoportion_set_complete>grobovschik_kvest_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Доставить заказ Гробовщику</text>
+<map_location_type hint="Гробовщик">blue_location</map_location_type>
+<object_story_id>grobovschik</object_story_id>
+<infoportion_complete>grobovschik_kvest_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!--<гробовщик2>-->
+ <game_task id="grobovschik_kvest_dva">
+<title>Курьерская работа</title>
+<objective>
+<text>Доставить документы</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>grobovschik_kvest_dva_done</infoportion_complete>
+<article>tex_grobovschik_kvest_dva</article>
+</objective>
+<objective>
+<text>Документы</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.grobovschik_kvest_dva_have</function_complete>
+<infoportion_set_complete>grobovschik_kvest_dva_have</infoportion_set_complete>
+</objective>
+<objective>
+<text>Передать документы Потапу</text>
+<map_location_type hint="Потап">blue_location</map_location_type>
+<object_story_id>potap</object_story_id>
+<infoportion_complete>grobovschik_kvest_dva_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!-- Вернуля к Гробовщику-->
+<game_task id="za_grobom">
+<title>Вернуться к Гробовщику</title>
+<objective>
+<text>Забрать заказ Сидоровича</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>zabrat_grob</infoportion_complete>
+</objective>
+<objective>
+<text>Забрать заказ Сидоровича</text>
+<map_location_type hint="Гробовщик">blue_location</map_location_type>
+<object_story_id>grobovschik</object_story_id>
+<infoportion_complete>zabrat_grob</infoportion_complete>
+       </objective>
+      </game_task>	
+
+
+
+
+<!--<Потап про ведьму>-->
+ <game_task id="potap_vedma">
+<title>Детский плач</title>
+<objective>
+<text>Детский плач</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>potap_vedma_done</infoportion_complete>
+<article>tex_potap_vedma</article>
+</objective>
+<objective>
+<text>Узнать, что за плач раздается из леска за болотом.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<!--<function_complete>chelovek.potap_vedma_have</function_complete>
+<infoportion_set_complete>potap_vedma_have</infoportion_set_complete>-->
+<infoportion_complete>potap_vedma_have</infoportion_complete>
+</objective>
+<objective>
+<text>Рассказать Потапу о том, что узнали.</text>
+<map_location_type hint="Потап">blue_location</map_location_type>
+<object_story_id>potap</object_story_id>
+<infoportion_complete>potap_vedma_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--Месть за Лукаша-->
+ <game_task id="za_lukascha">
+<title>Зло должно быть наказано</title>
+<objective>
+<text>Кровь за кровь</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>za_lukascha_done</infoportion_complete>
+<article>tex_za_lukascha</article>
+</objective>
+<objective>
+<text>Отомстить за смерть Лукаша</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<!--<function_complete>chelovek.za_lukascha_have</function_complete>
+<infoportion_set_complete>za_lukascha_have</infoportion_set_complete>-->
+<infoportion_complete>za_lukascha_have</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Зевсом</text>
+<map_location_type hint="Зевс">blue_location</map_location_type>
+<object_story_id>Zevs</object_story_id>
+<infoportion_complete>za_lukascha_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!-- К Харитону за патронами-->
+<game_task id="k_xaritonu">
+<title>Забрать патроны</title>
+<objective>
+<text>Патроны</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>k_xaritonu_patr</infoportion_complete>
+</objective>
+<objective>
+<text>Взять патроны у Харитона</text>
+<map_location_type hint="Харитон">blue_location</map_location_type>
+<object_story_id>Xariton</object_story_id>
+<infoportion_complete>k_xaritonu_patr</infoportion_complete>
+       </objective>
+      </game_task>	
+
+
+
+<!--<На могиле Лукаша>-->
+ <game_task id="proschai_drug">
+<title>На могиле друга</title>
+<objective>
+<text>Прощай Палыч</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>proschai_drug_done</infoportion_complete>
+<article>tex_proschai_drug</article>
+</objective>
+<objective>
+<text>На могиле друга</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>proschai_drug_have</infoportion_complete>
+</objective>
+<objective>
+<text>Разговор с Зевсом</text>
+<map_location_type hint="Зевс">blue_location</map_location_type>
+<object_story_id>Zevs</object_story_id>
+<infoportion_complete>proschai_drug_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!--<Xariton patroni>-->
+ <game_task id="radar_patrony">
+<title>Раздобыть патроны</title>
+<objective>
+<text>Достать патроны для "Свободы"</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>radar_patrony_done</infoportion_complete>
+<article>tex_radar_patrony</article>
+</objective>
+<objective>
+<text>Раздобыть пару цинков с патронами</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+ <function_complete>chelovek.radar_patrony_have</function_complete>
+<infoportion_set_complete>radar_patrony_have</infoportion_set_complete> 
+<!--<infoportion_complete>radar_patrony_have</infoportion_complete>-->
+</objective>
+<objective>
+<text>Вернуться к Харитону</text>
+<map_location_type hint="Харитон">blue_location</map_location_type>
+<object_story_id>Xariton</object_story_id>
+<infoportion_complete>radar_patrony_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!-- К Zevsu-->
+<game_task id="snova_zevs">
+<title>Зевс</title>
+<objective>
+<text>Разговор</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>snova_zevs_patr</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Зевсом</text>
+<map_location_type hint="Зевсн">blue_location</map_location_type>
+<object_story_id>Zevs</object_story_id>
+<infoportion_complete>snova_zevs_patr</infoportion_complete>
+       </objective>
+      </game_task>
+
+
+
+
+<!--<Сестра близнец>-->
+ <game_task id="pechalnay_istoria">
+<title>Близнецы</title>
+<objective>
+<text>Постараться спасти Ладу, сестру Кати.</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>pechalnay_istoria_done</infoportion_complete>
+<article>tex_pechalnay_istoria</article>
+</objective>
+
+<objective>
+<text>Лада</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<!-- <function_complete>chelovek.pechalnay_istoria_have</function_complete>
+<infoportion_set_complete>pechalnay_istoria_have</infoportion_set_complete> -->
+<infoportion_complete>pechalnay_istoria_have</infoportion_complete>
+</objective>
+
+<objective>
+<text>Вернуться к Катерине</text>
+<map_location_type hint="Катя">blue_location</map_location_type>
+<object_story_id>katia</object_story_id>
+<infoportion_complete>pechalnay_istoria_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+
+<!--<Качан сука>-->
+ <game_task id="kachan_af_okean">
+<title>Выкуп</title>
+<objective>
+<text>Таинственный артефакт</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>kachan_af_okean_done</infoportion_complete>
+<article>tex_kachan_af_okean</article>
+</objective>
+<objective>
+<text>Проверить "Оазис".</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+ <function_complete>chelovek.kachan_af_okean_have</function_complete>
+<infoportion_set_complete>kachan_af_okean_have</infoportion_set_complete> 
+<!--<infoportion_complete>kachan_af_okean_have</infoportion_complete>-->
+</objective>
+<objective>
+<text>Вернуться к Качану</text>
+<map_location_type hint="Качан">blue_location</map_location_type>
+<object_story_id>varan</object_story_id>
+<infoportion_complete>kachan_af_okean_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!--<Филарет>-->
+ <game_task id="filaret_zrk">
+<title>ЗРК "Волхов"</title>
+<objective>
+<text>Брошенный комплекс</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>filaret_zrk_done</infoportion_complete>
+<article>tex_filaret_zrk</article>
+</objective>
+<objective>
+<text>Исследовать ЗРК"Волхов"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+ <function_complete>chelovek.filaret_zrk_have</function_complete>
+<infoportion_set_complete>filaret_zrk_have</infoportion_set_complete> 
+<!--<infoportion_complete>filaret_zrk_have</infoportion_complete>-->
+</objective>
+<objective>
+<text>Вернуться к Филарету с результатом</text>
+<map_location_type hint="Филарет">blue_location</map_location_type>
+<object_story_id>torgasch_jup</object_story_id>
+<infoportion_complete>filaret_zrk_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!--<дорога до янова с катей>-->
+ <game_task id="katia_zavod_doroga">
+<title>На Янов</title>
+<objective>
+<text>Дорога на Янов</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>katia_zavod_doroga_prischli_done</infoportion_complete>
+<article>tex_katia_zavod_doroga</article>
+</objective>
+<objective>
+<text>Отвести Катю на Янов</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>katia_zavod_doroga_prischli_have</infoportion_complete>
+<infoportion_fail>proval_katia</infoportion_fail>
+</objective>
+<objective>
+<text>Поговорить с Катей</text>
+<map_location_type hint="Катерина">blue_location</map_location_type>
+<object_story_id>katia_kill</object_story_id>
+<infoportion_complete>katia_zavod_doroga_prischli_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!-- Разговор-->
+<game_task id="pro_katiu">
+<title>Беседа</title>
+<objective>
+<text>Беседа</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pro_katiu_infa</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с сержантом</text>
+<map_location_type hint="Сержант Волков">blue_location</map_location_type>
+<object_story_id>soldat</object_story_id>
+<infoportion_complete>pro_katiu_infa</infoportion_complete>
+       </objective>
+      </game_task>
+
+
+<!-- На Завод-->
+<game_task id="nayti_katiu">
+<title>Найти Катю</title>
+<objective>
+<text>Беседа</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>zavod</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Катериной</text>
+<map_location_type hint="Катя">blue_location</map_location_type>
+<object_story_id>katia_kill</object_story_id>
+<infoportion_complete>zavod</infoportion_complete>
+       </objective>
+      </game_task>
+
+
+
+
+<!--<Сафари>-->
+ <game_task id="gudvin_psy_pes">
+<title>Сафари</title>
+<objective>
+<text>Охота на Большого псевдопса.</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>gudvin_psy_pes_done</infoportion_complete>
+<article>tex_gudvin_psy_pes</article>
+</objective>
+<objective>
+<text>Убить  большого псведопса.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>gudvin_psy_pes_have</infoportion_complete>
+</objective>
+<objective>
+<text>Вырезать сердце псевдопса.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.gudvin_psy_pes_have</function_complete>
+<infoportion_set_complete>gudvin_psy_pes_2_have</infoportion_set_complete> 
+</objective>
+<objective>
+<text>Вернуться к Гудвину.</text>
+<map_location_type hint="Гудвин">blue_location</map_location_type>
+<object_story_id>gudvin</object_story_id>
+<infoportion_complete>gudvin_psy_pes_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!-- Апостол знакомство-->
+<game_task id="apostol_priv">
+<title>Апостол</title>
+<objective>
+<text>Знакомство</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>apostol_priv_pogovor</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Апостолом</text>
+<map_location_type hint="Апостол">blue_location</map_location_type>
+<object_story_id>apostol</object_story_id>
+<infoportion_complete>apostol_priv_pogovor</infoportion_complete>
+       </objective>
+      </game_task>
+	  
+<!--<Апостол>-->
+ <game_task id="lapa_demon">
+<title>Оберег "Монолита"</title>
+<objective>
+<text>Отыскать оберег группировки "Монолит".</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>lapa_demon_done</infoportion_complete>
+<article>tex_lapa_demon</article>
+</objective>
+<objective>
+<text>Добраться до места остановки монолитовцев.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>lapa_demon_have</infoportion_complete>
+</objective>
+<objective>
+<text>Разыскать артефакт "Лапа Демона".</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.lapa_demon_have</function_complete>
+<infoportion_set_complete>lapa_demon_2_have</infoportion_set_complete> 
+</objective>
+<objective>
+<text>Вернуться к Апостолу.</text>
+<map_location_type hint="Апостол">blue_location</map_location_type>
+<object_story_id>apostol</object_story_id>
+<infoportion_complete>lapa_demon_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+
+<!-- Медик знакомство-->
+<game_task id="medik_priv">
+<title>Гоша Медик</title>
+<objective>
+<text>Знакомство</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>medik_priv_pogovor</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Медиком</text>
+<map_location_type hint="Гоша Медик">blue_location</map_location_type>
+<object_story_id>jup_medik</object_story_id>
+<infoportion_complete>medik_priv_pogovor</infoportion_complete>
+       </objective>
+      </game_task>
+
+
+
+
+<!--<Медик>-->
+ <game_task id="medpunkt">
+<title>Медицина вещь серьёзная</title>
+<objective>
+<text>Раздобыть мединструменты</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>medpunkt_done</infoportion_complete>
+<article>tex_medpunkt</article>
+</objective>
+<objective>
+<text>Отыскать медпункт на з-де "Юпитер"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>medpunkt_have</infoportion_complete>
+</objective>
+<objective>
+<text>Найти мединструменты</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.medpunkt_have</function_complete>
+<infoportion_set_complete>medpunkt_2_have</infoportion_set_complete> 
+</objective>
+<objective>
+<text>Вернуться к Медику</text>
+<map_location_type hint="Гоша Медик">blue_location</map_location_type>
+<object_story_id>jup_medik</object_story_id>
+<infoportion_complete>medpunkt_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+
+<!--<Дизель>-->
+ <game_task id="dizel_kvest">
+<title>Инструменты Дизелю</title>
+<objective>
+<text>"Слесарные дела"</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>dizel_kvest_done</infoportion_complete>
+<article>tex_dizel_kvest</article>
+</objective>
+<objective>
+<text>Раздобыть инструмены.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.dizel_kvest_have</function_complete>
+<infoportion_set_complete>dizel_kvest_have</infoportion_set_complete>
+<!--<infoportion_complete>dizel_kvest_have</infoportion_complete>-->
+</objective>
+<objective>
+<text>Отыскать еще что-нибудь из инструментов.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.dizel_kvest1_have</function_complete>
+<infoportion_set_complete>dizel_kvest_2_have</infoportion_set_complete> 
+</objective>
+<objective>
+<text>Вернуться к Дизелю</text>
+<map_location_type hint="Дизель">blue_location</map_location_type>
+<object_story_id>dizel</object_story_id>
+<infoportion_complete>dizel_kvest_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+
+<!-- Dizel знакомство-->
+<game_task id="dizel_priv">
+<title>Дизель</title>
+<objective>
+<text>Знакомство</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>dizel_pogovor</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Дизелем</text>
+<map_location_type hint="Дизель">blue_location</map_location_type>
+<object_story_id>dizel</object_story_id>
+<infoportion_complete>dizel_pogovor</infoportion_complete>
+       </objective>
+      </game_task>
+
+
+
+<!--<Скоблев>-->
+ <game_task id="skoblev_kapachi">
+<title>Деревня "Капачи".</title>
+<objective>
+<text>"Вот моя деревня..."</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>skoblev_kapachi_done</infoportion_complete>
+<article>tex_skoblev_kapachi</article>
+</objective>
+<objective>
+<text>Исследовать "Капачи".</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.skoblev_kapachi_have</function_complete>
+<infoportion_set_complete>skoblev_kapachi_have</infoportion_set_complete>
+<!--<infoportion_complete>skoblev_kapachi_have</infoportion_complete>-->
+</objective>
+<objective>
+<text>Исследовать "Капачи" более тщательно.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.skoblev_kapachi1_have</function_complete>
+<infoportion_set_complete>skoblev_kapachi_2_have</infoportion_set_complete> 
+</objective>
+<objective>
+<text>Вернуться к Скоблеву</text>
+<map_location_type hint="Доктор Скоблев">blue_location</map_location_type>
+<object_story_id>skoblev</object_story_id>
+<infoportion_complete>skoblev_kapachi_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!-- Скоблев знакомство-->
+<game_task id="skoblev_kapachi_priv">
+<title>Доктор Скоблев</title>
+<objective>
+<text>Знакомство</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>skoblev_kapachi_pogovor</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Доктором Скоблевым</text>
+<map_location_type hint="Доктор Скоблев">blue_location</map_location_type>
+<object_story_id>skoblev</object_story_id>
+<infoportion_complete>skoblev_kapachi_pogovor</infoportion_complete>
+       </objective>
+      </game_task>
+
+
+
+
+<!--<Призрак>-->
+ <game_task id="prizrak_kpp">
+<title>"Когда я был маленьким..."</title>
+<objective>
+<text>Фото мамы</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>prizrak_kpp_done</infoportion_complete>
+<article>tex_prizrak_kpp</article>
+</objective>
+<!--<objective>
+<text>Исследовать "Капачи".</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.prizrak_kpp_have</function_complete>
+<infoportion_set_complete>prizrak_kpp_have</infoportion_set_complete>
+<!--<infoportion_complete>prizrak_kpp_have</infoportion_complete> 
+</objective>-->
+<objective>
+<text>Забрать фото мамы Андрея.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.prizrak_kpp1_have</function_complete>
+<infoportion_set_complete>prizrak_kpp_2_have</infoportion_set_complete> 
+</objective>
+<objective>
+<text>Вернуться к Андрею</text>
+<map_location_type hint="Андрей(призрак)">blue_location</map_location_type>
+<object_story_id>prizrak</object_story_id>
+<infoportion_complete>prizrak_kpp_done</infoportion_complete> 
+</objective>
+</game_task>	  
+	    
+	  
+	  
+	  
+	  
+<!--<Старик Мг>-->
+ <game_task id="dead_city_starik">
+<title>"Хлебушка бы нам..."</title>
+<objective>
+<text>"Давно мы хлеба не едали..."</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>dead_city_starik_done</infoportion_complete>
+<article>tex_dead_city_starik</article>
+</objective>
+<!--<objective>
+<text>Исследовать "Капачи".</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.dead_city_starik_have</function_complete>
+<infoportion_set_complete>dead_city_starik_have</infoportion_set_complete>
+<!--<infoportion_complete>dead_city_starik_have</infoportion_complete> 
+</objective>-->
+<objective>
+<text>Раздобыть хлеб и консервы для Старика и его людей</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.dead_city_starik1_have</function_complete>
+<infoportion_set_complete>dead_city_starik_2_have</infoportion_set_complete> 
+</objective>
+<objective>
+<text>Вернуться к Старику</text>
+<map_location_type hint="Старик">blue_location</map_location_type>
+<object_story_id>starik</object_story_id>
+<infoportion_complete>dead_city_starik_done</infoportion_complete> 
+</objective>
+</game_task>	 	  
+	  
+	  
+	 <!-- Ньютон знакомство-->
+<game_task id="nyuton_priv">
+<title>Контроллер по имени Ньютон</title>
+<objective>
+<text>Знакомство</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>nyuton_pogovor</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Ньтоном</text>
+<map_location_type hint="Ньютон">blue_location</map_location_type>
+<object_story_id>nyuton</object_story_id>
+<infoportion_complete>nyuton_pogovor</infoportion_complete>
+       </objective>
+      </game_task> 
+	  
+	  
+	  
+	  
+<!--<Нина Старик Мг>-->
+ <game_task id="nina_produkty">
+<title>Наука - дело серьёзное...</title>
+<objective>
+<text>Будни учёного...</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>nina_produkty_done</infoportion_complete>
+<article>tex_nina_produkty</article>
+</objective>
+<objective>
+<text>Территория завода(новый артефакт)</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.nina_produkty_have</function_complete>
+<infoportion_set_complete>nina_produkty_have</infoportion_set_complete>
+<!--<infoportion_complete>nina_produkty_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+<objective>
+<text>Спуститься в х16(возможно остались какие-то документы)</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.nina_produkty1_have</function_complete>
+<infoportion_set_complete>nina_produkty_1_have</infoportion_set_complete> 
+</objective>
+<objective>
+<text>Вернуться к Пестрецовой</text>
+<map_location_type hint="Н.И.Пестрецова">blue_location</map_location_type>
+<object_story_id>nina</object_story_id>
+<infoportion_complete>nina_produkty_done</infoportion_complete> 
+</objective>
+</game_task>	 	  
+	  
+	  
+	  
+	<!--<Ньютон книги  Мг>-->
+ <game_task id="nyuton_knigi">
+<title>Книга - самый лучший подарок...</title>
+<objective>
+<text>Читающий контроллёр</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>nyuton_knigi_done</infoportion_complete>
+<article>tex_nyuton_knigi</article>
+</objective>
+<objective>
+<text>Раздобыть книгу для Ньютона</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.nyuton_knigi_have</function_complete>
+<infoportion_set_complete>nyuton_knigi_have</infoportion_set_complete>
+<!--<infoportion_complete>nyuton_knigi_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+<objective>
+<text>Раздобыть вторую книгу для Ньютона</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.nyuton_knigi1_have</function_complete>
+<infoportion_set_complete>nyuton_knigi_1_have</infoportion_set_complete> 
+</objective>
+<objective>
+<text>Ньютон - разговор</text>
+<map_location_type hint="Ньютон">blue_location</map_location_type>
+<object_story_id>nyuton</object_story_id>
+<infoportion_complete>nyuton_knigi_done</infoportion_complete> 
+</objective>
+</game_task>	 	  
+	  
+	  
+	  
+<!-- Пастух знакомство-->
+<game_task id="pastux_vstrecha">
+<title>Добраться до прачечной</title>
+<objective>
+<text>Пастух</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pastux_vstrecha_pogovor</infoportion_complete>
+</objective>
+<objective>
+<text>Встреча в Припяти.</text>
+<map_location_type hint="Пастух">blue_location</map_location_type>
+<object_story_id>pastux</object_story_id>
+<infoportion_complete>pastux_vstrecha_pogovor</infoportion_complete>
+       </objective>
+      </game_task> 	  
+	  
+	  
+	  
+	  
+	<!-- Пастух знакомство-->
+<game_task id="pastux_komanda">
+<title>Знакомство</title>
+<objective>
+<text>Отчаянные</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>dobrynya_pogovor</infoportion_complete>
+</objective>
+<objective>
+<text>Познакомиться с Шинкарём</text>
+<map_location_type hint="Шинкарь">blue_location</map_location_type>
+<object_story_id>schinkar</object_story_id>
+<infoportion_complete>schinkar_pogovor</infoportion_complete>
+       </objective>
+	   
+
+<objective>
+<text>Познакомиться с Анной</text>
+<map_location_type hint="Анна">blue_location</map_location_type>
+<object_story_id>anna</object_story_id>
+<infoportion_complete>anna_pogovor</infoportion_complete>
+       </objective>
+
+
+<objective>
+<text>Познакомиться с Добрыней</text>
+<map_location_type hint="Добрыня">blue_location</map_location_type>
+<object_story_id>dobrynya</object_story_id>
+<infoportion_complete>dobrynya_pogovor</infoportion_complete>
+       </objective>
+	   
+	   
+</game_task> 	  
+	  
+	  <!-- Пастух разговор-->
+<game_task id="pastux_vstrecha_2">
+<title>Вернуться к Пастуху</title>
+<objective>
+<text>Беседа</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pastux_vstrecha_2_pogovor</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Пастухом ещё раз.</text>
+<map_location_type hint="Пастух">blue_location</map_location_type>
+<object_story_id>pastux</object_story_id>
+<infoportion_complete>pastux_vstrecha_2_pogovor</infoportion_complete>
+       </objective>
+      </game_task> 
+	  
+	 <!--<Пастух кабан>-->
+ <game_task id="pastux_taran">
+<title>Припятские приключения</title>
+<objective>
+<text>Просьба Пастуха</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>pastux_taran_done</infoportion_complete>
+<article>tex_pastux_taran</article>
+</objective>
+<objective>
+<text>Голова кабанчика(убить и освежевать)...</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.pastux_taran_have</function_complete>
+<infoportion_set_complete>pastux_taran_have</infoportion_set_complete>
+<!--<infoportion_complete>pastux_taran_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+<objective>
+<text>"Речной порт" - отыскать артефакт "Компас"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.pastux_taran1_have</function_complete>
+<infoportion_set_complete>pastux_taran_1_have</infoportion_set_complete> 
+</objective>
+<objective>
+<text>Вернуться к Пастуху</text>
+<map_location_type hint="Пастух">blue_location</map_location_type>
+<object_story_id>pastux</object_story_id>
+<infoportion_complete>pastux_taran_done</infoportion_complete> 
+</objective>
+</game_task>	 	   
+	  
+	  
+	  
+	<!-- Шинкарь зайти-->
+<game_task id="schinkar_zaiti">
+<title>Зайти к Шинкарю</title>
+<objective>
+<text>Взять подарок</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>schinkar_zaiti_pogovor</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Шинкарём</text>
+<map_location_type hint="Шинкарь">blue_location</map_location_type>
+<object_story_id>schinkar</object_story_id>
+<infoportion_complete>schinkar_zaiti_pogovor</infoportion_complete>
+       </objective>
+      </game_task>   
+	  
+	  
+	  
+<!--<Анна>-->
+ <game_task id="ladanka_anna">
+<title>Подарок матери</title>
+<objective>
+<text>Ладанка</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>ladanka_anna_done</infoportion_complete>
+<article>tex_ladanka_anna</article>
+</objective>
+<objective>
+<text>Отыскать потерянную ладанку в "Юбилейном"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.ladanka_anna_have</function_complete>
+<infoportion_set_complete>ladanka_anna_have</infoportion_set_complete>
+<!--<infoportion_complete>ladanka_anna_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+<!--<objective>
+<text>"Речной порт" - отыскать "Компас"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.ladanka_anna1_have</function_complete>
+<infoportion_set_complete>ladanka_anna_1_have</infoportion_set_complete> 
+</objective>-->
+<objective>
+<text>Вернуться к Анне</text>
+<map_location_type hint="Анна">blue_location</map_location_type>
+<object_story_id>anna</object_story_id>
+<infoportion_complete>ladanka_anna_done</infoportion_complete> 
+</objective>
+</game_task>		  
+	  
+	  
+	  
+<!-- Анна просьба-->
+<game_task id="anna_prosba">
+<title>Зайти к Анне</title>
+<objective>
+<text>Просьба</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>anna_prosba_pogovor</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Анной</text>
+<map_location_type hint="Анна">blue_location</map_location_type>
+<object_story_id>anna</object_story_id>
+<infoportion_complete>anna_prosba_pogovor</infoportion_complete>
+       </objective>
+      </game_task>   	  
+	  
+	  
+	  
+	  
+	  
+	<!--<Основной сюжетный квест>-->
+ <game_task id="dok_arty">
+<title>Лекарство</title>
+<objective>
+<text>Собрать артефакты для приготовления лекарства.</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>dok_arty_done</infoportion_complete>
+<article>tex_dok_arty</article>
+</objective>
+
+<objective>
+<text>Добыть "Вороний глаз"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.dok_arty_have</function_complete>
+<infoportion_set_complete>dok_arty_have</infoportion_set_complete>
+<!--<infoportion_complete>dok_arty_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+-<objective>
+<text>Добыть "Стекло"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.dok_arty1_have</function_complete>
+<infoportion_set_complete>dok_arty_1_have</infoportion_set_complete> 
+</objective>
+
+-<objective>
+<text>Добыть "Кольцо"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.dok_arty2_have</function_complete>
+<infoportion_set_complete>dok_arty_2_have</infoportion_set_complete> 
+</objective>
+
+-<objective>
+<text>Добыть "Губку"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.dok_arty3_have</function_complete>
+<infoportion_set_complete>dok_arty_3_have</infoportion_set_complete> 
+</objective>
+
+-<objective>
+<text>Добыть "Зеленую Корону"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.dok_arty4_have</function_complete>
+<infoportion_set_complete>dok_arty_4_have</infoportion_set_complete> 
+</objective>
+
+<objective>
+<text>Вернуться с артефактами к Болотному Доктору</text>
+<map_location_type hint="Болотный Доктор">blue_location</map_location_type>
+<object_story_id>doktor_old</object_story_id>
+<infoportion_complete>dok_arty_done</infoportion_complete> 
+</objective>
+</game_task>		  
+	  
+
+
+<!-- Доктор встреча-->
+<game_task id="dok_vstrecha">
+<title>Встреча друзей</title>
+<objective>
+<text>Болотный Доктор</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>dok_vstrecha_pogovor</infoportion_complete>
+</objective>
+<objective>
+<text>Разговор</text>
+<map_location_type hint="Болотный Доктор">blue_location</map_location_type>
+<object_story_id>doktor_old</object_story_id>
+<infoportion_complete>dok_vstrecha_pogovor</infoportion_complete>
+       </objective>
+      </game_task>   	 
+
+
+
+
+<!--<Кровосос злой>-->
+ <game_task id="krovosos_zol">
+<title>Злой "сосед"</title>
+<objective>
+<text>Просьба Болотного Доктора</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>krovosos_zol_done</infoportion_complete>
+<article>tex_krovosos_zol</article>
+</objective>
+<objective>
+<text>Уничтожить кровососа</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<!--<function_complete>chelovek.krovosos_zol_have</function_complete>-->
+<!--<infoportion_set_complete>krovosos_zol_have</infoportion_set_complete>--> <!--Заготовка-->
+<infoportion_complete>krovosos_zol_have</infoportion_complete>
+</objective>
+<!--<objective>
+<text>"Речной порт" - отыскать "Компас"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.krovosos_zol1_have</function_complete>
+<infoportion_set_complete>krovosos_zol_1_have</infoportion_set_complete> 
+</objective>-->
+<objective>
+<text>Вернуться к Доктору</text>
+<map_location_type hint="Болотный Доктор">blue_location</map_location_type>
+<object_story_id>doktor_old</object_story_id>
+<infoportion_complete>krovosos_zol_done</infoportion_complete> 
+</objective>
+</game_task>	 	 
+	  
+	  
+	  
+<!--<Основной сюжетный квест>-->
+ <game_task id="dok_arty_vernulis">
+<title>"Гербарий"</title>
+<objective>
+<text>Отыскать цветы красного папоротника.</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>dok_arty_vernulis_done</infoportion_complete>
+<article>tex_dok_arty_vernulis</article>
+</objective>
+
+<objective>
+<text>Добыть первый цветок</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.dok_arty_vernulis_have</function_complete>
+<infoportion_set_complete>dok_arty_vernulis_have</infoportion_set_complete>
+<!--<infoportion_complete>dok_arty_vernulis_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+-<objective>
+<text>Добыть второй цветок</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.dok_arty_vernulis1_have</function_complete>
+<infoportion_set_complete>dok_arty_vernulis_1_have</infoportion_set_complete> 
+</objective>
+
+-<objective>
+<text>Добыть третий цветок</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.dok_arty_vernulis2_have</function_complete>
+<infoportion_set_complete>dok_arty_vernulis_2_have</infoportion_set_complete> 
+</objective>
+
+-<!--<objective>
+<text>Добыть "Губку"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.dok_arty_vernulis3_have</function_complete>
+<infoportion_set_complete>dok_arty_vernulis_3_have</infoportion_set_complete> 
+</objective>
+
+-<objective>
+<text>Добыть "Зеленую Корону"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.dok_arty_vernulis4_have</function_complete>
+<infoportion_set_complete>dok_arty_vernulis_4_have</infoportion_set_complete> 
+</objective>-->
+
+<objective>
+<text>Вернуться Доку</text>
+<map_location_type hint="Болотный Доктор">blue_location</map_location_type>
+<object_story_id>doktor_old</object_story_id>
+<infoportion_complete>dok_arty_vernulis_done</infoportion_complete> 
+</objective>
+</game_task>		  
+	  	  
+	  
+<!--<ДОК Дополнительно>-->
+ <game_task id="dok_zadanie_vert">
+<title>Что это может быть...</title>
+<objective>
+<text>Незваные гости...</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>dok_zadanie_vert_done</infoportion_complete>
+<article>tex_dok_zadanie_vert</article>
+</objective>
+
+<objective>
+<text>Проверить место падения верта на Старом Болоте.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.dok_zadanie_vert_have</function_complete>
+<infoportion_set_complete>dok_zadanie_vert_have</infoportion_set_complete>
+<!--<infoportion_complete>dok_zadanie_vert_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Вернуться к Доку</text>
+<map_location_type hint="Болотный Доктор">blue_location</map_location_type>
+<object_story_id>doktor_old</object_story_id>
+<infoportion_complete>dok_zadanie_vert_done</infoportion_complete> 
+</objective>
+</game_task>		  	  
+	  
+	  
+	  
+	<!--Предзонье идем в Лиманск малая Зона-->
+ <game_task id="predzona_limansk_kurier">
+<title>Лиманск</title>
+<objective>
+<text>Найти Степаныча в Лиманске</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>predzona_limansk_kurier_done</infoportion_complete>
+<article>tex_predzona_limansk_kurier</article>
+</objective>
+
+<objective>
+<text>Радиостанция</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.predzona_limansk_kurier_have</function_complete>
+<infoportion_set_complete>predzona_limansk_kurier_have</infoportion_set_complete>
+<!--<infoportion_complete>predzona_limansk_kurier_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Добраться до Лиманска и передать рацию Степанычу</text>
+<map_location_type hint="Степаныч">blue_location</map_location_type>
+<object_story_id>travnik</object_story_id>
+<infoportion_complete>predzona_limansk_kurier_done</infoportion_complete> 
+</objective>
+</game_task>	  
+	  
+	  
+	  
+<!--<Дозиметр>-->
+ <game_task id="pivo_gluk">
+<title>Местные</title>
+<objective>
+<text>Дозимерт за пиво.</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>pivo_gluk_done</infoportion_complete>
+<article>tex_pivo_gluk</article>
+</objective>
+
+<objective>
+<text>Достать три банки пива "Обломов"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.pivo_gluk_have</function_complete>
+<infoportion_set_complete>pivo_gluk_have</infoportion_set_complete>
+<!--<infoportion_complete>pivo_gluk_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Отдать пиво Ваньке Глюку</text>
+<!--<map_location_type hint="Болотный Доктор">blue_location</map_location_type>
+<object_story_id>doktor_old</object_story_id>-->
+<infoportion_complete>pivo_gluk_done</infoportion_complete> 
+</objective>
+</game_task>		 	  
+	  
+	  
+	  
+<!--<ГЛАВНЫЙ КВЕСТ>-->
+ <game_task id="wnuchka_polkovnika">
+<title>Чистая душа</title>
+<objective>
+<text>Лекарство из Зоны</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>wnuchka_polkovnika_done</infoportion_complete>
+<article>tex_wnuchka_polkovnika</article>
+</objective>
+
+<objective>
+<text>Раздобыть лекарство для внучки полковника Боголюбова</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.wnuchka_polkovnika_have</function_complete>
+<infoportion_set_complete>wnuchka_polkovnika_have</infoportion_set_complete>
+<!--<infoportion_complete>wnuchka_polkovnika_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Вернуться к полковнику с лекарством.</text>
+<map_location_type hint="Полковник Боголюбов">blue_location</map_location_type>
+<object_story_id>polkovnik</object_story_id>
+<infoportion_complete>wnuchka_polkovnika_done</infoportion_complete> 
+</objective>
+</game_task>		  
+	  
+	  
+<!-- Снаряга от полковника Данила-->
+<game_task id="pedbannik_traber_vstrecha">
+<title>Снаряга</title>
+<objective>
+<text>Зайти к Даниле</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>pedbannik_traber_vstrecha_pogovor</infoportion_complete>
+</objective>
+<objective>
+<text>Получить снаряжение у Данилы</text>
+<map_location_type hint="Данила">blue_location</map_location_type>
+<object_story_id>pedbannik_traber</object_story_id>
+<infoportion_complete>pedbannik_traber_vstrecha_pogovor</infoportion_complete>
+       </objective>
+      </game_task> 	  
+	  
+	  
+	  
+	  
+<!--<колобок КВЕСТ>-->
+ <game_task id="kolobok_kwest">
+<title>Мечта</title>
+<objective>
+<text>Таинственная нычка</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>kolobok_kwest_done</infoportion_complete>
+<article>tex_kolobok_kwest</article>
+</objective>
+
+<objective>
+<text>Отыскать нычку на территории городка</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.kolobok_kwest_have</function_complete>
+<infoportion_set_complete>kolobok_kwest_have</infoportion_set_complete>
+<!--<infoportion_complete>kolobok_kwest_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Обрадовать Колобка</text>
+<map_location_type hint="Колобок">blue_location</map_location_type>
+<object_story_id>peps</object_story_id>
+<infoportion_complete>kolobok_kwest_done</infoportion_complete> 
+</objective>
+</game_task>	  
+	  
+	  
+<!--<история Мирного>-->
+ <game_task id="kolobok_mirniy">
+<title>История Мирного</title>
+<objective>
+<text>Последний поход</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>kolobok_mirniy_done</infoportion_complete>
+<article>tex_kolobok_mirniy</article>
+</objective>
+
+<objective>
+<text>Узнать, что случилось с Мирным</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.kolobok_mirniy_have</function_complete>
+<infoportion_set_complete>kolobok_mirniy_have</infoportion_set_complete>
+<!--<infoportion_complete>kolobok_mirniy_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Поговорить с Колобком</text>
+<map_location_type hint="Колобок">blue_location</map_location_type>
+<object_story_id>peps</object_story_id>
+<infoportion_complete>kolobok_mirniy_done</infoportion_complete> 
+</objective>
+</game_task>	  	  
+	  
+	  
+<!-- Снова кордон Кайдан-->
+<game_task id="kaidan">
+<title>Снова на Кордоне</title>
+<objective>
+<text>Поговорить со старшим блок-поста</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>kaidan_pogovor</infoportion_complete>
+</objective>
+<objective>
+<text>Знакомство с Кайданом</text>
+<map_location_type hint="Кайдан">blue_location</map_location_type>
+<object_story_id>kaidanovsky_blok</object_story_id>
+<infoportion_complete>kaidan_pogovor</infoportion_complete>
+       </objective>
+      </game_task> 	  	  
+	  
+	  
+<!-- Снова кордон Волк-->
+<game_task id="volk">
+<title>Деревня новичков</title>
+<objective>
+<text>Встреча с Волком</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>volk_pogovor</infoportion_complete>
+</objective>
+<objective>
+<text>Разговор друзей</text>
+<map_location_type hint="Волк">blue_location</map_location_type>
+<object_story_id>esc_wolf</object_story_id>
+<infoportion_complete>volk_pogovor</infoportion_complete>
+       </objective>
+      </game_task> 	  
+	  
+	  
+	  
+<!-- Продолжим склады-->
+<game_task id="alex">
+<title>Знакоство</title>
+<objective>
+<text>Алекс</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>alex_pogovor</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Алексом</text>
+<map_location_type hint="Алекс">blue_location</map_location_type>
+<object_story_id>mil_alex</object_story_id>
+<infoportion_complete>alex_pogovor</infoportion_complete>
+       </objective>
+      </game_task> 	  	  
+	  
+	  
+<!-- Продолжим склады Алекс-->
+ <game_task id="alex_kwest">
+<title>"Благородный напиток"</title>
+<objective>
+<text>В гостях у наймов</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>alex_kwest_done</infoportion_complete>
+<article>tex_alex_kwest</article>
+</objective>
+
+<objective>
+<text>Достать бутылку коньяку</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.alex_kwest_have</function_complete>
+<infoportion_set_complete>alex_kwest_have</infoportion_set_complete>
+<!--<infoportion_complete>alex_kwest_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Отдать коньяк Алексу</text>
+<map_location_type hint="Алекс">blue_location</map_location_type>
+<object_story_id>mil_alex</object_story_id>
+<infoportion_complete>alex_kwest_done</infoportion_complete> 
+</objective>
+</game_task>	  
+	  
+	  
+	  
+<!-- Продолжим склады-->
+<game_task id="vxod_x8">
+<title>Х8</title>
+<objective>
+<text>Неизвестность</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>vxod_x8_nascli</infoportion_complete>
+</objective>
+<objective>
+<text>Добраться до входа в лабораторию Х8</text>
+<!--<map_location_type hint="Алекс">blue_location</map_location_type>
+<object_story_id>mil_vxod_x8</object_story_id>-->
+<infoportion_complete>vxod_x8_nascli</infoportion_complete>
+       </objective>
+      </game_task> 	  
+	  
+	  
+	  
+<!-- Лиманск Степаныч-->
+ <game_task id="stepanych_kwest">
+<title>Лиманские приключения</title>
+<objective>
+<text>Помочь Степанычу</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>stepanych_kwest_done</infoportion_complete>
+<article>tex_stepanych_kwest</article>
+</objective>
+
+<objective>
+<text>Забрать припасы из схрона Степаныча</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.stepanych_kwest_have</function_complete>
+<infoportion_set_complete>stepanych_kwest_have</infoportion_set_complete>
+<!--<infoportion_complete>stepanych_kwest_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Вернуться к Степанычу.</text>
+<map_location_type hint="Степаныч">blue_location</map_location_type>
+<object_story_id>travnik</object_story_id>
+<infoportion_complete>stepanych_kwest_done</infoportion_complete> 
+</objective>
+</game_task>	  
+	  
+	  
+<!-- Лиманск Степаныч 2-->
+ <game_task id="stepanych_kwestprivet">
+<title>"Вишенка"</title>
+<objective>
+<text>Редкий артефакт</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>stepanych_kwestprivet_done</infoportion_complete>
+<article>tex_stepanych_kwestprivet</article>
+</objective>
+
+<objective>
+<text>Степаныч передал артефакт "Вишенка"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.stepanych_kwestprivet_have</function_complete>
+<infoportion_set_complete>stepanych_kwestprivet_have</infoportion_set_complete>
+<!--<infoportion_complete>stepanych_kwestprivet_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Отдать артефакт Михалычу</text>
+<map_location_type hint="Михалыч">blue_location</map_location_type>
+<object_story_id>sidor</object_story_id>
+<infoportion_complete>stepanych_kwestprivet_done</infoportion_complete> 
+</objective>
+</game_task>	  
+	  
+	  
+	  
+<!-- Разговор с полковником первый-->
+<game_task id="vip_zadanie">
+<title>Полковник Боголюбов</title>
+<objective>
+<text>Знакомство</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>vip_zadanie_vzial</infoportion_complete>
+</objective>
+<objective>
+<text>Разговор с полковником</text>
+<map_location_type hint="Полковник Боголюбов">blue_location</map_location_type>
+<object_story_id>polkovnik</object_story_id>
+<infoportion_complete>vip_zadanie_vzial</infoportion_complete>
+       </objective>
+      </game_task> 	  	  
+	  
+	  
+<!-- брага Затон-->
+ <game_task id="braga_zaton">
+<title>"Бражка"</title>
+<objective>
+<text>Бражка Витамина</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>braga_zaton_done</infoportion_complete>
+<article>tex_braga_zaton</article>
+</objective>
+
+<objective>
+<text>Забрать флягу с брагой на "Сгоревшем хуторе"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.braga_zaton_have</function_complete>
+<infoportion_set_complete>braga_zaton_have</infoportion_set_complete>
+<!--<infoportion_complete>braga_zaton_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Вернуться к Витамину</text>
+<map_location_type hint="Витамин">blue_location</map_location_type>
+<object_story_id>vitamin</object_story_id>
+<infoportion_complete>braga_zaton_done</infoportion_complete> 
+</objective>
+</game_task>		  
+	  
+	  
+	  
+	  
+<!-- Гиря Затон-->
+ <game_task id="gira_kwest_zaton">
+<title>"Череп"</title>
+<objective>
+<text>Добыть артефакт</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>gira_kwest_zaton_done</infoportion_complete>
+<article>tex_gira_kwest_zaton</article>
+</objective>
+
+<objective>
+<text>Отыскать артефакт "Череп"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.gira_kwest_zaton_have</function_complete>
+<infoportion_set_complete>gira_kwest_zaton_have</infoportion_set_complete>
+<!--<infoportion_complete>gira_kwest_zaton_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Вернуться к Гире</text>
+<map_location_type hint="Гиря">blue_location</map_location_type>
+<object_story_id>gira</object_story_id>
+<infoportion_complete>gira_kwest_zaton_done</infoportion_complete> 
+</objective>
+</game_task>	  
+	  
+	  
+<!-- Хирург-->
+ <game_task id="xirurg_kwest">
+<title>Заказ Хирурга</title>
+<objective>
+<text>Дела медицинские</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>xirurg_kwest_done</infoportion_complete>
+<article>tex_xirurg_kwest</article>
+</objective>
+
+<objective>
+<text>Забрать ящик с бинтами в городке</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.xirurg_kwest_have</function_complete>
+<infoportion_set_complete>xirurg_kwest_have</infoportion_set_complete>
+<!--<infoportion_complete>xirurg_kwest_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Вернуться к Хирургу</text>
+<map_location_type hint="Хирург">blue_location</map_location_type>
+<object_story_id>xirurg</object_story_id>
+<infoportion_complete>xirurg_kwest_done</infoportion_complete> 
+</objective>
+</game_task>		  
+	  
+	  
+	  
+<!-- Potapenko-->
+<game_task id="kapitan">
+<title>Потапенко</title>
+<objective>
+<text>Встреча</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>kapitan_vzial</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Потапенко</text>
+<map_location_type hint="Потапенко">blue_location</map_location_type>
+<object_story_id>kapitan</object_story_id>
+<infoportion_complete>kapitan_vzial</infoportion_complete>
+       </objective>
+      </game_task> 	 	  
+	  
+	  
+	  
+<!-- Потапенко-->
+ <game_task id="kapitan_kwest">
+<title>Подработка</title>
+<objective>
+<text>Дела бумажные</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>kapitan_kwest_done</infoportion_complete>
+<article>tex_kapitan_kwest</article>
+</objective>
+
+<objective>
+<text>Документы</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.kapitan_kwest_have</function_complete>
+<infoportion_set_complete>kapitan_kwest_have</infoportion_set_complete>
+<!--<infoportion_complete>kapitan_kwest_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Передать документы майору Бывалому</text>
+<map_location_type hint="Майор Бывалый">blue_location</map_location_type>
+<object_story_id>mayor</object_story_id>
+<infoportion_complete>kapitan_kwest_done</infoportion_complete> 
+</objective>
+</game_task>		  
+	  
+
+<!-- Бывалый-->
+ <game_task id="maior_byval_kwest">
+<title>Привет от Бывалого</title>
+<objective>
+<text>Передать ноутбук Потапенко</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>maior_byval_kwest_done</infoportion_complete>
+<article>tex_maior_byval_kwest</article>
+</objective>
+
+<objective>
+<text>Ноутбук</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.maior_byval_kwest_have</function_complete>
+<infoportion_set_complete>maior_byval_kwest_have</infoportion_set_complete>
+<!--<infoportion_complete>maior_byval_kwest_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Отдать ноутбук Потапенко</text>
+<map_location_type hint="Потапенко">blue_location</map_location_type>
+<object_story_id>kapitan</object_story_id>
+<infoportion_complete>maior_byval_kwest_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!-- Евсей-->
+ <game_task id="evsey_kwest">
+<title>Серьёзный заказ</title>
+<objective>
+<text>Добыть редкий артефакт</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>evsey_kwest_done</infoportion_complete>
+<article>tex_evsey_kwest</article>
+</objective>
+
+<objective>
+<text>Достать артефакт "Обруч Венеры" из "Котла"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.evsey_kwest_have</function_complete>
+<infoportion_set_complete>evsey_kwest_have</infoportion_set_complete>
+<!--<infoportion_complete>evsey_kwest_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Вернуться к заказчику</text>
+<map_location_type hint="Евсей">blue_location</map_location_type>
+<object_story_id>evsey</object_story_id>
+<infoportion_complete>evsey_kwest_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!-- Евсей2-->
+ <game_task id="evsey_biomassa">
+<title>Странное создание</title>
+<objective>
+<text>Притащить труп "биомассы"</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>evsey_biomassa_done</infoportion_complete>
+<article>tex_evsey_biomassa</article>
+</objective>
+
+<objective>
+<text>Забрать труп "Биомассы" у "Котла"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.evsey_biomassa_have</function_complete>
+<infoportion_set_complete>evsey_biomassa_have</infoportion_set_complete>
+<!--<infoportion_complete>evsey_biomassa_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Вернуться к Евсею</text>
+<map_location_type hint="Евсей">blue_location</map_location_type>
+<object_story_id>evsey</object_story_id>
+<infoportion_complete>evsey_biomassa_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!-- Болота на базу-->
+ <game_task id="na_bazu_march">
+<title>Нелюди</title>
+<objective>
+<text>Фото внучки</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>na_bazu_march_done</infoportion_complete>
+<article>tex_na_bazu_march</article>
+</objective>
+
+<objective>
+<text>Добыть фото внучки Старого у Крюка</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.na_bazu_march_have</function_complete>
+<infoportion_set_complete>na_bazu_march_have</infoportion_set_complete>
+<!--<infoportion_complete>na_bazu_march_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Вернуться к Старому</text>
+<map_location_type hint="Старый">blue_location</map_location_type>
+<object_story_id>marsh_provodnik</object_story_id>
+<infoportion_complete>na_bazu_march_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!-- Проводник встреча-->
+<game_task id="provodnik">
+<title>Проводник</title>
+<objective>
+<text>Найти Проводника</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>provodnik_est</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить со Старым</text>
+<map_location_type hint="Старый">blue_location</map_location_type>
+<object_story_id>marsh_provodnik</object_story_id>
+<infoportion_complete>provodnik_est</infoportion_complete>
+       </objective>
+      </game_task> 	 	
+
+
+
+<!-- Крюк-->
+<game_task id="kruk_mraz">
+<title>Крюк</title>
+<objective>
+<text>Найти Крюка</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>kruk_vstr</infoportion_complete>
+</objective>
+<objective>
+<text>Разговор с Крюком</text>
+<map_location_type hint="Крюк">blue_location</map_location_type>
+<object_story_id>kruk</object_story_id>
+<infoportion_complete>kruk_vstr</infoportion_complete>
+       </objective>
+      </game_task> 	
+	  
+
+<!-- Болота Крюк-->
+ <game_task id="kruk_padla">
+<title>Против воли</title>
+<objective>
+<text>Желание Крюка</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>kruk_padla_done</infoportion_complete>
+<article>tex_kruk_padla</article>
+</objective>
+
+<objective>
+<text>Раздобыть артефакт "Око Дракона"</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.kruk_padla_have</function_complete>
+<infoportion_set_complete>kruk_padla_have</infoportion_set_complete>
+<!--<infoportion_complete>kruk_padla_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Вернуться к Крюку</text>
+<map_location_type hint="Крюк">blue_location</map_location_type>
+<object_story_id>kruk</object_story_id>
+<infoportion_complete>kruk_padla_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!-- Болота Клоун-->
+ <game_task id="kloun_kwest">
+<title>Доверяй, но проверяй.</title>
+<objective>
+<text>Вор</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>kloun_kwest_done</infoportion_complete>
+<article>tex_kloun_kwest</article>
+</objective>
+
+<objective>
+<text>Поговорить с Петлёй</text>
+<map_location_type hint="Петля">blue_location</map_location_type>
+<object_story_id>petlia</object_story_id>
+<infoportion_complete>petlia_vstr</infoportion_complete>
+       </objective>
+
+<objective>
+<text>Достать украденные документы</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.kloun_kwest_have</function_complete>
+<infoportion_set_complete>kloun_kwest_have</infoportion_set_complete>
+<!--<infoportion_complete>kloun_kwest_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Вернуться к Клоуну</text>
+<map_location_type hint="Клоун">blue_location</map_location_type>
+<object_story_id>kloun</object_story_id>
+<infoportion_complete>kloun_kwest_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!-- Болота Петля-->
+ <game_task id="petlia_kwest">
+<title>Неизвестность</title>
+<objective>
+<text>Обрез и Дуплет</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>petlia_kwest_done</infoportion_complete>
+<article>tex_petlia_kwest</article>
+</objective>
+
+<objective>
+<text>Забрать товар, если бандиты мертвы.</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.petlia_kwest_have</function_complete>
+<infoportion_set_complete>petlia_kwest_have</infoportion_set_complete>
+<!--<infoportion_complete>petlia_kwest_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Вернуться к Петле</text>
+<map_location_type hint="Петля">blue_location</map_location_type>
+<object_story_id>petlia</object_story_id>
+<infoportion_complete>petlia_kwest_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+
+<!-- Прохора ищем-->
+<game_task id="proxor_poisk">
+<title>Обида</title>
+<objective>
+<text>Прохор</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>proxor_vstr</infoportion_complete>
+</objective>
+<objective>
+<text>Отыскать Прохора</text>
+<map_location_type hint="Прохор">blue_location</map_location_type>
+<object_story_id>bomj</object_story_id>
+<infoportion_complete>proxor_vstr</infoportion_complete>
+       </objective>
+      </game_task> 
+
+
+<!-- Силуян нашли друга-->
+<game_task id="siluan_proxor">
+<title>Прощение</title>
+<objective>
+<text>Силуян</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>siluan_proxor_vstr</infoportion_complete>
+</objective>
+<objective>
+<text>Поговорить с Силуяном</text>
+<map_location_type hint="Силуян">blue_location</map_location_type>
+<object_story_id>amk_vitek_voron</object_story_id>
+<infoportion_complete>siluan_proxor_vstr</infoportion_complete>
+       </objective>
+      </game_task> 
+
+
+
+<!-- Тайник Стрелка-->
+<game_task id="taynik_strelka">
+<title>Убежище</title>
+<objective>
+<text>Схрон Стрелка</text>
+<icon>ui_sxron</icon>
+<infoportion_complete>taynik_strelka_est</infoportion_complete>
+</objective>
+<objective>
+<text>Проверить убежище Стрелка более тщательно</text>
+<icon height="50" width="50" x="300" y="0">ui\ui_icons_task</icon>
+<function_complete>chelovek.taynik_strelka_est</function_complete>
+<infoportion_set_complete>taynik_strelka_est</infoportion_set_complete>
+</objective>
+      </game_task> 
+
+
+
+
+<!-- Фигура Свалка-->
+ <game_task id="figura_kwest">
+<title>"Беспредельщики"</title>
+<objective>
+<text>Мамон и Ко</text>
+<icon>ui_iconsTotal_deficit</icon>
+<infoportion_complete>figura_kwest_done</infoportion_complete>
+<article>tex_figura_kwest</article>
+</objective>
+
+<objective>
+<text>Ликвидировать Мамона</text>
+<icon height="50" width="50" x="50" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>figura_m_kwest_have</infoportion_complete> 
+<infoportion_set_complete>sklad_otkrit</infoportion_set_complete>
+<!--<function_complete>chelovek.figura_kwest_have</function_complete>
+<infoportion_set_complete>figura_kwest_have</infoportion_set_complete>--><!--Заготовка-->
+</objective>
+
+<objective>
+<text>Найти и забрать инструменты</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.figura_kwest_have</function_complete>
+<infoportion_set_complete>figura_kwest_have</infoportion_set_complete>
+<!--<infoportion_complete>figura_kwest_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Вернуться к Фигуре</text>
+<map_location_type hint="Фигура">blue_location</map_location_type>
+<object_story_id>figura</object_story_id>
+<infoportion_complete>figura_kwest_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+
+
+
+<!-- Фарт Свалка-->
+ <game_task id="sania_fart_kwest">
+<title>"Фартовая нычка"</title>
+<objective>
+<text>Саня Фарт</text>
+<icon>ui_sxron</icon>
+<infoportion_complete>sania_fart_kwest_done</infoportion_complete>
+<article>tex_sania_fart_kwest</article>
+</objective>
+
+<objective>
+<text>Отыскать нычку Сани Фарта</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.sania_fart_kwest_have</function_complete>
+<infoportion_set_complete>sania_fart_kwest_have</infoportion_set_complete>
+<!--<infoportion_complete>sania_fart_kwest_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+ <objective>
+<text>Вернуться к Сане</text>
+<map_location_type hint="Саня Фарт">blue_location</map_location_type>
+<object_story_id>knut</object_story_id>
+<infoportion_complete>sania_fart_kwest_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!-- Болт Свалка-->
+ <game_task id="bolt_kwest">
+<title>"Человек на цистерне"</title>
+<objective>
+<text>Телепортация</text>
+<icon>ui_sxron</icon>
+<infoportion_complete>bolt_kwest_done</infoportion_complete>
+<article>tex_bolt_kwest</article>
+</objective>
+
+<objective>
+<text>Отыскать телепорт на цистерну</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<infoportion_complete>bolt_kwest_tel_have</infoportion_complete> <!--Заготовка-->
+</objective>
+
+<objective>
+<text>Обследовать верх цистерны</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.bolt_kwest_have</function_complete>
+<infoportion_set_complete>bolt_kwest_have</infoportion_set_complete>
+</objective>
+
+ <objective>
+<text>Рассказать Болту о том, что узнали.</text>
+<map_location_type hint="Болт">blue_location</map_location_type>
+<object_story_id>bolt</object_story_id>
+<infoportion_complete>bolt_kwest_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!-- Воронин Бар-->
+ <game_task id="voronin_bar_kwest">
+<title>Помощь "Долгу"</title>
+<objective>
+<text>Спецзадание</text>
+<icon>ui_sxron</icon>
+<infoportion_complete>voronin_bar_kwest_done</infoportion_complete>
+<article>tex_voronin_bar_kwest</article>
+</objective>
+
+<objective>
+<text>Ликвидировать Скальпа</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<!--<function_complete>chelovek.voronin_bar_kwest_have</function_complete>
+<infoportion_set_complete>voronin_bar_kwest_have</infoportion_set_complete>-->
+<infoportion_complete>voronin_bar_kwest_tel_have</infoportion_complete> <!--Заготовка-->
+</objective>
+
+<objective>
+<text>Забрать документы у Скальпа</text>
+<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
+<function_complete>chelovek.voronin_bar_kwest_have</function_complete>
+<infoportion_set_complete>voronin_bar_kwest_have</infoportion_set_complete>
+<!--<infoportion_complete>voronin_bar_kwest_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+<objective>
+<text>Вернуться к Воронину</text>
+<map_location_type hint="Воронин">blue_location</map_location_type>
+<object_story_id>bar_dolg_leader</object_story_id>
+<infoportion_complete>voronin_bar_kwest_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+
+
+
+<!-- Дядя Паша притча-->
+<game_task id="pritcha">
+<title>"Притча"</title>
+<objective>
+<text>Слухи из Бара</text>
+<icon>ui_sxron</icon>
+<infoportion_complete>pritcha_est</infoportion_complete>
+<article>tex_pritcha_bar</article>
+</objective>
+<objective>
+<text>Проверить легенду о сказачном хабаре.</text>
+<icon height="50" width="50" x="300" y="0">ui\ui_icons_task</icon>
+<function_complete>chelovek.pritcha_bar_est</function_complete>
+<infoportion_set_complete>pritcha_est</infoportion_set_complete>
+</objective>
+      </game_task> 
+
+
+
+<!-- Мамука-->
+ <game_task id="mamuka_lopata_kwest">
+<title>"Ужас на хуторе"</title>
+<objective>
+<text>"Не боится только дурак"</text>
+<icon>ui_mob</icon>
+<infoportion_complete>mamuka_lopata_kwest_done</infoportion_complete>
+<article>tex_mamuka_lopata</article>
+</objective>
+
+<objective>
+<text>Достать штыковую лопату для Мамуки</text>
+<icon width="80" height="43" x="50" y="200">ui\ui_icons_task</icon>
+<function_complete>chelovek.mamuka_lopata_kwest_have</function_complete>
+<infoportion_set_complete>mamuka_lopata_kwest_have</infoportion_set_complete>
+<!--<infoportion_complete>mamuka_lopata_kwest_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+<objective>
+<text>Уничтожить "Болотную Тварь"</text>
+<icon width="80" height="43" x="50" y="200">ui\ui_icons_task</icon>
+<!--<function_complete>chelovek.mamuka_lopata_kwest_have</function_complete>
+<infoportion_set_complete>mamuka_lopata_kwest_have</infoportion_set_complete>-->
+<infoportion_complete>mamuka_lopata_kwest_tel_have</infoportion_complete> <!--Заготовка-->
+</objective>
+
+<objective>
+<text>Добыть трофей с "Болотной твари"</text>
+<icon width="80" height="43" x="50" y="200">ui\ui_icons_task</icon>
+<function_complete>chelovek.mamuka_trofey</function_complete>
+<infoportion_set_complete>mamuka_lopata_kwest_have2</infoportion_set_complete>
+</objective>
+
+<objective>
+<text>Вернуться к Мамуке</text>
+<map_location_type hint="Мамука">blue_location</map_location_type>
+<object_story_id>nora_stalk</object_story_id>
+<infoportion_complete>mamuka_lopata_kwest_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!-- Мамука друг встреча-->
+<game_task id="drug_mamuka">
+<title>Друг Мамука</title>
+<objective>
+<text>Встреча</text>
+<icon>ui_beseda</icon>
+<infoportion_complete>drug_mamuka_vstr</infoportion_complete>
+</objective>
+<objective>
+<text>Навестить Мамуку</text>
+<map_location_type hint="Мамука">blue_location</map_location_type>
+<object_story_id>nora_stalk</object_story_id>
+<infoportion_complete>drug_mamuka_vstr</infoportion_complete>
+       </objective>
+      </game_task> 
+
+
+
+
+<!-- Вован-->
+ <game_task id="vovan_rostok_kwest">
+<title>Проверить информацию</title>
+<objective>
+<text>Покинутый "Росток"</text>
+<icon>ui_sxron</icon>
+<infoportion_complete>vovan_rostok_kwest_done</infoportion_complete>
+<article>tex_vovan_rostok</article>
+</objective>
+
+<objective>
+<text>Проверить первый ангар</text>
+<icon width="80" height="43" x="50" y="200">ui\ui_icons_task</icon>
+<function_complete>chelovek.vovan_rostok_kwest_have</function_complete>
+<infoportion_set_complete>vovan_rostok_kwest_have</infoportion_set_complete>
+<!--<infoportion_complete>vovan_rostok_kwest_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+<objective>
+<text>Проверить второй ангар</text>
+<icon width="80" height="43" x="50" y="200">ui\ui_icons_task</icon>
+<function_complete>chelovek.vovan_rostok_kwest_have_1</function_complete>
+<infoportion_set_complete>vovan_rostok_kwest_have_1</infoportion_set_complete>
+<!--<infoportion_complete>vovan_rostok_kwest_tel_have</infoportion_complete>--> <!--Заготовка-->
+</objective>
+
+<objective>
+<text>Проверить  здание у "железки"</text>
+<icon width="80" height="43" x="50" y="200">ui\ui_icons_task</icon>
+<function_complete>chelovek.vovan_rostok_kwest_have_3</function_complete>
+<infoportion_set_complete>vovan_rostok_kwest_have_3</infoportion_set_complete>
+</objective>
+
+<objective>
+<text>Проверить подземный переход </text>
+<icon width="80" height="43" x="50" y="200">ui\ui_icons_task</icon>
+<function_complete>chelovek.vovan_rostok_kwest_have_2</function_complete>
+<infoportion_set_complete>vovan_rostok_kwest_have_2</infoportion_set_complete>
+</objective>
+
+
+<objective>
+<text>Вернуться к Вовану</text>
+<map_location_type hint="Вован">blue_location</map_location_type>
+<object_story_id>vovan_meniala</object_story_id>
+<infoportion_complete>vovan_rostok_kwest_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+<!-- Семеновна-->
+ <game_task id="sem_ucet_kwest">
+<title>Сейф</title>
+<objective>
+<text>Добраться до сейфа</text>
+<icon>ui_sxron</icon>
+<infoportion_complete>sem_ucet_kwest_done</infoportion_complete>
+<article>tex_sem_ucet</article>
+</objective>
+
+<objective>
+<text>Достать из сейфа книгу прихода-расхода товаров.</text>
+<icon width="80" height="43" x="50" y="200">ui\ui_icons_task</icon>
+<function_complete>chelovek.sem_ucet_kwest_have</function_complete>
+<infoportion_set_complete>sem_ucet_kwest_have</infoportion_set_complete>
+</objective>
+
+ 
+<objective>
+<text>Отдать книгу Семёновне</text>
+<map_location_type hint="Семёновна">blue_location</map_location_type>
+<object_story_id>semenovna</object_story_id>
+<infoportion_complete>sem_ucet_kwest_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!-- Патрон-->
+ <game_task id="patron_zat_kwest">
+<title>Дорогая медицина</title>
+<objective>
+<text>Отыскать Алтына</text>
+<icon>ui_sxron</icon>
+<infoportion_complete>patron_zat_kwest_done</infoportion_complete>
+<article>tex_patron_zat</article>
+</objective>
+
+<objective>
+<text>Добраться до места откуда Алтын прислал сообщение.</text>
+<icon width="80" height="43" x="50" y="200">ui\ui_icons_task</icon>
+<infoportion_complete>patron_zat_kwest_1_have</infoportion_complete>
+</objective>
+
+
+<objective>
+<text>Взять кейс с медикаментами</text>
+<icon width="80" height="43" x="50" y="200">ui\ui_icons_task</icon>
+<function_complete>chelovek.patron_zat_kwest_have</function_complete>
+<infoportion_set_complete>patron_zat_kwest_have</infoportion_set_complete>
+</objective>
+
+ 
+<objective>
+<text>Вернуться к Патрону</text>
+<map_location_type hint="Патрон">blue_location</map_location_type>
+<object_story_id>svist</object_story_id>
+<infoportion_complete>patron_zat_kwest_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!-- Ровный-->
+ <game_task id="rovn_gerbag_kwest">
+<title>Возвращение в Тёмную Долину</title>
+<objective>
+<text>"Алмазный Череп"</text>
+<icon>ui_sxron</icon>
+<infoportion_complete>rovn_gerbag_kwest_done</infoportion_complete>
+<article>tex_rovn_gerbag</article>
+</objective>
+
+<objective>
+<text>Отыскать Евгена Ботаника</text>
+<icon width="80" height="43" x="50" y="200">ui\ui_icons_task</icon>
+<function_complete>chelovek.rovn_gerbag_kwest_1_have</function_complete>
+<infoportion_set_complete>rovn_gerbag_kwest_1_have</infoportion_set_complete>
+</objective>
+
+
+<objective>
+<text>Проверить информацию об артефакте</text>
+<icon width="80" height="43" x="50" y="200">ui\ui_icons_task</icon>
+<function_complete>chelovek.rovn_gerbag_kwest_have</function_complete>
+<infoportion_set_complete>rovn_gerbag_kwest_have</infoportion_set_complete>
+</objective>
+
+ 
+<objective>
+<text>Вернуться к Ровному</text>
+<map_location_type hint="Ровный">blue_location</map_location_type>
+<object_story_id>amk_artem_kulinar</object_story_id>
+<infoportion_complete>rovn_gerbag_kwest_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+<!-- Саныч болота-->
+ <game_task id="sanych_boloto_kwest">
+<title>Никуда без аккумулятора</title>
+<objective>
+<text>Аккумуляторы</text>
+<icon>ui_sxron</icon>
+<infoportion_complete>sanych_boloto_kwest_done</infoportion_complete>
+<article>tex_sanych_boloto</article>
+</objective>
+
+<objective>
+<text>Отыскать пару аккумуляторов на старом АТП.</text>
+<icon width="80" height="43" x="50" y="200">ui\ui_icons_task</icon>
+<function_complete>chelovek.sanych_boloto_kwest_have</function_complete>
+<infoportion_set_complete>sanych_boloto_kwest_have</infoportion_set_complete>
+</objective>
+
+<objective>
+<text>Вернуться к Санычу</text>
+<map_location_type hint="Роман Саныч">blue_location</map_location_type>
+<object_story_id>marsh_remont</object_story_id>
+<infoportion_complete>sanych_boloto_kwest_done</infoportion_complete> 
+</objective>
+</game_task>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
