@@ -1,321 +1,321 @@
-<?xml version="1.0" encoding="windows-1251" ?>
-<string_table>	
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
 <string id="mil_freedom_commander_7000">
-		<text>Спасибо, Сталкер! Отбились от этих фанатиков шизанутых... А ведь у нас, бывает, и зверьё бежит с Радара - тогда вообще армагеддец, застрелиться проще! Очень уж быстро бегут, хрен попадёшь! Была у нас против тварья раньше отличная штуковина - огнемёт, да что-то не фурычит больше. К мастеру бы нашему - Шурупу - сходить, да времени нет! Сам видел, эти уроды так и лезут! Ну ладно, пора рассчитаться. Деньгами возьмёшь?</text>
+		<text>Dziкki Stalkerze! Wywalczyliњmy od tych szalonych fanatykуw... Ale tak siк zdarza. A no i jeszcze zwierz przemknie. Ten zwierz przyіazi z Radaru - wtedy zawsze jest armagedon! Biega bardzo szybko, cholera! Kiedyњ mieliњmy doskonaіe narzкdzie przeciwko stworowi - miotacz ognia, ale coњ juї przestaі dziaіaж. Chciaіem iњж do naszego mistrza Szurupy, ale nie ma czasu! Ci№gle te dziwol№gi przyіaї№! Dobra, czas siк rozliczyж. Weџmiesz pieni№dze?</text>
 	</string>
 
 	<string id="mil_freedom_commander_7001">
-		<text>Да, деньги очень бы не помешали!</text>
+		<text>Tak, pieni№dze zawsze siк przydadz№.</text>
 	</string>
 
 
 	<string id="mil_freedom_commander_7002">
-		<text>А что, есть другие варианты?</text>
+		<text>Jakie s№ inne opcje?</text>
 	</string>
 
 
 	<string id="mil_freedom_commander_7003">
-		<text>Да как сказать... Деньги-то и самим нужны... Давай так. Дам тебе 1000 и огнемёт этот поломанный... Нам от тут, поломанный, не нужен, а чинить, повторюсь, никто не пойдёт. Я гляжу, ты парень толковый, не поленись - зайди к Шурупу, авось починит. Вот тогда и поймёшь, что эта благодарность покруче денег будет!</text>
+		<text>Jakby powiedzieж... My sami potrzebujemy pieniкdzy... Zrуbmy tak: dam Ci 1000 i ten zepsuty miotacz ognia... Nie potrzebujemy zepsutego, ale powtarzam, nikt nie pуjdzie go naprawiж. Widzк, їe jesteњ m№drym facetem, nie b№dџ leniwy - idџ do Szurupy, moїe to naprawi. Rozumiesz, їe ta wdziкcznoњж bкdzie czymњ wiкcej niї pieniкdzmi!</text>
 	</string>
 
 	<string id="mil_freedom_commander_7004">
-		<text>Нет, спасибо. Лучше просто деньгами.</text>
+		<text>Nie, dziкkujк. Lepsze s№ pieni№dze.</text>
 	</string>
 	<string id="mil_freedom_commander_7005">
-		<text>О, нормально. Думаю, я найду этой хреновине применение!</text>
+		<text>O, dobra. Myњlк, їe znajdк sposуb na to badziewie!</text>
 	</string>
 
 
 
 
 	<string id="mil_screw_flamethrower_1000">
-		<text>А, любитель подумать... Ну, вот тебе головоломку принёс. "Убитый насмерть огнемёт" называется. До меня с ним твои коллеги игрались... Помог я им там одно дело провернуть - дали в подарок. И совет вдогонку, если хочешь оживить, мол, давай к Шурупу. Что скажешь? Воскресить реально?</text>
+		<text>Ach, miіoњnik myњlenia... Cуї, oto zagadka dla Ciebie. „Zabity na њmierж miotacz ognia”. Przede mn№ bawili siк nim Twoi koledzy... Pomogіem im w jednej sprawie a oni dali mi za to w prezencie. I radк na odchodne - jeњli chcesz to naprawiж to idџ do Szurupy. Co Ty na to? Da siк z tym coњ zrobiж?</text>
 	</string>
 
 	<string id="mil_screw_flamethrower_1001">
-		<text>Опа... Твою!.. Я столько колдовал с этим огнемётом!.. И на тебе - сломали!!! Мммать... нда... шланг перебит... ого... и тут тоже сломано... Что за хрень?! Они его по всем аномалиям протащили, или его химера жрала, да срыгнула?! Короче, Сталкер, работы тут хватит. А я так работал над ним, ночи напролёт не спал... Ну, раз ты там нам чем-то помог, помогу и я тебе. Не бесплатно, сам понимаешь - времена нынче непростые... Давай с тобой списочек деталей для починки набросаем. Так... Кое-что у меня тут есть, кое-что у ребят поспрашиваю... Тааак-с. Смотри, что выходит... Да, придётся тебе побегать за запчастями...</text>
+		<text>Opa... Tyle wyczarowaіem tym miotaczem ognia!.. I popsuli w cholerк! Hmmm... zepsuty na amen... ehh... i tutaj coњ poіamane... Co do cholery?! Co oni, ci№gneli go przez wszystkie anomalie, czy jakaњ chimera przeїuіa i wyrzygaіa?! Krуtko mуwi№c, Stalker, jest przy tym bardzo duїo pracy. A tak bardzo nad tym pracowaіem, nie spaіem caі№ noc... Cуї, skoro nam pomogіeњ, ja teї Ci pomogк. Nie za darmo, rozumiesz - czasy nie s№ teraz іatwe... Zrobimy listк napraw. Wiкc... poproszк chіopakуw o czкњci... Taaaak. Zobaczymy, co z tego wyjdzie... No a Ty bкdziesz musiaі polataж za czкњciami...</text>
 	</string>
 
 
 	<string id="mil_screw_flamethrower_1002">
-		<text>Да ну к чертям эту железку! Геморроя больше, чем толку. Возьмёшь себе за 2500?</text>
+		<text>E-tam, do diabіa z tym kawaіkiem їelaza! Nie chce mi siк lataж. Chcesz go za 2500?</text>
 	</string>
 
 
 	<string id="mil_screw_flamethrower_1003">
-		<text>Побегать, говоришь?.. Ладно, не привыкать. Говори, что тебе там надо.</text>
+		<text>Polataж, mуwisz?.. Dobra, nie przyzwyczajaj siк do tego. Powiedz, czego potrzebujesz.</text>
 	</string>
 
 	<string id="mil_screw_flamethrower_1004">
-		<text>Ладно, так уж и быть, возьму.</text>
+		<text>Dobra, niech tak bкdzie, biorк.</text>
 	</string>
 
 	<string id="mil_screw_flamethrower_1005">
-		<text>Так... ну, вот примерный список:\n\n
-Во-первых, артефакт нужен, "Огненный шар" называется. Тут паять - не перепаять, сколько дыр! Обычным паяльником - работы до зимы! А с артефактом этим я побыстрей всё сварю, есть у меня способ хороший... \n
-Во-вторых, трубки. Те, что на нём сейчас стоят, предназначены для поливки огурцов, но никак не для провода горючей смеси! Так что раздобудь трубку какую-нибудь подходящую. Могу посоветовать на "Свалке", на кучах с мусором поискать, только смотри там радиация зашкаливает, одной водкой не выведешь, защита нужна соответствующая, например научный комбинезон.\n
-В-третьих, манометр (датчик давления, для непонятливых) - тутошний вообще отхреначен. Видимо, консервы им открывали. Оригиналы, чтоб их... Вот давай теперь - подорвись и найди мне его. Советую на Агропроме поискать. Там НИИ типа как был, может, ещё и валяется где.\n
-В-четвёртых, горелка. Без неё никак. Кто тутошнюю погрыз - загадка... словно бюреру в зубы запихали!.. Горелку можно у наших поспрашивать.. Да только хрен кто её отдаст! На ней хорошо колбасу коптить. Хе-хе. Ну, если только ты тут по-тихонькому в бараках не поищешь. Правда, есть вариант вернее. Сгоняй к Бармену - вот кто у нас кладезь херовни всякой. Выпроси какую-нибудь, я прилажу, всё нормально будет. Только не говори для кого, а то "Долгу" ещё стукнет, что я тут химичу - тут же прискачут с облавой! Оно нам надо?\n
-Ну, и самое важное в любом механизме - смазка. То есть спирт. Детальки отполировать и себе внутрь залакировать. Смекаешь? Найди мне водочки, а? На трезвую голову что-то не охота мне это мастерить всё. Работы тут много, так что давай бутылочек эдак пять... нет, семь... Стоп, давай десять. Мало ли - на детали не останется.\n
-Всё. Давай, собирай. Ты ж сталкер, братуха! Я в тебя верю. Желательно, чтобы ты поиски с водки начал, конечнo...</text>
+		<text>Wiкc... cуї, oto Twoja lista:\n\n
+Po pierwsze, potrzebny jest artefakt, nazywa siк „Kula Ognia”. Tutaj do lutowania - ile tu dziur! Przy pomocy zwykіej lutownicy - roboty do zimy! A tym artefaktem szybko wszystko zespawam, mam dobry sposуb... \n
+Po drugie, dysze. Te, ktуre s№ za mn№ sіuї№ do podlewania ogуrkуw. Radzк udaж siк na „Wysypisko”, poszukaj na haіdach њmieci, tylko uwaїaj bo tam jest niemaіe promieniowanie. Nie dasz rady uїywaj№c samej wуdki, potrzebujesz odpowiedniej ochrony np. naukowej kombinezon.\n
+Po trzecie manometr (czujnik ciњnienia, dla tкpych) - ten lokalny jest ogуlnie spieprzony. Podobno otwierali nim konserwy. Jebana inteligencja... No cуї, bкdziesz musiaі go znaleџж. Radzк spojrzeж na Agroprom. Jest tam instytut badawczy. Myњlк, їe tam moїe leїeж.\n
+Po czwarte, palnik. Nic bez niego. Ktoњ poіamaі te tu... jakby wpychali burerowi w gкbк! Dobrze jest na nim piec kieіbasк. Hehe. No chyba, їe po cichu zajrzysz do koszar. Moїe byж ciкzko, ale istnieje alternatywa. Idџ do Barmana - on ma skіad wszelkiego rodzaju drobiazgуw. Moїe uda Ci siк wyprosiж, a wszystko bкdzie dobrze. Tylko nie mуw dla kogo, w przeciwnym razie zapuka do „Powinnoњci”, їe robiк tutaj dziwne rzeczy a oni natychmiast wskocz№ z іapanki! Po co mi to?\n
+Cуї, najwaїniejsz№ rzecz№ w kaїdym mechanizmie jest smarowanie. Tu potrzebny jest alkohol. Wypolerujк elementy i zakonserwujк je w њrodku. Wiesz o czym mуwiк? Znajdџ mi wуdkк, dobrze? Na trzeџwo, nie bardzo mi siк chce to wszystko robiж. Tu jest strasznie duїo pracy, wiкc daj piкж butelek... nie, siedem... DZIESIКЖ. Nigdy nie wiadomo – jak bкdzie szіa robota.\n
+Wszystko. Idџ, zbierz wyszstko. Jesteњ Stalkerem, bracie! Wierzк w Ciebie. Poї№dane jest oczywiњcie rozpoczкcie poszukiwaс od wуdki...</text>
 	</string>
 
 
 	<string id="mil_screw_flamethrower_1006">
-		<text>Ого. Неслабый список покупок! Ладно. Надеюсь, это того стоит.</text>
+		<text>Fiu-fiu. Dіuga ta lista zakupуw! Dobra. Mam nadziejк, їe bкdzie warto.</text>
 	</string>
 
 
 	<string id="mil_screw_flamethrower_1007">
-		<text>Да, стоит. И стоить это будет 5000. И то - по большой дружбе!</text>
+		<text>Tak, warto. I bкdzie kosztowaж 5000. Po znajomoњci oczywiњcie!</text>
 	</string>
 
 
 	<string id="mil_screw_flamethrower_1008">
-		<text>А вот о деньгах речи не шло!..</text>
+		<text>Nie byіo mowy o jakiњ pieni№dzach tylko czкњciach!..</text>
 	</string>
 
 
 	<string id="mil_screw_flamethrower_1009">
-		<text>А теперь идёт. За такую вещь, что я собирать буду, можно и больше было заломить! Но я добрый. И потом. Ну сам посуди. Кто кроме меня будет эту хрень собирать, а? Так что давай, не жадничай. </text>
+		<text>A teraz jest. Za tak№ robotк normalnie powinienem wzi№ж wiкcej! Ale jestem miіy, ma siк rozumieж. Pomyњl sam - kto oprуcz mnie rozіoїy, naprawi i zіoїy do kupy ten zіom? Wiкc nie b№dџ sk№py. </text>
 	</string>
 
 
 	<string id="mil_screw_flamethrower_1010">
-		<text>Чёрт с тобой... Ладно, пойду. Смотри, не спейся до моего возвращения!</text>
+		<text>Do diabіa z Tob№... Dobra, pуjdк. Sіuchaj, nie upij siк przed moim powrotem!</text>
 	</string>
 
 	<string id="escape_trader_flamethrower_dialog_0">
-		<text>Привет тебе принёс. Погоняло Шуруп тебе что-нибудь говорит?</text>
+		<text>Przychodze z pozdrowieniami. Czy ksywka Szurup mуwi Ci coњ?</text>
 	</string>
 
 	<string id="escape_trader_flamethrower_dialog_1000">
-		<text>Шуруп, Шуруп... Мда, память уже не та... Да, был вроде такой сталкер. Если ничего не путаю, любил за воротник залить. Порядочно принимал, всё время у меня закупался водкой. Я уж думал, допился до смерти он. Хех... хотя, хабар неплохой мне умудрялся таскать, да и руки у него из правильного места растут. То телек нам тут починит, то дозиметры... А что ты о нём говорил там? Никак жив он?</text>
+		<text>Szurup, Szurup... Hmm, pamiкж juї nie ta... Tak, byі taki stalker. Jeњli dobrze kojarzк, nie wylewaі za koіnierz. Nieџle waliі gorzaік, caіy czas kupowaі ode mnie wуdkк. Myњlaіem, їe zapiі siк na њmierж. Heh... taka trochк zіota r№czka z niego byіa. Czasem przy okazji a to telewizor naprawiі a to dozymetr... A co tam o nim mуwiіeњ? Їyje w ogуle?</text>
 	</string>
 
 	<string id="escape_trader_flamethrower_dialog_1001">
-		<text>Жив, жив... Привет тебе от него, говорю. Сказал, что у тебя можно кое-чем разжиться. Слушай, Сидорович, мне трубки железные нужны. Небольшие такие, вот такого размера примерно. Мне скорее даже не себе, а Шурупу... Есть что-нибудь похожее?</text>
+		<text>Їyje, їyje... Pozdrawia Ciк, mуwiіem. Powiedziaі, їe moїesz coњ zdobyж. Posіuchaj, Sidorowiczu, potrzebujк dysz. Maіe, mniej wiкcej tej wielkoњci. Nie chcк ich dla siebie, ale dla Szurupy... Masz coњ podobnego?</text>
 	</string>
 
 	<string id="escape_trader_flamethrower_dialog_1002">
-		<text>Чего?! Откуда у меня-то? Или они ценность какую имеют? Нет ничего даже похожего! Мне, что денег не стоит, на хрен не надо!</text>
+		<text>Co?! Sk№d mam niby coњ takiego mieж? Albo jak№ maj№ wartoњж? Nie mam nic podobnego! Na cholerк z tym!</text>
 	</string>
 
 	<string id="escape_trader_flamethrower_dialog_1003">
-		<text>Так. Понятно. Ну и сколько мне будет это стоить?</text>
+		<text>Nie jкcz. Ile mnie to bкdzie kosztowaж?</text>
 	</string>
 
 	<string id="escape_trader_flamethrower_dialog_1004">
-		<text>Ты, Меченный, оглох от радиации совсем? Говорю же - нет ничего похожего! Есть, конечно, вариантец один... обрадовал ты меня, что Шуруп жив. Так что забесплатно посоветую тебе к Лёхе Тамбовскому наведаться. Он у нас парень с мозгами, вечно что-то мастерит, думаю, найдёт тебе что-нибудь. Он сейчас вроде как на Свалке шляется, ищет что-то для своих поделок. Лови его координаты.</text>
+		<text>Ty, Naznaczony, ogіuchіeњ od promieniowania? Mуwiк Ci, nic takiego nie mam! Jest oczywiњcie jedna opcja... uszczкњliwiіeњ mnie, їe Szurup їyje. Wiкc za darmo poradzк odwiedziж Lioszк Tambowska. Jest facetem z mуzgiem, zawsze coњ majstruje. Myњlк, їe znajdzie coњ dla Ciebie. Wydaje siк, їe teraz bі№ka siк gdzieњ po Wysypisku, szukaj№c czegoњ do swojego rzemiosіa. Zdob№dџ jego wspуіrzкdne.</text>
 	</string>
 
 
 	<string id="escape_trader_flamethrower_dialog_1005">
-		<text>Спасибо. В кои-то веки, что-то забесплатно сделал... Мда... старый жлоб...</text>
+		<text>Dziкkujк Ci. [pod nosem:] Choж raz zrobiі coњ za darmo... nosz... stary pryk...</text>
 	</string>
 
 	<string id="escape_trader_flamethrower_dialog_1006">
-		<text>Чего говоришь, Сталкер? А то у меня не только с памятью, но и со слухом проблемы...</text>
+		<text>O czym Ty mуwisz, Stalkerze? Mуw gіoњniej bo mam nie tylko problemy z pamiкci№ ale i ze sіuchem...</text>
 	</string>
 
 	<string id="escape_trader_flamethrower_dialog_1007">
-		<text>СПАСИБО, говорю. Здоровья тебе, Сидорович.</text>
+		<text>DZIКKUJК, mуwiк. Zdrowia їyczк, Sidorowiczu.</text>
 	</string>
 
 	<string id="escape_trader_flamethrower_dialog_1008">
-		<text>Да какое уж тут здоровье... Ещё что-нибудь надо от меня?</text>
+		<text>Tak, tak. Co to za zdrowie... Potrzebujesz ode mnie czegoњ jeszcze?</text>
 	</string>
 
 
 
 	<string id="gar_flamethrower_0">
-		<text>Здарасте... Чем обязан?</text>
+		<text>Witam... O co chodzi?</text>
 	</string>
 
 	<string id="gar_flamethrower_1000">
-		<text>Тут Сидор вещал, что ты мастер на все руки. Не поможешь мне трубки железные найти? Ну вот такого размера примерно...</text>
+		<text>Sidor mуwiі, їe jesteњ mistrzem majsterkowania. Czy moїesz mi pomуc znaleџж їelazne dysze? Taki mniej wiкcej rozmiar...</text>
 	</string>
 
 
 	<string id="gar_flamethrower_1001">
-		<text>Трубки, трубки... Хм. Да валялись тут где-то в кучах этих фонящих, самому были нужны, да костюма пока не могу достать подходящего, вот и не слазить. Но координатки я себе записал. Если надо - продам почти задаром. Я тут наметил ещё кое-что пособирать в этих кучах, а защиты ж так и нет. Рискну так полезть, но нужно лекарство. Дашь мне антирад - дам тебе координаты.</text>
+		<text>Dysze, dysze... Hmm. Tak, leїaіy tu gdzieњ w napromieniowanych stosach. Sam stamt№d potrzebujк paru rzeczy, lecz nie mam odpowiedniego kombinezonu, wiкc nie mogк. Zapisaіem sobie wspуіrzкdne miejsca. Jeњli tego potrzebujesz, sprzedam za bezcen. Zaplanowaіem coњ innego do zebrania w tych stosach, ale nadal nie ma ochrony. Zaryzykujк wejњcie, ale potrzebujк lekarstwa. Daj mi antyrad - podam wspуіrzкdne.</text>
 	</string>
 
 	<string id="gar_flamethrower_1002">
-		<text>Ясно. Но антирад я как-то не таскаю с собой. Пойду искать так.</text>
+		<text>Jasne. Ale jakoњ nie noszк ze sob№ antyradu. Pуjdк tak.</text>
 	</string>
 
 
 	<string id="gar_flamethrower_1003">
-		<text>Да, с радиацией лучше не шутить, сам знаю. На, держи.</text>
+		<text>Zgadzam siк, lepiej nie їartowaж z promieniowaniem. Weџ to.</text>
 	</string>
 
 
 	<string id="gar_flamethrower_1004">
-		<text>Давай КПК. Так... смотри, ставлю метку. Тут они валялись, никто их не стырил пока. Иди, забирай.</text>
+		<text>Daj PDA. Wiкc... sіuchaj, postawiк znacznik. Tutaj bкd№, jeњli nikt ich jeszcze nie zabraі. Idџ, weџ sobie.</text>
 	</string>
 
 
 	<string id="gar_flamethrower_1005">
-		<text>Спасибо. Счастливо, успехов с изобретениями.</text>
+		<text>Dziкkujк Ci. Powodzenia w wynalazkach.</text>
 	</string>
 
 
 
 	<string id="barmen_flamethrower_task_0">
-		<text>Здорово. Слушай, а не найдётся ли у тебя по старой дружбе горелки какой-нибудь?</text>
+		<text>Њwietnie. Sіuchaj, tak po starej znajomoњжi... nie masz moїe jakiegoњ palnika?</text>
 	</string>
 
 	<string id="barmen_flamethrower_task_1000">
-		<text>Горелки?.. Хм. Интересный запрос. Стесняюсь спросить - а на хрена она тебе сдалась?</text>
+		<text>Palniki?... Hmm. Ciekawa proњba. Wstydzк siк zapytaж - co do cholery chcesz z nimi zrobiж?</text>
 	</string>
 
 	<string id="barmen_flamethrower_task_1001">
-		<text>Да что-то страсть колбаски копчёной захотелось!..</text>
+		<text>A no marzy mi siк pieczona kieіbasa!..</text>
 	</string>
 
 	<string id="barmen_flamethrower_task_1002">
-		<text>Мда?.. Ну допустим, допустим. Ладно, есть кое-что, вроде фурычит. Отдам за 250.</text>
+		<text>Hmm?.. No, powiedzmy, powiedzmy. Dobrze, taka kieіbaska brzmi nieџle. Dam za 250.</text>
 	</string>
 
 
 	<string id="barmen_flamethrower_task_1003">
-		<text>250 за такую фигню? Крутовато... забей. Давай я у тебя другое поспрошаю.</text>
+		<text>250 za coњ takiego? Fajnie... zapomnij. Pozwуl, їe zapytam Ciк o coњ innego.</text>
 	</string>
 
 	<string id="barmen_flamethrower_task_1004">
-		<text>Нормальные деньги, потяну. Держи.</text>
+		<text>Normalne pieni№dze. Trzymaj.</text>
 	</string>
 
 
 
 	<string id="parts_completed_0">
-		<text>Никак уже всё собрал? И водку не забыл?</text>
+		<text>Zebraіeњ juї wszystko? A zapomniaіeњ o wуdce?</text>
 	</string>
 
 	<string id="parts_completed_1000">
-		<text>Я всё достал. Держи артефакт и детали сначала. Водку успеешь ещё выпить. Давай, занимайся делом! Жду огнемёт, а тебя ждут мои деньги.</text>
+		<text>Mam wszystko. Najpierw trzymaj artefakt i czкњci. Wуdkк zd№їysz jeszcze wypiж. Dawaj, trzeba baж siк za robotк! Czekam na miotacz ognia, a moje pieni№dze czekaj№ na Ciebie.</text>
 	</string>
 	<string id="parts_completed_1001">
-		<text>Да расслабься ты! Сказал же, что сделаю. Дай мне денёк - всё будет.</text>
+		<text>Wyluzuj! Powiedziaіem, їe zrobiк. Daj mi dzieс - wszystko bкdzie zrobione.</text>
 	</string>
 
 	<string id="parts_completed_1002">
-		<text>Договорились. Жду.</text>
+		<text>Dogadane. Do pуџniej.</text>
 	</string>
 
 	<string id="parts_completed_10111">
-		<text>Ну как дела? Сделал уже?</text>
+		<text>Jak idzie? Zrobiіeњ juї?</text>
 	</string>
 
 
 	<string id="parts_completed_1003">
-		<text>Опа!.. Что тебе?.. Т-т-ты ре... реально думаешь, ч-ч-что уже... можно было з-з-закон... ээ... зак-к-кончить?! Ик...</text>
+		<text>Opa!.. Czego chcesz?.. T-y-ty na... naprawdк myњlisz, c-c-co juї... moїna byіo z-zz-zak... uh... zak-do-skoсczyж?! Czeњж...</text>
 	</string>
 
 
 	<string id="parts_completed_1004">
-		<text>Вот если бы пил меньше - давно бы уже закончил! Ладно, хрен с тобой... Работай, зайду позже.</text>
+		<text>Teraz, gdybym piі mniej, dawno bym skoсczyі! Dobra, do diabіa z tob№... Praca, wrуcк pуџniej.</text>
 	</string>
 
 	<string id="parts_completed_1013">
-		<text>Так, а что там с огнемётом-то?</text>
+		<text>Wiкc jak tam z tym miotaczem ognia?</text>
 	</string>
 
 	<string id="parts_completed_1005">
-		<text>Ооооо! А вот и счастливый владелец огнемёта приплёлся!</text>
+		<text>Oooch! A oto szczкњliwy posiadacz miotacza ognia!</text>
 	</string>
 
 	<string id="parts_completed_1006">
-		<text>Да неужели! Думал, не дождусь от тебя нормальной работы. Выглядит неплохо. Давай, спасибо тебе.</text>
+		<text>Serio! Myњlaіem, їe nie mogк liczyж na coњ normalnego. Wygl№da dobrze. Daj, dziкkujк.</text>
 	</string>
 
 
 	<string id="parts_completed_1007">
-		<text>Э, погоди! Шустрый ты какой... Договаривались же! 10 000 за работу давай, забыл?</text>
+		<text>Ej, czekaj! Nie b№dџ taki prкdki... Dobrze! 10 000 za dobr№ robotк, zapomniaіeњ?</text>
 	</string>
 
 
 
 	<string id="parts_completed_1008">
-		<text>Чего-чего?! Совсем мозг пропил? Речь шла о 5 000. Или мне силой пробудить тебе память?</text>
+		<text>Co co?! Mуzg Ci wypadі? Byіa mowa o 5 000. A moїe powinienem uїyж siіy, aby przywrуciж Twoj№ pamiкж?</text>
 	</string>
 
 
 	<string id="parts_completed_1009">
-		<text>Тшшш... Не кипятись... Пусть будет 5 000. Держи свой огнемёт. Теперь ты можешь зажигать. Ха-ха. Всё, успехов. Да, ещё один момент. Тутошнего баллона тебе хватит где-то на минуту непрерывного палева... Как кончится – приходи, перезаряжу за скромное вознаграждение. Там не всё так просто, так что запоминай. Для этого мне нужны канистра с топливом и баллон с... тьфу, как его там... коллоидным газом! Вот... Или я всё сам добуду, но тогда это будет прилично стоить.
+		<text>Ciii... Nie gor№czkuj siк... Niech bкdzie 5 000. Weџ swуj miotacz ognia. Teraz moїesz odpaliж. Ha ha. Peіen sukces. O, i jeszcze jedno. Ten zbiornik wystarczy Ci na okoіo minutк ci№gіego ognia... Kiedy siк skoсczy - przyjdџ, napeіnie za skromn№ zapіatк. To nie jest takie proste, wiкc pamiкtaj. Aby to zrobiж, potrzebujк kanistra z paliwem i butli z ... uch, jak to jest... gaz koloidalny! No... albo zaіatwiк wszystko sam, ale wtedy zapіata bкdzie odpowiednia.
 </text>
 	</string>
 
 	<string id="parts_completed_1010">
-		<text>С чем баллон, прости?.. И где хоть всё это искать примерно?</text>
+		<text>Butla z czym, przepraszam?.. A gdzie w przybliїeniu mogк tego wszystkiego szukaж?</text>
 	</string>
 
 	<string id="parts_completed_1011">
-		<text>Коллоид какой-то там. Ну, очкарики, учёные наши, таскали в Зону его для экспериментов своих. Думаю, для горючей смеси он в самый раз подойдёт. За этим советую наведаться на Агропром, например. Да и мало ли куда их успели растащить по Зоне. Можно найти хрен знает, где ещё... Так что лучше ищи. Запомнил? Канистру с топливом и баллон с этим чудным коллоидом.</text>
+		<text>Jakiњ koloid. Cуї, nasi naukowcy w okularach zaci№gnкli go do Strefy na swoje eksperymenty. Myњlк, їe to w sam raz dla mieszanki palnej. W tym celu radzк na przykіad odwiedziж Agroprom. Nie wiadomo, gdzie udaіo im siк ich przydzieliж w Zonie. Gdzie moїesz znaleџж to licho jedno wie gdzie jeszcze... Wiкc lepiej poszukaj. Zapamiкtasz? Kanister paliwa i butla tego cudownego koloidu.</text>
 	</string>
 
 	<string id="parts_completed_1012">
-		<text>Мда... Всё понял. Спасибо ещё раз. Теперь можешь и напиться.</text>
+		<text>Hmm... wszystko zrozumiaіem. Dziкki jeszcze raz. Teraz moїesz siк upiж.</text>
 	</string>
 
 
 	<string id="mil_screw_flamethrower_text">
-		<text>Мне нужно найти несколько предметов из списка, который дал Шуруп:\n\n
-1. Артефакт "Огненный шар"\n
-2. Трубки. Искать на "Свалке", на кучах с мусором .\n
-3. Манометр. Искать в НИИ "Агропром".\n
-4. Горелка. Спросить у Бармена.\n
-5. Десять бутылок водки этому алкашу.\n\n
-Ох, тяжёлый предстоит денёк.
+		<text>Muszк znaleџж kilka pozycji z listy podanej przez Szurupa:\n\n
+1. Artefakt „Kula ognia”\n
+2. Dysze. Przeszukaj haіdy na „Wysypisku”.\n
+3. Manometr. Szukaj w Instytucie Badawczym „Agroprom”.\n
+4. Palnik. Zapytaj barmana.\n
+5. Dziesiкж butelek wуdki dla tego moczymordy.\n\n
+Och, to bкdzie ciкїki dzieс.
 </text>
 	</string>
 
 
 	<string id="trubka_descr">
-		<text>Стальная трубка небольшой длины. Немного погнута, но выглядит крепко и надёжно. Хочется верить, что она подойдёт для огнемёта.</text>
+		<text>Maіa stalowa dysza. Trochк wygiкta, ale wygl№da na mocn№ i niezawodn№. Chcк wierzyж, їe nada siк do miotacza ognia.</text>
 	</string>
 
 	<string id="gorelka_descr">
-		<text>Горелка среднего размера. По слухам, колбаса "Практическая", будучи закопчённой на такой горелке, приобретает восхитительный вкус. Теоретически, должна подойти и для розжига горючей смеси в огнемёте.</text>
+		<text>Њredni palnik. Wedіug plotek kieіbasa „Praktyczna”, palona na takim palniku, nabiera pysznego smaku. Teoretycznie powinien nadawaж siк rуwnieї do zapalenia mieszanki palnej w miotaczu ognia.</text>
 	</string>
 
 	<string id="manometr_descr">
-		<text>Датчик давления от какого-то перегонного аппарата советских времён. Сделан на совесть, разве что стекло грязновато. Велика вероятность, что будет исправно работать и на огнемёте.</text>
+		<text>Czujnik ciњnienia z jakiegoњ aparatu destylacyjnego z czasуw sowieckich. Trwaіe, z wyj№tkiem tego, їe szkіo jest brudne. Jest bardzo prawdopodobne, їe bкdzie dziaіaі poprawnie na miotaczu ognia.</text>
 	</string>
 
 	<string id="flama_descr">
-		<text>Жалкое зрелище. Остаётся только догадываться, какой мощью обладало данное оружие, будучи в работоспособном состоянии. Однако, при наличии хорошего мастера можно попробовать вернуть огнемёт к жизни. Осталось только найти такого мастера.</text>
+		<text>Marny widok. Pozostaje tylko zgadywaж, jak№ moc posiadaіa ta broс, bкd№c w stanie roboczym. Dobry rzemieњlnik, moїe sprуbowaж przywrуciж miotacz ognia do їycia. Pozostaje tylko znaleџж takiego mistrza.</text>
 	</string>
 
 	<string id="flame_descr">
-		<text>Кустарный образец оружия, собранный на основе узлов армейского огнемёта Шурупом. Обладает мощнейшим поражающим воздействием, но эффективен лишь на ближних дистанциях. Обычно используется против больших стай мутантов. Заряда баллона хватает примерно на минуту беспрерывной работы.</text>
+		<text>Prуbka rкkodzieіa broni zmontowana na bazie jednostek wojskowego miotacza ognia montaїu Szurupy. Ma silne dziaіanie niszcz№ce, ale jest skuteczne tylko na krуtkich dystansach. Zwykle uїywany przeciwko duїym rojom mutantуw. Butli wystarcza na okoіo minutк ci№gіej pracy.</text>
 	</string>
 
 	<string id="flame_no_parts_0">
-		<text>Чёрт, кажется, что-то забыл взять. Скоро зайду.</text>
+		<text>Cholera, wygl№da na to, їe zapomniaіem coњ wzi№ж. Niedіugo przyjdк.</text>
 	</string>
 
 	<string id="item_flamethrower_bad_name">
-		<text>Сломанный огнемёт</text>
+		<text>Zepsuty miotacz ognia</text>
 	</string>
 
 	<string id="manometr">
-		<text>Манометр</text>
+		<text>Manometr</text>
 	</string>
 
 	<string id="trubka">
-		<text>Трубка</text>
+		<text>Dysza</text>
 	</string>
 
 	<string id="gorelka">
-		<text>Горелка</text>
+		<text>Palnik</text>
 	</string>
 
 
 	<string id="flamethrower_basic">
-		<text>Огнемёт – Самодельная модель, но сделано достаточно надёжно. Перезаряжать его можно у Шурупа – механика группировки "Свобода". Из-за специфической конструкции требуется и соответствующее топливо. 
-Готовится из обычного топлива (можно найти в канистрах) и коллоида, произведённого учёными (храниться в баллонах). Мне советовали их искать в районе НИИ "Агропром", но есть вероятность найти где угодно.
-Если возникнут проблемы с поиском – Шуруп за 30 000 обещал сам всё раздобыть. Да и в любом случае он просит за работу "топливо" для себя – бутылку водки.</text>
+		<text>Miotacz ognia - Model domowej roboty, ale wykonany doњж solidnie. Moїesz go naіadowaж u Szurupy, mechanik ugrupowania „Wolnoњж”. Ze wzglкdu na specyficzn№ konstrukcjк wymagane jest rуwnieї odpowiednie paliwo.
+Jest przygotowywany ze zwykіego paliwa (znajduje siк w kanistrach) oraz koloidu produkowanego przez naukowcуw (przechowywanego w butlach). Poradzono mi, їebym ich szukaі na terenie Instytutu Badawczego Agroprom, ale jest szansa, їeby je znaleџж wszкdzie.
+Jeњli pojawi№ siк problemy z poszukiwaniami, Szurup za 30 000 obiecaі, їe wszystko zdobкdzie sam. A w kaїdym razie prosi o „paliwo” dla siebie – butelkк wуdki.</text>
 	</string>
 </string_table>
