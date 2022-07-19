@@ -1,0 +1,397 @@
+
+
+function puzyr_zvati(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]ДИМКА ПУЗЫРЬ:\n%c[default]:Меченый, будь другом, подойди. Я в баре у Ветрова", nil, nil, 45000)
+end
+
+function ded_zvati(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Дед Кирилл:\n%c[default]:Меченый, СРОЧНО, вернись ко мне, есть инфа.", nil, nil, 45000)
+end
+
+function knut_sos(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Кнут:\n%c[default]:Эй сталкер, не удивляйся, я видел как ты перелазил через забор, зайди ко мне, я в ангаре, через который на территорию Бара входишь, там еще постовой по мостику ходит.", nil, nil, 40000)
+end
+
+function marina_priv(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]МАРИНА:\n%c[default]:Меченый, привет, зайди пожалуйста ко мне.", nil, nil, 50000)
+end
+
+function barmen_zval(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]БАРМЕН:\n%c[default]:Эй, Меченый, заскочи на пять минут, есть информация из ПДА", nil, nil, 45000)
+end
+
+function mitya_zval(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:Митька, это я, давай двигай на склады, все окейно. Охрану я предупрежу что бы пропустили тебя.", nil, nil, 45000)
+end
+
+function mitya_otvet(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Митька Череп:\n%c[default]:Меченый, я все понял, скоро буду на месте.", nil, nil, 45000)
+end
+
+
+function brom_skaz(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]БАРМЕН:\n%c[default]:Меченый, подойди на пару слов..", nil, nil, 45000)
+end
+
+function nata_spa(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Наташа:\n%c[default]:Меченый, спасибо большое, капитан Иванцов помог мне выбраться из Зоны. Теперь, я надеюсь, с Женькой все будет хорошо. Кстати, у него не было крестного, теперь им будешь ты, я думаю ты не против. Спасибо.", nil, nil, 35000)
+end
+
+function voron_da(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]ВОРОНИН:\n%c[default]:Меченый, это Воронин, мои ребята переправили Брома за периметр, все нормально.", nil, nil, 45000)
+end
+
+function brom_poka(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Бром:\n%c[default]:Меченый, это Бром, спасибо тебе за все, своим детям про тебя я тоже расскажу, удачи, и спасибо ещё раз..", nil, nil, 45000)
+end
+
+function meri_zvala(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]МАРИНА:\n%c[default]:Меченый, это Марина, зайди в гости, есть разговор.", nil, nil, 45000)
+end
+
+function sid_sms(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]СИДОРОВИЧ:\n%c[default]:Эй, новенький! Очухался? Зайди ко мне в бункер, есть разговор.", nil, nil, 20000)
+end 
+
+function kulak_sms(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Серёга КУЛАК:\n%c[default]:Сталкер, подходи, теперь можем и поговорить, если ты еще не передумал...", nil, nil, 35000)
+end 
+
+function sidor_mech(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Сидорович:\n%c[default]:Меченый, ты где, зайди ко мне, есть одно занятное дело, я жду тебя...", nil, nil, 42000)
+end 
+
+function kulak_zval(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Серёга Кулак:\n%c[default]:Меченый, подходи, есть тема, только с Сидором закончи, а то он обидется.", nil, nil, 42000)
+end 
+
+function yara_zval(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Юра ЧИРОК:\n%c[default]:Эй сталкер, подойди, найдешь меня на фабрике Агропрома.", nil, nil, 42000)
+end 
+
+
+function saharov_zval(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Сахаров:\n%c[default]:Меченый, Вы не могли бы зайти ко мне, есть разговор.", nil, nil, 42000)
+end 
+
+function skriaga_zval(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]СКРЯГА:\n%c[default]:Меченый, зайди пожалуйста, есть что сказать.", nil, nil, 42000)
+end 
+
+
+function senka_bar_zval(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Сенька Хмурый:\n%c[default]:Меченый, заскочи к нам, расскажу кое-что.", nil, nil, 42000)
+end 
+
+function bolotnii_poka(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Болотный Доктор:\n%c[default]:Меченый, спасибо за помощь, мне пора. Недеюсь мы ещё увидимся. Удачи сынок.", nil, nil, 42000)
+end 
+
+function borov_taina(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Боров:\n%c[default]:Меченый, это Боров, удивлён, только в обморок не падай, я жду тебя в домике, который через дорогу - напротив деревни кровососв.", nil, nil, 52000)
+end 
+
+function nikita_poka(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Никита:\n%c[default]:Меченый, это Никита, мы наверно не увидимся, я сейчас ухожу за периметр. Сидорович договорился с военными, меня выведут, спасибо за все, удачи тебе в твоих не легких сталкерских делах. ", nil, nil, 52000)
+end 
+
+
+function skriga_volnuetsa(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]СКРЯГА:\n%c[default]:Меченый, ты хоть живой, куда пропал?", nil, nil, 35000)
+end 
+
+
+function miha_pashe(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Козырь:\n%c[default]:Пашка, до тебя придет малый один, ты ему подсоби, у меня все ровно - папа нашелся.", nil, nil, 52000)
+end
+
+function dikii_mechen(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Вован Дикий:\n%c[default]:Меченый, ну что, нашел чего интересного? Заходи в гости.", nil, nil, 50000)
+end
+
+function luka_zovet(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Лукаш:\n%c[default]:Меченый, зайди ко мне, будь так любезен, разговор есть.", nil, nil, 42000)
+end
+
+function travnik_zovet(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Гриша ТРАВНИК:\n%c[default]:Меченый, я слышал стрельбу, это ты палил? Зайди на обратном пути ко мне, отварчику налью.", nil, nil, 42000)
+end
+
+function maxik_zovet(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Макс:\n%c[default]:Меченый, если не сильно занят, зайди, будь другом, поговорит нужно.", nil, nil, 42000)
+end
+
+function skriga_ukol_zovet(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]СКРЯГА:\n%c[default]:Меченый, ЗАЙДИ КО МНЕ, СРОЧНО.", nil, nil, 42000)
+end
+
+function skriga_ukol_zovet_snova(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]СКРЯГА:\n%c[default]:Меченый, после разговора с Геркой, ЗАХОДИ. Расскажу кое-что.", nil, nil, 42000)
+end
+
+function monah_zov(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Неизвестный:\n%c[default]:Эй сталкер, а ты крут, заходи на чаёк, я на Радаре в доме.", nil, nil, 42000)
+end
+
+function posmotri_gera(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]ДОБРОЖЕЛАТЕЛЬ:\n%c[default]:ПОСМОТРИ НА ГЕРУ, ОН СТАЛ ХОЗЯИНОМ ЗОНЫ. А ТЫ ХОЧЕШЬ СТАТЬ ХОЗЯИНОМ? ХА-ХА-ХА.", nil, nil, 5000)
+end
+
+function skraga_sms(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]СКРЯГА:\n%c[default]:Меченый, ты тоже ПРОЧИТАЛ ПОСЛАНИЕ, что происходит? Зайди.", nil, nil, 32000)
+end
+
+function skraga_sms_zov(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]СКРЯГА:\n%c[default]:Меченый, ну как? На Радаре ничего интересного не нашёл? Если что, заходи, я на месте, впрочем как всегда.", nil, nil, 42000)
+end
+
+function skriga_sms_zov(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]СКРЯГА:\n%c[default]:Меченый, если освободился заходи, - есть что рассказать.", nil, nil, 42000)
+end
+
+function monah_sms_zov(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Черный МОНАХ:\n%c[default]:А ты упертый, заходи. Я в ДК, поговорим.", nil, nil, 45000)
+end
+
+function monah_sms_poslal(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]НЕИЗВЕСТНЫЙ:\n%c[default]:Глупец, ты думаешь, что всё так просто...", nil, nil, 45000)
+end
+
+function prof_sms_poslal(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]САХАРОВ:\n%c[default]:Меченый, если ты не занят, зайди ко мне, есть тема для общения.", nil, nil, 45000)
+end
+
+function skra_monah_infa(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]СКРЯГА:\n%c[default]:Меченый, появилась информация, будешь рядом зайди.", nil, nil, 45000)
+end
+
+function bar_max_infa(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]БАРМЕН:\n%c[default]:Меченый, зайди, есть разговор.", nil, nil, 45000)
+end
+
+function prof_sah_zval(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]САХАРОВ:\n%c[default]:Меченый, зайдите пожалуйста, появилась информация.", nil, nil, 45000)
+end
+
+function nina_zvala(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Пестрецова:\n%c[default]:Меченый, хотела напомнить, не забудте зайти ко мне, хочется взглянуть на цветочек.", nil, nil, 45000)
+end
+
+function prof_sah_zval_sar(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]САХАРОВ:\n%c[default]:Меченый, если ты получил сообщение, зайди ко мне на Янтарь.", nil, nil, 45000)
+end
+
+function new_bar_kvest(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]БАРМЕН:\n%c[default]:Меченый, зайди в Бар, есть срочное дело", nil, nil, 45000)
+end
+
+function solnce_bratu(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Солнце:\n%c[default]:Братишка, к тебе придет один хороший человек, будь добр, помоги ему.", nil, nil, 45000)
+end
+
+function kulak_zval_menya(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]КУЛАК:\n%c[default]:Браток, подойди, есть тема.", nil, nil, 45000)
+end
+
+function travnik_opat_zval(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]ТРАВНИК:\n%c[default]:МЕЧЕНЫЙ, ЗАЙДИ СРОЧНО КО МНЕ....", nil, nil, 45000)
+end
+
+function schilo_zdes(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Витёк Шило:\n%c[default]:Монгол, я дома, есть новости.", nil, nil, 45000)
+end
+
+
+function mongol_schilo(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Монгол:\n%c[default]:Витёк, ну что, подтвердилось?", nil, nil, 45000)
+end
+
+function schilo_mongol(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Шило:\n%c[default]:Да Монгол, всё подтвердилось. А я смотрю у нас гости?", nil, nil, 45000)
+end
+
+
+function mongol_nam(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Монгол:\n%c[default]:Да Витёк, гости. Вернее гость, один. Меченый подходи.", nil, nil, 45000)
+end
+
+function soobshil(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]-----:\n%c[default]:Пройди свой путь достойно.", nil, nil, 25000)
+end
+
+function vitek_patrony(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]ВИТЯ ШИЛО:\n%c[default]:Меченый, подойди пожалуйста.", nil, nil, 45000)
+end
+
+function sms_teleport(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]СООБЩЕНИЕ:\n%c[default]:Внимание, включена защита.", nil, nil, 25000)
+end
+
+function heart_gotovo(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Отшельник:\n%c[default]:Меченый, дружище, тушёночка готова, жду в гости.", nil, nil, 45000)
+end
+
+
+function spasibo_sta(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Друг:\n%c[default]:Парень, ты всё правильно делаешь.", nil, nil, 45000)
+end
+
+function warning_rad(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Сообщение:\n%c[default]:ПАРНИ! ВАЛИМ СУКУ.", nil, nil, 45000)
+end
+
+function pes_zval(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Жорка Пёс:\n%c[default]:Меченый, поговорить нужно. Подойди, будь другом.", nil, nil, 45000)
+end
+
+function kalancha_chebotar(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Проф. Каланча:\n%c[default]:Здравствуй Чеботарь. Если Меченый вернулся уже, скажи ему ещё раз спасибо. У нас все хорошо, я решил создать в Красном Лесу базу. Связь будем поддерживать регулярно. Здесь оказалось отличное место для исследований. Жду в гости.", nil, nil, 45000)
+end
+
+function arlekino_bate(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Арлекино:\n%c[default]:Отец, я уже на Кордоне, скоро увидимся.", nil, nil, 25000)
+end
+
+function strelok_balam(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:Едрить твою мать, а это еще кто такие? Возьму Баламуту косточку в подарок. Сувенир, так сказать", nil, nil, 35000)
+end
+
+function mechen_spokoyno(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:Я просто поговорить хотел, я подойду, не стреляйте", nil, nil, 25000)
+end
+
+function mechen_gluk(first_speaker, second_speaker) 
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:Что за хрень? Вроде послышалось. Какие-то глюки что ли? Бред.", nil, nil, 25000)
+end
+
+function monax_sos(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Отец Леонид:\n%c[default]:Кто нибудь, если вы рядом, помогите. Мы в вагончике, за озером.", nil, nil, 25000)
+end
+
+
+function mednyi_podxodi(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Медный:\n%c[default]:Меченый, подходи, я расшифровал записку", nil, nil, 35000)
+end
+
+
+function dimedrol_podmoga(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Бритый:\n%c[default]:Димедрол, пацаны уже на подходе. Встречай.", nil, nil, 35000)
+end
+
+
+function lukasch_zaidi(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Лукаш:\n%c[default]:Какие люди, Меченый, заходи в гости.", nil, nil, 35000)
+end
+
+
+
+function schakal_smska(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]ШАКАЛ:\n%c[default]:Штык, сучонок может сам вернёшь то что украл. Тогда я возможно оставлю тебя жить.", nil, nil, 35000)
+end
+
+
+function schakal_smska_otvet(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]ШТЫК:\n%c[default]:Шакал, а не пошёл бы ты...что-то ты уже меня доставать начал.", nil, nil, 35000)
+end
+
+
+
+
+function pomnu_vse(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:Твою мать. Что такое, у меня чувство, что я уже был здесь. И что-то подобное уже делал. У меня что, дежавю?", nil, nil, 45000)
+end
+
+
+function bar_pora_x18(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]БАРМЕН:\n%c[default]:Меченый, зайди ко мне. Есть новости.", nil, nil, 35000)
+end
+
+
+function podxodi_new(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]БАРМЕН:\n%c[default]:Меченый, хватит уже гулять. Зайди ко мне.", nil, nil, 35000)
+end
+
+
+function kordon_new(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]СИДОРОВИЧ:\n%c[default]:Меченый, если ты недалеко - зайди, есть работёнка.", nil, nil, 35000)
+end
+
+function doktor_new_zval(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Болотный Доктор:\n%c[default]:Меченый, нужно встретиться. Я буду тебя ждать в подземке Агро.", nil, nil, 35000)
+end
+
+
+function podxodi_new_2(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]БАРМЕН:\n%c[default]:Меченый, зайди. Есть информация.", nil, nil, 35000)
+end
+
+
+function proverit(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:Нужно проверить это помещение. Опять у меня чувство дежавю. Возможно здесь есть подсказка.", nil, nil, 35000)
+end
+
+
+function x18_uxodi_kordonom(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]БАРМЕН:\n%c[default]:Меченый, как найдёшь документы, уходи из Темной через Кордон.", nil, nil, 35000)
+end
+
+
+function x16_snova_dej(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:Опять это чувство, мне кажется я здесь был, что за бред.", nil, nil, 25000)
+end
+
+function krug_sms(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Круглов:\n%c[default]:Меченый, подойди, будь так любезен.", nil, nil, 35000)
+end
+
+function gera_volk_hana(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:Что за хрень, где Герка? Нужно проверить домик.", nil, nil, 25000)
+end
+
+
+function test_mlya(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Новичок:\n%c[default]:Мля-я... какой нахрен путь...? Как башка болит. Где я? Ни хрена не помню...", nil, nil, 15000)
+end
+
+function obmorok(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,133]Меченый:\n%c[default]:Твою мать, голова закружилась. Что-то я совсем ослаб. Или Сидор паленки налил, сука.", nil, nil, 15000)
+end
+
+
+function brat_gosty(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Солнце:\n%c[default]:Меченый, братишка в гости зашел, видимо ты его отругал))).", nil, nil, 15000)
+end
+
+
+function dolg_kino(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:Вот ведь фанатик, тоже мне, защитниками себя возомнили. Санитары Зоны...блин.", nil, nil, 15000)
+end
+
+
+function dreams_gluk(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:Твою в кардана мать...Что это было? Глюк какой-то что ли? Что за хрень мне мерещится...?", nil, nil, 15000)
+end
+
+function idem_x10(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]БАРМЕН:\n%c[default]:Меченый! Появилась информация, загляни ко мне.", nil, nil, 15000)
+end
+
+
+
+function son_x10(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:Что за...опять эти глюки. Напугать меня решила...", nil, nil, 15000)
+end
+
+function son_x18(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,128,128]Меченый:\n%c[default]:Да что такое?...Стрелок...? Что за видения? Радиация что ли так действует. Или с водяры глюки такие...так вроде не пил. Вот твою в зону мать...", nil, nil, 15000)
+end
+
+
+
+
+
+
+
+
+
+

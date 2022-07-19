@@ -1,0 +1,28 @@
+
+
+function pervaya_sms(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,205,208,158]Сидорович:\n%c[default]:Мать вашу, я эту молодёжь разгоню к чертям собачьим. Ничего нельзя доверить. Убью придурки. Вы у меня в Зону...в одних трусах ходить будете. Я вам устрою Содом и Гомору.", nil, nil, 35000)
+end
+
+function cs_sms(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,0,0]Меченый:\n%c[default]:Спрашивается, какого хера я тут забыл? А вот и неприятности.", nil, nil, 25000)
+end
+ 
+function nachalo_sms(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,225,0,10]Меченый:\n%c[default]:Вот это я встретил попутчиков, обули как лоха. По башке чем-то ударили, хорошо хоть не убили. Все шмотки суки сперли. Вот ведь народ подлый пошёл. Стареешь ты Меченый...хм-м, Стрелок, твою мать. Эээ-хх. Так, нужно оглядеться, может чего забыли в попыхах. Ну-ка, ну-ка, что это там у камня... ", nil, nil, 35000)
+end
+
+
+function medved_sms(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,225,0,10]Меченый:\n%c[default]:Ну ни хера себе. Это что за уродина такая. На медведя похожа. Твою мать, а эти откуда взялись...", nil, nil, 35000)
+end
+
+
+function privet_kotdon(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,0,0]Меченый:\n%c[default]:Ну здравствуй дорогая. Год мы с тобой не виделись. Ты прямо с порога меня воспоминаниями встречаешь. Рада видеть? Аж дышится мне тут легче. Ну что, Меченый-Стрелок, вот ты и дома.", nil, nil, 35000)
+end
+
+function ya_oxrenel(first_speaker, second_speaker)
+news_manager.send_tip(db.actor, "%c[255,255,0,0]Мысли:\n%c[default]:Да брат, не думал ты, что всё так обернётся. Ну ничего, опять эта дама(Зона) мне испытание подкидывает, а ведь я ещё только в Предзонье. Что же ты ЗОНА сука такая? Ну ничего, где наша не пропадала. ", nil, nil, 35000)
+end
+
