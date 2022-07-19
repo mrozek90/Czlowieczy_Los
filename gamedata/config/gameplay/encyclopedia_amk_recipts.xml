@@ -1,152 +1,149 @@
-    <article id="enc_amk_recipt_dikoobraz" name="Äèêîáðàç" group="enc_recipts">
+    <article id="enc_amk_recipt_dikoobraz" name="Je¿ozwierz" group="enc_recipts">
 <text>enc_amk_recipt_dikoobraz_text</text>
     </article>
 
 
-    <article id="enc_amk_recipt_electra_dikoobraz" name="Ýëåêòðè÷åñêèé Äèêîáðàç" group="enc_recipts">
+    <article id="enc_amk_recipt_electra_dikoobraz" name="Elektryczny Je¿ozwierz" group="enc_recipts">
 <text>enc_amk_recipt_electra_dikoobraz_text</text>
     </article>
 
 
-    <article id="enc_amk_recipt_sopl_dikoobraz" name="Ñîïëèâûé Äèêîáðàç" group="enc_recipts">
+    <article id="enc_amk_recipt_sopl_dikoobraz" name="Smarkaty Je¿ozwierz" group="enc_recipts">
 <text>enc_amk_recipt_sopl_dikoobraz_text</text>
     </article>
 
 
-    <article id="enc_amk_recipt_stone_dikoobraz" name="Êàìåííûé Äèêîáðàç" group="enc_recipts">
+    <article id="enc_amk_recipt_stone_dikoobraz" name="Kamienny Je¿ozwierz" group="enc_recipts">
 <text>enc_amk_recipt_stone_dikoobraz_text</text>
     </article>
 
 
-    <article id="enc_amk_recipt_steel_kolobok" name="Ñòàëüíîé Êîëîáîê" group="enc_recipts">
+    <article id="enc_amk_recipt_steel_kolobok" name="Stalowy Kolebiak" group="enc_recipts">
 <text>enc_amk_recipt_steel_kolobok_text</text>
     </article>
 
 
-    <article id="enc_amk_recipt_titan_kolobok" name="Òèòàíîâûé Êîëîáîê" group="enc_recipts">
+    <article id="enc_amk_recipt_titan_kolobok" name="Tytanowy Kolebiak" group="enc_recipts">
 <text>enc_amk_recipt_titan_kolobok_text</text>
     </article>
 
 
-    <article id="enc_amk_recipt_almaz_kolobok" name="Àëìàçíûé êîëîáîê" group="enc_recipts">
+    <article id="enc_amk_recipt_almaz_kolobok" name="Diamentowy Kolebiak" group="enc_recipts">
 <text>enc_amk_recipt_almaz_kolobok_text</text>
     </article>
 
 
-    <article id="enc_amk_recipt_soul_bengal" name="Êðèñòàëüíàÿ Äóøà Áåíãàëà" group="enc_recipts">
+    <article id="enc_amk_recipt_soul_bengal" name="Kryszta³owa Dusza Bengala" group="enc_recipts">
 <text>enc_amk_recipt_soul_bengal_text</text>
     </article>
-    <article id="enc_amk_recipt_soul_drops" name="Êàïëè Äóøè" group="enc_recipts">
+    <article id="enc_amk_recipt_soul_drops" name="Kropla Duszy" group="enc_recipts">
 <text>enc_amk_recipt_soul_drops_text</text>
     </article>
-    
-    <article id="enc_amk_recipt_soul_fire" name="Îãíåííàÿ  Äóøà" group="enc_recipts">
+
+    <article id="enc_amk_recipt_soul_fire" name="Ognista Dusza" group="enc_recipts">
 <text>enc_amk_recipt_soul_fire_text</text>
     </article>
 
-    <article id="enc_amk_recipt_soul_cristal" name="Êðèñòàëüíàÿ Äóøà" group="enc_recipts">
+    <article id="enc_amk_recipt_soul_cristal" name="Kryszta³owa Dusza" group="enc_recipts">
 <text>enc_amk_recipt_soul_cristal_text</text>
     </article>
-    
 
-    <article id="enc_amk_recipt_tears_electra" name="Ñë¸çû Ýëåêòðû" group="enc_recipts">
+
+    <article id="enc_amk_recipt_tears_electra" name="£zy Elektry" group="enc_recipts">
 <text>enc_amk_recipt_tears_electra_text</text>
     </article>
 
 
-    <article id="enc_amk_recipt_tears_fire" name="Ñë¸çû Îãíÿ" group="enc_recipts">
+    <article id="enc_amk_recipt_tears_fire" name="£zy Ognia" group="enc_recipts">
 <text>enc_amk_recipt_tears_fire_text</text>
     </article>
 
 
-    <article id="enc_amk_recipt_tears_chimaera" name="Ñë¸çû Õèìåðû" group="enc_recipts">
+    <article id="enc_amk_recipt_tears_chimaera" name="£zy Chimery" group="enc_recipts">
 <text>enc_amk_recipt_tears_chimaera_text</text>
     </article>
 
 
-    <article id="enc_amk_recipt_grandmother_glassbeards" name="Áàáêèíû Áóñû" group="enc_recipts">
+    <article id="enc_amk_recipt_grandmother_glassbeards" name="Koraliki Babci" group="enc_recipts">
     <ltx>af_babka_1</ltx>
 <text>enc_amk_recipt_grandmother_glassbeards_text</text>
     </article>
 
 
-    <article id="enc_amk_recipt_pra_grandmother_glassbeards" name="Áóñû Ïðàáàáêè" group="enc_recipts">
+    <article id="enc_amk_recipt_pra_grandmother_glassbeards" name="Koraliki Prababci" group="enc_recipts">
 <text>enc_amk_recipt_pra_grandmother_glassbeards_text</text>
     </article>
 
-    <article id="enc_amk_recipt_burer_grandmother_glassbeards" name="Áóñû Áàáêè Áþðåðà" group="enc_recipts">
+    <article id="enc_amk_recipt_burer_grandmother_glassbeards" name="Koraliki Babci Burera" group="enc_recipts">
 <text>enc_amk_recipt_burer_grandmother_glassbeards_text</text>
     </article>
 
 
-    <article id="enc_amk_recipt_giant_small_brother" name="Ìëàäøèé Áðàò Ãèãàíòà" group="enc_recipts">
+    <article id="enc_amk_recipt_giant_small_brother" name="M³odszy Brat Giganta" group="enc_recipts">
 <text>enc_amk_recipt_giant_small_brother_text</text>
     </article>
 
 
-    <article id="enc_amk_recipt_shkura" name="Øêóðà" group="enc_recipts">
+    <article id="enc_amk_recipt_shkura" name="Skóra" group="enc_recipts">
 <text>enc_amk_recipt_shkura_text</text>
     </article>
 
 
-    <article id="enc_amk_recipt_cheshya" name="×åøóÿ" group="enc_recipts">
+    <article id="enc_amk_recipt_cheshya" name="£uska" group="enc_recipts">
 <text>enc_amk_recipt_cheshya_text</text>
     </article>
 
 
-    <article id="enc_amk_recipt_pancir" name="Ïàíöèðü" group="enc_recipts">
+    <article id="enc_amk_recipt_pancir" name="Pancerz" group="enc_recipts">
 <text>enc_amk_recipt_pancir_text</text>
     </article>
 
 
-    <article id="enc_amk_recipt_simbion" name="Ñèìáèîí" group="enc_recipts">
+    <article id="enc_amk_recipt_simbion" name="Symbion" group="enc_recipts">
 <text>enc_amk_recipt_simbion_text</text>
     </article>
 
 
-    <article id="enc_amk_recipt_dummy_puding" name="Ïóäèíã" group="enc_recipts">
+    <article id="enc_amk_recipt_dummy_puding" name="Budyñ" group="enc_recipts">
 <text>enc_amk_recipt_dummy_puding_text</text>
     </article>
-    <article id="enc_amk_recipt_dummy_fire" name="Îãíåííàÿ Ïóñòûøêà" group="enc_recipts">
+    <article id="enc_amk_recipt_dummy_fire" name="Ognista Bateria" group="enc_recipts">
 <text>enc_amk_recipt_dummy_fire_text</text>
     </article>
-    <article id="enc_amk_recipt_dummy_bright" name="ßðêàÿ Ïóñòûøêà" group="enc_recipts">
+    <article id="enc_amk_recipt_dummy_bright" name="Jasna Bateria" group="enc_recipts">
 <text>enc_amk_recipt_dummy_bright_text</text>
     </article>
-    <article id="enc_amk_recipt_dummy_moon" name="Ëóííàÿ Ïóñòûøêà" group="enc_recipts">
+    <article id="enc_amk_recipt_dummy_moon" name="Ksiê¿ycowa Bateria" group="enc_recipts">
 <text>enc_amk_recipt_dummy_moon_text</text>
     </article>
 
-    <article id="enc_amk_recipt_controller_skalp" name="Ñêàëüï Êîíòðîëåðà" group="enc_recipts">
+    <article id="enc_amk_recipt_controller_skalp" name="Skalp Kontrolera" group="enc_recipts">
 <text>enc_amk_recipt_controller_skalp_text</text>
     </article>
-	
-	
-<!-- ÝÒÎ ÌÎÈ -->
- <article id="prizrak_nagrada" name="Òàéíèê ó âåðòîëåòà" group="tainik">
+
+
+<!-- to moje -->
+ <article id="prizrak_nagrada" name="Schowek helikoptera" group="tainik">
 <text>prizrak_nagrada_text</text>
     </article>
-	
-<article id="nyuton" name="Íüþòîí" group="Çàìåòêè">
+
+<article id="nyuton" name="Niuton" group="Notatki">
 <text>nyuton_text</text>
-    </article>	
-	
-<article id="nina_vstrecha" name="Íèíà ïðî àðòåôàêò 'Ãóáêà'" group="Çàìåòêè">
+    </article>
+
+<article id="nina_vstrecha" name="Nina o artefakcie G¹bka" group="Notatki">
 <text>nina_vstrecha_text</text>
-    </article>	
-	
-<article id="sid_pro_dok" name="Áîëîòíûé Äîêòîð" group="Çàìåòêè">
+    </article>
+
+<article id="sid_pro_dok" name="Lekarz Bagienny" group="Notatki">
 <text>sid_pro_dok_text</text>
-    </article>		
-	
-	
-<article id="infa_pro_hud" name="Äåòåêòîðû Àðòåôàêòîâ" group="Çàìåòêè">
+    </article>
+
+
+<article id="infa_pro_hud" name="Wykrywacze artefaktów" group="Notatki">
 <text>infa_pro_hud_text</text>
-    </article>		
-	
-<article id="infa_pro_blst" name="Ñõðîí ×¸ðíîãî Ñòàëêåðà" group="Çàìåòêè">
+    </article>
+
+<article id="infa_pro_blst" name="Skrytka Czarnego Stalkera" group="Notatki">
 <text>infa_pro_blst_text</text>
-    </article>	
-	
-	
-	
+    </article>
